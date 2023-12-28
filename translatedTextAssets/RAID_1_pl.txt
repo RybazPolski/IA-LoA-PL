@@ -1,0 +1,91 @@
+KEY,"English"
+
+
+
+
+
+
+
+RAID_1_DESCRIPTION,"[i]Your trusted contact provided detailed blueprints to an Imperial communications outpost. The facility will be vulnerable during maintenance, but not defenseless.\n
+Gear up and hit the Imperials as hard as you can![/i]\n
+Each hero starts with a 1 and 2XP Class card. Assign these on the training screen and spend credits at the armory before beginning this raid."
+RAID_1_PROLOGUE,"[i]You gather around the holoprojector to receive the latest encrypted message.\n
+""Agents,"" the familiarly distorted figure addresses you, ""a strike team recently acquired blueprints to an Imperial communications outpost on Malastare. In three days, the facility is scheduled for routine maintenance and its perimeter detection will be disabled. Infiltrate the facility and gather whatever intel you can.\n
+""Expect resistance. Operational funds have been transferred to your accounts.\n
+""Fulcrum out.""[/i]\n\n
+Each hero starts with a 1 and 2XP Class card. Assign these on the training screen and spend your credits at the armory before beginning this raid."
+
+
+RAID_1_EPILOGUE_DEFEAT,"You died."
+RAID_1_EPILOGUE_VICTORY,"You survived."
+RAID_1_TILES,"[i]Crawling through a twisting network of ventilation tunnels you take the opportunity to chart the outpost.[/i]\n\nPlace tiles 01A, 03A, 04A, 05A, 06A, 07A, 01A, 02A, 05A, 10A, 25A, 27A, 31A, 32A(2), 33A, 35A(2), and 36A(4)."
+RAID_1_CRATES,"[i]Some very valuable supplies have been left unlocked.[/i]\n\nPlace 4 crates."
+RAID_1_TOKENS,"[i]Scanning for Imperial intel, you note several promising locations.[/i]\n\nPlace 3 blue, 3 green, 3 red, and 3 yellow mission tokens.\n\nSee the rules for mission tokens at the bottom of the screen."
+RAID_1_RULE,"Mission tokens are intel. A hero can interact with intel to gather it.
+-----------------------------------------------------
+Gathering intel requires a test, based on the intel's color, that increases fame earned:
+• Red:      
+• Blue:     
+• Yellow:  
+• Green:  Any"
+RAID_1_STORMTROOPERS,"[i]Imperial forces patrol the shadowy facility.[/i]\n\nDeploy Stormtroopers (Regular)."
+RAID_1_DEPLOY,"[i]Ready for a fight, you kick the ventilation grate to the floor and leap into battle.[/i]\n\nDeploy the Rebels.{0}{1}"
+RAID_1_FOCUS,"\n\nFocus 1 hero."
+RAID_1_GAINED_MEDPAC,"\n\nYou gained 1 medpac."
+RAID_1_OBJECTIVE_UPDATE,"[i]The reports were clear that you'd only have six minutes before you need to get out. [/i]\n\n Objective Updated \n\n{0}"
+RAID_1_OBJECTIVE,"Defeat as many Imperial groups and gather as much intel as possible in 6 rounds."
+RAID_1_VILLAIN,"[i]You recognize a villainous silhouette from the briefing holorecordings.[/i]"
+RAID_1_REINFORCE,"[i]Reinforcements join the battle.[/i]"
+
+RAID_1_WARNING_1,"[i]Using pilfered clearance codes, you listen in on enemy comm channels. ""Delay the intruders,"" an Imperial dispatcher advises. ""Reinforcements are en route"".[/i]\n\nImperial reinforcements will arrive after the next round."
+RAID_1_WARNING_3,"[i]The Imperial channel crackles again as more reinforcements arrive outside the facility. You glance at your chronometers: 3 minutes left.[/i]\n\nReinforcements will arrive after the next round.\n\nThe mission will end after 3 more rounds."
+RAID_1_WARNING_4,"[i]""More backup on the way,""  the Imperial dispatcher inadvertently warns you.[/i]\n\nReinforcements will arrive after the next round.\n\nThe mission will end after 2 more rounds."
+RAID_1_WARNING_5,"[i]""All nearby forces now responding,"" the Imperial dispatcher relays. ""We'll get those Rebels now!""\n\nYou hear several ships landing outside and race to complete your raid.[/i]\n\nThe mission will end after this round."
+RAID_1_TOKEN_ANY,"[i]Imperial intel sits completely unprotected.[/i]\n\nA hero can interact with this token to steal the intel.\n, , or  increases fame."
+RAID_1_TEST_ANY,"[i]You approach the intel.[/i]\n\nTest , , or ."
+RAID_1_PASS_ANY,"[i]You easily raid the Empire's data.[/i]\n\nYou gained {0} fame.\n\nDiscard this token."
+RAID_1_FAIL_ANY,"[i]You raid some of the Empire's data before security protocols interfere.[/i]\n\nYou gained {0} fame.\n\nDiscard this token."
+
+RAID_1_TOKEN_STR,"[i]Imperial intel sits behind a thick security grate.[/i]\n\nA hero can interact with this token to steal the intel.\n increases fame."
+RAID_1_TEST_STR,"[i]You pry at the grate.[/i]\n\nTest ."
+RAID_1_PASS_STR,"[i]You easily rip the intel from its secure location.[/i]\n\nYou gained {0} fame.\n\nDiscard this token."
+RAID_1_FAIL_STR,"[i]You tear the grate aside, but lightly damage some of the intel.[/i]\n\nYou gained {0} fame.\n\nDiscard this token."
+
+RAID_1_TOKEN_TEC,"[i]Imperial intel is guarded by encryption protocols.[/i]\n\nA hero can interact with this token to steal the intel.\n increases fame."
+RAID_1_TEST_TEC,"[i]You slice the encryption.[/i]\n\nTest ."
+RAID_1_PASS_TEC,"[i]You easily transfer the intel to your own datapad.[/i]\n\nYou gained {0} fame.\n\nDiscard this token."
+RAID_1_FAIL_TEC,"[i]You infiltrate the device, but can only recover some of the intel.[/i]\n\nYou gained {0} fame.\n\nDiscard this token."
+
+RAID_1_TOKEN_INS,"[i]Imperial intel is scattered among mundane logistics logs.[/i]\n\nA hero can interact with this token to steal the intel.\n increases fame."
+RAID_1_TEST_INS,"[i]You rummage through the data.[/i]\n\nTest ."
+RAID_1_PASS_INS,"[i]You quickly identify the important intel.[/i]\n\nYou gained {0} fame.\n\nDiscard this token."
+RAID_1_FAIL_INS,"[i]You narrow the search, but ultimately swipe a random stack of logs into your pack.[/i]\n\nYou gained {0} fame.\n\nDiscard this token."
+
+RAID_1_CRATE_INFO_1,"[i]A medpac and spare helmet rest in an open crate.[/i]\n\nA hero can interact with this crate to open it."
+RAID_1_CRATE_CONTENTS_1,"[i]You toss the medpac in your pack and try on the helmet. A perfect fit![/i]\n\nGain the Reinforced Helmet (Tier III) from the item deck.\n\nYou gained 1 medpac.\n\nDiscard this token."
+RAID_1_CRATE_INFO_2,"[i]A shield unit lies among Imperial supplies.[/i]\n\nA hero can interact with this crate to open it."
+RAID_1_CRATE_CONTENTS_2,"[i]You gather the haul.[/i]\n\nGain the Personal Shields (Tier III) from the item deck.\n\nDraw 2 supply cards.\n\nDiscard this token."
+RAID_1_CRATE_INFO_3,"[i]Heavy armor obscures your view of the Imperial supply cache.[/i]\n\nA hero can interact with this crate to open it."
+RAID_1_CRATE_CONTENTS_3,"[i]You strap on your new armor and reach for the supply.[/i]\n\nGain the Laminate Armor (Tier III) from the item deck.\n\nDraw 1 supply card.\n\nDiscard this token."
+RAID_1_CRATE_INFO_4,"[i]A medical crate sits open, revealing medpacs and a supply you can't quite make out.[/i]\n\nA hero can interact with this crate to open it."
+RAID_1_CRATE_CONTENTS_4,"[i]You collect the supplies.[/i]\n\nDraw 1 supply card.\n\nYou gained 2 medpacs.\n\nDiscard this token."
+RAID_1_HERO_DEFEATED,"[i]You lose some of your intel as you collapse.[/i]\n\nYou lost {0} fame."
+
+RAID_1_END,"[i]Before the overwhelming Imperial reinforcements swarm the facility, you drop into the maintenance tunnels and exit the outpost through a disabled exhaust port.[/i]"
+RAID_1_DEFEAT,"[i]Overwhelmed, you drop into the maintenance tunnels and exit the outpost through a disabled exhaust port.[/i]\n\nYou lost {0} fame."
+RAID_1_STATS,"Total Fame: {0}
+---------------------------------------------------------
+Objectives
+Base: {1}           Bonus: {2}\n
+Fame from Enemies: {3}\n
+Penalties from Defeated Heroes: {4}"
+RAID_1_HEALTH_REMAINING,"PLAYTESTERS ONLY\n\nIf healthy, how much Health does {0} have left?"
+RAID_1_HEALTH_REMAINING_2,"PLAYTESTERS ONLY\n\nIf wounded, how much  has {0} SUFFERED?"
+RAID_1_HEALTH_1,"0–5"
+RAID_1_HEALTH_2,"6–10"
+RAID_1_HEALTH_3,"11–15"
+RAID_1_HEALTH_4,"16+"
+RAID_1_HEALTH_WOUNDED,"The hero was wounded."
+RAID_1_HEALTH_WITHDRAWN,"The hero was withdrawn."
+
+RAID_1_SURVIVAL,"Survival Score: {0}"
