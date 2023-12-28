@@ -1,0 +1,1099 @@
+KEY,"English"
+C_03_PROLOGUE,"[i]In the frozen trenches of Hoth, you fight valiantly to buy time for Echo Base to be evacuated. You can only watch as the shield generator is destroyed by the overwhelming Imperial AT-AT assault. You scramble to reach your transport, but the Empire breaks the Rebel lines and cuts off your escape. In the ensuing skirmish, your commander gives his life covering your retreat into the mountains.
+
+In the days following the battle, a new Imperial general takes charge of hunting down survivors like yourselves. Separated from the rest of the Rebellion and running low on supplies, you plan a risky incursion back into Echo Base, now under Imperial control, to look for a way to rejoin the fleet....[/i]"
+M_31_NAME,"Return to Echo Base"
+M_31_DESC,"Intro"
+M_31_INTRO,"[i]Wind-whipped ice stings your face as you trek across frozen fields back toward Echo Base.
+
+""I can't feel my toes anymore,"" says Corporal Kish. You crossed paths with Kish and his superior officer, Lieutenant Talcon, a couple of days back. They had also been left behind in the evacuation. ""I don't know how much farther I can go,"" Kish adds.[/i]"
+M_31_INTRO_2,"[i]""Keep moving those legs, soldier,"" says Talcon, a human female and the highest ranking officer in your small group of Rebels. She stops and turns to {0}. ""Take point for a while.""
+
+As you continue to trudge forward, Talcon waits a moment to let Kish catch up. ""We're nearly at the trench line,"" she says with a reassuring pat on Kish's shoulder. ""We might be able to find a heater there to thaw us out a bit.""[/i]"
+M_31_TILE_PLACE,"[i]A few minutes later, you come across what had been the front lines of the battle. The devastation seems worse than you remember.[/i]\n\nPlace tiles 03A, 04A, 06A, 09A, 11A, 12A, 18A, and 20A (3)."
+M_31_CRATES,"[i]Several crates of supplies were left behind in the hasty retreat.[/i]\n\nPlace 4 crates."
+M_31_DEPLOY_SNOWTROOPERS,"[i]""Let's see what's in those...,"" Lieutenant Talcon begins, but is interrupted by the sound of blaster fire. It's an Imperial ambush![/i]\n\nDeploy Snowtroopers (Regular)."
+M_31_DEPLOY_STORMTROOPERS,"Deploy Stormtroopers (Regular)."
+M_31_TURRET_PLACE,"[i]This laser turret looks pretty beat up, but appears to be in working order. It could be used against the Imperial patrol.[/i]\n\nPlace 2 blue Rebel mission tokens. {0}"
+M_31_DEPLOY_REBELS,"[i]As you and your trooper companions ready your weapons to fight, Talcon presses a datachip into {0}'s hand.\n\n""Take this,"" she says. ""If something happens to me, you can find haven here. Tell them Myra sent you."" You don't have time to ask her to elaborate as you turn your attention to the Imperials.[/i]\n\nDeploy the Rebels and Echo Base Troopers (Regular)."
+M_31_OBJECTIVE_UPDATED_1,"[i]You must take out the Imperials quickly before they can report your presence to their base.[/i]\n\n Objective Updated \n\n{0}"
+M_31_OBJECTIVE_1,"Defeat all Imperial figures."
+M_31_CRATE,"[i]A crate of provisions from the battle sits in the protection of the trench.[/i]\n\nA hero can interact with this crate to open it."
+M_31_CRATE_BOULDERS,"[i]A crate marked ""Explosives"" sits near the pile of boulders.[/i]\n\nA hero can interact with this crate to open it."
+M_31_CRATE_BOULDERS_OPEN,"[i]The crate is indeed packed with explosives.[/i]\n\nSearch the Supply deck and discard pile for up to 2 [i]Explosive[/i] Supply cards and gain those cards. Shuffle the Supply deck."
+M_31_CRATE_SPEEDER,"[i]The cockpit of this crashed snowspeeder might have something useful in it.[/i]\n\nA hero can interact with this crate to open it."
+M_31_BOULDERS_PLACE,"[i]You recall from your training that slow-moving objects are capable of penetrating energy shields. Perhaps you could put those boulders to good use.[/i]\n\nPlace 2 red Rebel mission tokens. {0} To do this, select a neutral mission token in the app."
+M_31_BOULDERS,"[i]A pile of boulders sits precariously beside a crevasse, posing a danger to those who pass below. It'll take some muscle, but you could start an avalanche to crush anything unlucky enough to be caught in its way.[/i]\n\nSpaces containing neutral mission tokens are blocking terrain.\n\n{0}"
+M_31_BOULDERS_RULES,"While the SC2-M Repulsor Tank occupies 1 or more spaces with a red Rebel mission token, a hero in a highlighted space can interact to attempt to start a landslide."
+M_31_BOULDERS_NO_PUSH,"[i]A pile of boulders sits precariously beside a crevasse, posing a danger to those who pass below.[/i]\n\n{0}Spaces containing neutral mission tokens are blocking terrain."
+M_31_BOULDERS_NO_PUSH_PLACE,"Place 4 neutral mission tokens. "
+M_31_BOULDERS_TEST,"[i]You attempt to start a landslide.[/i]\n\nTest . After rolling, you may discard 1 [i]Explosive[/i] Supply card to add 2 to the test results."
+M_31_BOULDERS_FAIL,"[i]You strain and struggle against the lowest boulders, hoping to start the slide, but they won't budge. Perhaps some explosives would help loosen up the rocks.[/i]"
+M_31_BOULDERS_PASS,"[i]The rocks begin tumbling down into the crevasse below, smashing through the tank's shield and crushing it under their weight.[/i]\n\nThe SC2-M Repulsor Tank is defeated."
+M_31_BOULDERS_DISCARD_TOKENS,"[i]With the tank defeated, all that remains is to finish off the rest of the patrol.[/i]\n\nDiscard the terminal and the red Rebel mission tokens."
+M_31_TOW_CABLE,"[i]The tow cable on this downed snowspeeder appears to still be in working order. It might assist you in your plan, but will require a good eye in order to hit a moving target like the tank.[/i]\n\nA hero can interact with this terminal to fire the tow cable. (This does not require line of sight to the tank.)"
+M_31_TOW_CABLE_TEST,"[i]You take aim at the tank and fire...[/i]\n\nTest ."
+M_31_TOW_CABLE_FAIL,"[i]The tow cable misses wide as the tank turns out of the way. You reel it back in to try again.[/i]"
+M_31_TOW_CABLE_PASS,"[i]The tow cable impacts the side of the tank with a magnetic [/i]thunk[i], bringing the vehicle to a lurching stop. The tank tries to break free, but the crashed speeder holds steady. Eventually the driver throttles down to keep from burning out the engine.[/i]\n\n{0}"
+M_31_TOW_CABLE_ATTACHED,"[i]The repulsor tank is being held in place by the tow cable of this crashed snowspeeder.[/i]\n\n{0}"
+M_31_TOW_CABLE_RETRACT,"A hero can interact with this terminal to push the tank."
+M_31_TOW_CABLE_RETRACT_TEST,"[i]You attempt to use the tow cable to reposition the tank.[/i]\n\nTest ."
+M_31_TOW_CABLE_RETRACT_PASS_1,"Push the SC2-M Repulsor Tank 1 space. In addition, you may rotate it once before or after this push."
+M_31_TOW_CABLE_RETRACT_PASS,"Push the SC2-M Repulsor Tank up to 2 spaces. In addition, you may rotate it once during this push."
+M_31_TOW_CABLE_RETRACT_FAIL,"Rotate the SC2-M Repulsor Tank or push it one space."
+M_31_TURRET_RULES,"This is the turret. A Rebel can interact with a blue Rebel mission token (ignoring blocking terrain) to fire the turret at any Imperial figure on the map."
+M_31_TURRET_RULES_BOULDERS,"\n\nWhile the SC2-M Repulsor Tank occupies 1 or more spaces with a red Rebel mission token, a Rebel can fire at the boulders to assist in starting a landslide."
+M_31_TURRET,"[i]This DF.9 Anti-Infantry Battery has taken a beating, but looks like it will still fire.[/i]\n\n{0}{1}"
+M_31_TURRET_FIRE_BUTTON_1," Fire at Imperials."
+M_31_TURRET_FIRE_BUTTON_2," Fire at the tank."
+M_31_TURRET_FIRE_BUTTON_3," Fire at another target."
+M_31_TURRET_FIRE_BUTTON_4," Fire at boulders."
+M_31_TURRET_FIRE,"[i]You take aim with the turret.[/i]\n\nChoose an Imperial figure anywhere on the map and roll 1 red die. The chosen figure suffers  equal to the  results."
+M_31_TURRET_RECHARGE,"[i]The shot has drained one of the turret's power cells. It'll take some time for it to recharge.[/i]\n\nFlip this token to its Imperial side."
+M_31_TURRET_RECHARGING,"[i]This power cell is recharging. The laser cannon can't be fired from this power cell right now.[/i]"
+M_31_TURRET_RECHARGED,"[i]The turret's power cell has recharged and is ready to fire again.[/i]\n\nFlip each blue Imperial mission token to its Rebel side."
+M_31_TURRET_FIRE_TANK,"[i]You take aim at the tank and pull the trigger. A bolt of red energy flies at the tank, but is deflected harmlessly by a shimmering energy field.\n\nIt seems even the turret will be unable to penetrate the tank's defenses. You'll have to figure out another way to take it down.[/i]"
+M_31_TURRET_FIRE_BOULDERS,"[i]You take aim at the boulders perched above the ravine.[/i]\n\nRoll 1 red die. Enter the  results below."
+M_31_TURRET_BOULDERS_HIT,"[i]The blast from the turret strikes the boulders, sending cracks and fissures through the rock. It will now be easier to start a landslide.{0}[/i]"
+M_31_TURRET_BOULDERS_HIT_FINAL,"\n\nYou're concerned another shot might just obliterate the boulders, so you decide to refrain from taking more shots. Someone will have to finish the job by hand."
+M_31_TANK_ACTIVATION," [b]Attack[/b] 2 different Rebels. Target « the healthy Rebel adjacent to the most other Rebels ».\n
+ [b]Move 4[/b] to [b]attack[/b] « the healthy Rebel adjacent to the most other Rebels ».\n
+ [b]Move 8[/b] toward the closest Rebel.\n
+ [b]Move 2[/b] toward the closest Rebel."
+M_31_TANK_ACTIVATION_IMMOBILE," [b]Attack[/b] 2 different Rebels. Target « the healthy Rebel adjacent to the most other Rebels ».\n
+ [b]Attack[/b] « the healthy Rebel adjacent to the most other Rebels ».\n
+ [b]Bombard:[/b] The healthy hero that has suffered the least  rolls 1 red die. That hero suffers  equal to the  results.\n
+ [b]Bombard:[/b] The healthy hero that has suffered the least  rolls 1 red die. That hero suffers  equal to the  results."
+M_31_OFFICER_ACTIVATION," [b]Order[/b]: The SC2-M Repulsor Tank [b]attacks[/b] « {0} ».\n
+ [b]Move 2[/b] to [b]attack[/b] « the closest Rebel ».\n
+ [b]Move 4[/b] toward the SC2-M Repulsor Tank.\n
+• [b]Cower[/b]: If adjacent to another Imperial figure, recover 2."
+M_31_MORE_SNOWTROOPERS,"[i]A squad of snowtroopers trudge into sight.[/i]\n\nDeploy Snowtroopers. This group is exhausted."
+M_31_REINFORCEMENTS,"[i]More patrolling Imperials join the firefight![/i]"
+M_31_TANK_ARRIVES,"[i]A repulsor tank appears from behind a snowbank, blasting away with its double laser cannons.[/i]\n\nDeploy the SC2-M Repulsor Tank."
+M_31_TANK_CANNOT_BE_DEFEATED,"[i]Your weapons won't be effective against a well-armored target. Perhaps the turret laser has enough power to take the tank down.[/i]\n\nThe SC2-M Repulsor Tank cannot suffer . A Rebel can interact with the turret to fire it at the tank."
+M_31_OFFICER,"[i]""Finally!"" an Imperial officer calls out. ""A test for General Sorin's new tank! Driver, destroy them!""[/i]\n\nDeploy an Imperial Officer (Regular) with +{0} Health."
+M_31_MINOR_PERIL,"[b]Minor Peril[/b]\n\n[i]Even with the physical activity of combat, the freezing weather takes its toll on you.[/i]\n\nEach hero rolls 1 blue die for each of his or her activation portraits and suffers  equal to the  results."
+M_31_MAJOR_PERIL,"[b]Major Peril[/b]\n\n[i]The sun sinks below the horizon, bathing the ice world in twilight. With the fading of the light, the cold bite of the wind increases.[/i]\n\nEach hero rolls 1 blue die for each of his or her activation portraits and suffers  equal to the  results and  equal to the  results."
+M_31_DEADLY_PERIL,"[b]Deadly Peril[/b]\n\n[i]Temperatures plunge in the dark of night.[/i]\n\nEach hero rolls 1 blue die for each of his or her activation portraits and suffers  equal to the  and  results."
+M_31_EBT_DEFEATED,"[i]Talcon drops to her knees, arms covering the wound in her abdomen. ""Find... haven...,"" she stammers before collapsing face-first into the snow.[/i]"
+M_31_LOSE,"[i]The Imperial forces prove too strong for you and you are forced to retreat back into the snowy mountains surrounding Echo Base.{0}[/i]"
+M_31_LOSE_ALLIES," In your hasty retreat, you lose track of your trooper companions. You can only wonder if they made it out alive."
+M_31_LOSE_TANK,"You have never encountered anything like that tank before. It clearly poses a new threat to the Rebellion, and you might be the only Rebels aware of its existence.\n\nYour hopes of getting off this planet alive seem much dimmer now, but with the knowledge you carry about this new tank, it is that much more vital that you escape."
+M_31_LOSE_BEFORE_TANK,"As you withdraw, you notice a tank unlike any you've ever seen before join up with the Imperial forces. This tank clearly poses a new threat to the Rebellion, and you might be the only Rebels aware of its existence.\n\nYour hopes of getting off this planet alive seem much dimmer now, but with the knowledge you carry about the existence of this new tank, it is that much more vital that you escape."
+M_31_WIN,"[i]With the last of the Imperials dispatched, you finally have time to regroup.[/i]\n\nHow many Echo Base Troopers are on the map?"
+M_31_TROOPERS_SURVIVE_0,"[i]You rush to the sides of your fallen comrades, Talcon and Kish. You are too late for Kish, but find Talcon is still breathing. As you drop to your knees next to her, you discover she is bleeding profusely from her side.\n\n""It's... too late... for me,"" she gasps, grabbing the arm of {0} with her blood-soaked hand. ""Remember... haven... Tell Benex... I... I..."" She goes limp before she can finish her message."
+M_31_TROOPERS_SURVIVE_1,"[i]""That was quick thinking,"" Lieutenant Talcon says to you. ""I think even Commander Skywalker would have been impressed."" Talcon kneels down next to her fallen comrade and passes a gloved hand over his face, closing his eyes. After a moment of silence, she stands back up.\n\n""We need to keep moving. The Imperials will be back, and in greater numbers.""[/i]\n\nYou gained 5 fame for saving Lieutenant Talcon."
+M_31_TROOPERS_SURVIVE_2,"[i]""That was quick thinking,"" Lieutenant Talcon says to you. ""I think even Commander Skywalker would have been impressed."" Talcon looks over her shoulder at her fellow trooper. ""You doing all right, Kish?"" He grimaces as he pulls a bandage tight around his injured arm, but nods.\n\n""We need to keep moving,"" Talcon continues. ""The Imperials will be back, and in greater numbers.""[/i]\n\nYou gained 10 fame for saving Lieutenant Talcon and Corporal Kish."
+M_31_BOULDERS_VICTORY,"[i]You take a moment to inspect the remains of the tank. You have never encountered anything like it before. You got lucky this time, but if there are more tanks like this one, they will pose a threat to the Rebellion. You will need to find a more reliable way of taking these tanks down in the future. But first, you need to find a way off this snowball.[/i]"
+M_32_NAME,"Escape from Hoth"
+M_32_DESC,"[i]Your only chance at leaving Hoth's frozen wastes is to find a ship in the now Imperial-controlled Echo Base.\n\nHopefully, the frightening reports from troopers who scouted the maze of icy tunnels that run beneath the base were all exaggerated.[/i]"
+M_32_PATH_INFO,"[i]This tunnel leads... somewhere.[/i]\n\nWhile a Rebel is in one of these highlighted spaces, select ""Explore"" to explore this path."
+M_32_PATH_EXPLORE,"Explore"
+M_32_SNOW_RULE,"Neutral mission tokens are snow. Snow is blocking terrain.
+---------------------------------------------------------
+A Rebel adjacent to snow can interact () to test . Place  tokens equal to the  on that snow.\n
+Then, if that snow has  tokens equal to or greater than its color below, select it in the app to clear it:
+• Blue: 0        • Green: 1
+• Yellow: 2        • Red: 3\n
+Any number of times during this test, the Rebel may suffer 1 to reroll 1 die."
+M_32_SNOW_RULE_LITE,"Neutral mission tokens are snow. Snow is blocking terrain.
+---------------------------------------------------------
+A Rebel adjacent to snow can interact () to test . Place  tokens equal to the  on that snow.\n
+Then, if that snow has  tokens equal to or greater than its color below, select it in the app to clear it:
+• Blue: 0    • Green: 1    • Yellow: 2\n
+Any number of times during this test, the Rebel may suffer 1 to reroll 1 die."
+M_32_SNOWTROOPER_TIP_RULE,"When a Snowtrooper would be defeated, tip it over in its space instead. Tipped over figures:\n
+• Cannot perform activations or use abilities\n
+• Cannot be targeted by abilities or attacks\n
+• Do not block line of sight."
+M_32_WAMPA_ACTIVATION_OVERRIDE," [b]Move 5[/b] to engage as many non-Wampa figures (including Imperial figures) as possible (minimum 1). Then [b]attack[/b] the non-Wampa figure with the least health remaining.\n
+ [b]Move 2[/b] toward the closest non-Wampa figure.\n
+ [b]Move 6[/b] toward the closest non-Wampa figure.\n
+• [b]Hunger:[/b] If this figure did not attack, it suffers 2 and becomes Focused."
+M_32_WAMPA_OVERRIDE_DENGAR," [b]Move 5[/b] to [b]attack[/b] Dengar.\n
+ [b]Move 5[/b] to engage as many non-Wampa figures (including Imperial figures) as possible (minimum 1). Then [b]attack[/b] the non-Wampa figure with the least health remaining.\n
+ [b]Move 2[/b] toward the closest non-Wampa figure.\n
+ [b]Move 6[/b] toward the closest non-Wampa figure.\n
+• [b]Hunger:[/b] If this figure did not attack, it suffers 2 and becomes Focused."
+M_32_SNOW_ACTIVATION_OVERRIDE," [b]Move 3[/b] to [b]attack[/b] « {0} ».\n
+ [b]Move 3[/b] to [b]engage[/b] the closest  figure that has suffered .\n
+• [b]Environmental Recovery Gear:[/b] Each  figure within 2 spaces recovers 1.\n
+ [b]Move 2[/b] {2}\n
+ [b]Move 6[/b] {2}"
+M_32_SNOW_BONUS_OVERRIDE,"Tipped over Snowtroopers cannot activate."
+M_32_SORIN_ACTIVATION_OVERRIDE," A Probe Droid (regular or elite) interrupts to [b]attack[/b] « the closest healthy hero ».\n
+ A different Probe Droid (regular or elite) interrupts to [b]attack[/b] « the closest healthy hero ».\n
+ [b]Move 3[/b] to [b]attack[/b] « the closest healthy hero ».\n
+ [b]Move 3[/b] to [b]reposition 4[/b]."
+M_32_SORIN_BONUS_OVERRIDE,"When a Probe Droid attacks during this activation, it uses this figure's surge abilities and priority."
+M_32_OBJECTIVE_0,"Avoid Imperial detection and reach the caves."
+M_32_OBJECTIVE_1,"Defeat all Imperial figures!"
+M_32_OBJECTIVE_1.1,"Explore deeper into the caves."
+M_32_OBJECTIVE_3,"Clear a way through the snow, then choose a path to explore."
+M_32_OBJECTIVE_3.1,"Defeat the Probe Droid!"
+M_32_OBJECTIVE_5,"Use Sorin's security terminal."
+M_32_OBJECTIVE_6,"Release all of the shuttle locks."
+M_32_OBJECTIVE_4_WAMPAS,"Defeat the Wampas!"
+M_32_OBJECTIVE_PATH,"Choose a path to explore."
+M_32_OBJECTIVE_WAMPA,"Defeat the Wampa!"
+M_32_INTRO,"[i]The Rebellion's maps of Hoth's surface were woefully incomplete. You reach the small cave beneath Echo Base tired, cold, and hungry.\n\nHuddled under the wreckage of a T-47 airspeeder, you try to enjoy some of your dwindling rations. Suddenly, you hear the unfortunately familiar sound of Imperial blaster fire. Unwilling to risk a prolonged fight under open skies, you rush into the cave.[/i]"
+M_32_INTRO_TILES,"[i]The icy cave offers welcome protection from the biting winds.[/i]\n\nPlace tiles 01A, 09A, 19A, and 20A."
+M_32_INTRO_SNOWTROOPERS,"[i]A squad of snowtroopers, seemingly unbothered by the freezing temperature, catches up with you first.[/i]\n\nDeploy Snowtroopers (Regular)."
+M_32_INTRO_RANDOM,"[i]Other Imperial forces arrive moments later.[/i]"
+M_32_INTRO_DEPLOY_HEROES,"[i]You take combat positions near a group of frozen stalagmites.[/i]\n\nDeploy the {0}"
+M_32_INTRO_STRING_0,"Rebels."
+M_32_INTRO_STRING_1,"Rebels and 1 Echo Base Trooper (Regular) as an ally."
+M_32_INTRO_STRING_2,"Rebels and the Echo Base Troopers (Regular) as allies."
+M_32_INTRO_OFFICER,"[i]Out of breath, an Imperial Officer stumbles through the snow last, ""Forward... men! Blast these... Rebels!""[/i]\n\nDeploy an Imperial Officer (Regular). Assign it a color."
+M_32_INTRO_OBJ_1,"[i]You could outrun most Imperials, but those snowtroopers look better adapted to the icy caves than you.[/i]\n\n  Objective Updated  \n\n{0}"
+M_32_CAVE_1_CLEAR,"[i]The cave splits down two tunnels. Your commander used to say that these tunnels were impossible to map.[/i]\n\nWhile a Rebel is in a highlighted space, select those spaces to explore that path.\n\n  Objective Updated  \n\n{0}"
+M_32_SET_ASIDE_CAVE_1,"[i]You venture into the cave system.[/i]\n\nSet the map aside."
+M_32_CAVE_2_TILES,"[i]You follow the winding tunnel to a small cave with a crystal-clear pool.[/i]\n\nPlace tiles 07A and 11A."
+M_32_CAVE_2_SNOW,"[i]Snow has piled deep in the center of the cave.[/i]\n\nPlace 5 colored mission tokens as indicated on the map. These are snow.\n\nSee the rules for snow at the bottom of the screen."
+M_32_CAVE_2_SNOW_REMINDER,"[i]Uncleared snow still lingers.[/i]\n\nPlace colored mission tokens as indicated on the map."
+M_32_CAVE_2_EXITS,"[i]On the other side of the cave, two more paths lie before you.[/i]"
+M_32_CAVE_2_DEPLOY_HEROES,"[i]You enter the cave and try to get your bearings.[/i]\n\nDeploy the Rebels."
+M_32_CAVE_2_OBJ,"[i]You look around for distinctive markings, but nothing suggests which path leads to Echo Base.[/i]\n\nA new round has started.\n\n  Objective Updated  \n\n{0}"
+M_32_CAVE_2_DEPLOY_HEROES_2,"[i]You enter the familiar cave and try to get your bearings.[/i]\n\nDeploy the Rebels."
+M_32_CAVE_2_DISCARD_SNOW,"[i]Suddenly, snow flies everywhere![/i]\n\nDiscard any snow in the indicated spaces."
+M_32_CAVE_2_WAMPA,"[i]A hulking beast charges through the snow![/i]\n\nDeploy a Wampa (Regular)."
+M_32_CAVE_2_OBJ_2,"[i]You prepare for battle.[/i]\n\nA new round has started.\n\n  Objective Updated  \n\n{0}"
+M_32_CAVE_1_RANDOM_DEFEATED_ICE,"[i]You recall your slide down the icy path.[/i]\n\nThe indicated path is unavailable."
+M_32_CAVE_1_RANDOM_DEFEATED_ICE_2,"[i]The only option is to head in the opposite direction.[/i]\n\n  Objective Updated  \n\n{0}"
+M_32_CAVE_1_RANDOM_DEFEATED_HOWL,"[i]As the battle ceases, loud howling echoes from one of the paths.[/i]\n\nThe indicated path is unavailable."
+M_32_CAVE_1_RANDOM_DEFEATED_HOWL_2,"[i]You wisely head the other direction.[/i]\n\n  Objective Updated  \n\n{0}"
+M_32_CAVE_SNOW_INFO,"[i]Snow is piled throughout the cave.[/i]\n\nWhen this snow has enough strain tokens (see the snow rules at the bottom of the screen), select ""Clear Snow."""
+M_32_CAVE_SNOW_SELECT_CLEAR,"Clear Snow"
+M_32_CAVE_SNOW_DISCARD,"Discard this snow."
+M_32_CAVE_2_SNOW_1,"[i]Buried under the snow, you find a sealed crate![/i]\n\nIf the activating figure is an ally, the closest hero draws any Supply cards."
+M_32_CAVE_2_SNOW_2,"[i]You shovel the heavy snow, but cut yourself on some sharp ice![/i]\n\nYou suffer 2."
+M_32_CAVE_2_SNOW_3,"[i]Beside a chunk of frozen tauntaun meat, you find a Rebel datapad. Scanning over maintenance logs, you encounter a warning:\n\n""The beasts occasionally creep into the base at night. Sections of the base are permanently locked down and should not be accessed under any circumstances.""[/i]\n\nYou gained 5 fame."
+M_32_CAVE_2_SNOW_4,"[i]You uncover frozen Wampa droppings...[/i]"
+M_32_CAVE_2_SNOW_5,"[i]Beneath the snow, you recover somebody's long-lost personal effects.[/i]\n\nYou gained 10 credits."
+M_32_SET_ASIDE_CAVE_2,"[i]You venture farther into the cave system.[/i]\n\nSet the map aside. (Leave any snow on the map.)"
+M_32_CAVE_3_TILES,"[i]You follow the winding tunnel to a cave filled with snow.[/i]\n\nPlace tiles 04A and 10A."
+M_32_CAVE_3_SNOW,"[i]It looks as if this cavern partially caved in, raining snow and ice everywhere.[/i]\n\nRandomly place 12 neutral mission tokens facedown as indicated. These are snow."
+M_32_CAVE_3_SNOW_FLIP,"[i]The snow is packed with differing amounts of ice, but you can't see all the way to the back.[/i]\n\nFlip snow in the indicated spaces to their colored sides.\n\nSee the rules for snow at the bottom of the screen."
+M_32_CAVE_3_EXITS,"[i]Over the field of snow, you see that this cave splits into three more paths.[/i]\n\nA new round has started.\n\n  Objective Updated  \n\n{0}"
+M_32_CAVE_3_DEPLOY,"[i]You approach the barricaded cavern, conscious of the howls echoing throughout the cave system.[/i]\n\nDeploy the Rebels."
+M_32_CAVE_3_SNOW_REMINDER,"[i]Uncleared snow still lingers.[/i]\n\nMission tokens remain as indicated on the map.\n\n(If tokens need to be replaced, place random neutral mission tokens facedown in the indicated spaces, then turn any snow that is not surrounded faceup.)"
+M_32_CAVE_3_DEPLOY_2,"[i]You approach the familiar cavern, worried that you're going in circles.[/i]\n\nDeploy the Rebels"
+M_32_CAVE_3_WAMPA,"[i]A shaggy beast lurches through the snow![/i]\n\nDeploy a Wampa (Regular)."
+M_32_CAVE_3_OBJ_2,"[i]You prepare for battle.[/i]\n\nA new round has started.\n\n  Objective Updated  \n\n{0}"
+
+M_32_CAVE_2_FAIL_TILES,"[i]Halfway down the tunnel, it turns to glare ice. You lose your footing and slide back to the cave entrance![/i]\n\nPlace tiles 01A, 09A, 19A, and 20A."
+M_32_CAVE_2_FAIL_DEPLOY,"[i]Tumbling over one another, you finally slide to a stop.[/i]\n\nDeploy the Rebels."
+M_32_CAVE_2_FAIL_RANDOM,"[i]It seems more Imperial forces came searching for you and have gotten lost themselves.[/i]"
+
+M_32_CAVE_2_BACK_TILES,"[i]You stumble back into the cave entrance again.[/i]\n\nPlace tiles 01A, 09A, 19A, and 20A."
+M_32_CAVE_2_BACK_DEPLOY,"[i]Looking down, you notice your own bootprints headed back the way you came.[/i]\n\nDeploy the Rebels."
+M_32_CAVE_2_DEFEAT_ALL_EXITS,"[i]You return your attention to the caves.[/i]\n\n  Objective Updated  \n\n{0}"
+M_32_CAVE_2_DEFEAT_ICE,"[i]You recall your slide down the icy path.[/i]\n\nThe indicated path is unavailable."
+M_32_CAVE_2_DEFEAT_ICE_2,"[i]You stand before two paths.[/i]\n\n  Objective Updated  \n\n{0}"
+M_32_CAVE_3_SNOW_1,"[i]You uncover frozen Wampa droppings...[/i]"
+M_32_CAVE_3_SNOW_2,"[i]You find discarded equipment buried in the snow![/i]\n\nDraw 1 Supply card.\n\nIf the activating figure is an ally, the closest hero draws a Supply card, instead."
+M_32_CAVE_3_SNOW_3,"[i]You accidentally shock yourself on an old power converter buried under the snow.[/i]\n\nRoll 2 yellow dice and suffer  equal to the  results."
+M_32_CAVE_3_SNOW_4,"[i]Intact medical supplies were preserved beneath some ice![/i]\n\nYou gained 1 medpac."
+M_32_CAVE_3_SNOW_5,"[i]You scrape your arm on something sharp! A deceased tauntaun's horn juts through the snow.[/i]\n\nRoll 1 red die and suffer  equal to the  results."
+M_32_CAVE_3_SNOW_6,"[i]You find more equipment beneath the snow![/i]\n\nDraw 1 Supply card.\n\nIf the activating figure is an ally, the closest hero draws a Supply card, instead."
+
+M_32_CAVE_3_SNOW_SHAKE,"[i]Something buzzes beneath the snow...[/i]"
+M_32_CAVE_3_SNOW_DROID,"[i]A trapped probe droid shakes the last snow from itself. Its frosted sensors take a moment to scan the room then it raises its weapons, unsure whether you or the Wampas pose the larger threat.[/i]\n\nDeploy a Probe Droid (Elite)."
+M_32_CAVE_3_SNOW_DROID_FLIP,"Flip any snow in the indicated spaces to their colored sides."
+M_32_CAVE_3_OBJ_PROBE,"[i]You prepare for battle.[/i]\n\nA new round has started.\n\n  Objective Updated  \n\n{0}"
+
+M_32_CAVE_SNOW_DISCARD_FLIP,"Discard this snow. Flip any snow in the indicated spaces to their colored sides."
+M_32_CAVE_3_DEFEAT_PROBE,"[i]The droid crashes into the snow once again. One of its now-powerless manipulator arms is grasping a datacard.\n\nYou slip the card from its grasp and return your attention to the caves.[/i]\n\n  Objective Updated  \n\n{0}"
+M_32_CAVE_3_DEFEAT_ICE,"[i]You recall your slide down the icy path.[/i]\n\nThe indicated path is unavailable."
+M_32_CAVE_3_DEFEAT_HOWL,"[i]You hear loud howling from one of the paths.[/i]\n\nThe indicated path is unavailable."
+M_32_CAVE_3_DEFEAT_OBJECTIVE,"[i]You return your attention to the caves.[/i]\n\n  Objective Updated  \n\n{0}"
+M_32_SET_ASIDE_CAVE_3,"[i]You venture farther into the cave system.[/i]\n\nSet the map aside. (Leave any snow on the map.)"
+M_32_CAVE_4_TILES,"[i]You follow the winding tunnel to a cave covered in huge clawprints in the snow.[/i]\n\nPlace tiles 02A, 13A,  and 19A."
+M_32_CAVE_4_CRATE,"[i]An unfortunate Rebel trooper is frozen, his lifeless legs embedded in the icy ceiling. His equipment still hangs from his belt.[/i]\n\nPlace 1 crate."
+M_32_CAVE_4_PROBE,"[i]A red scanner illuminates the walls as a probe droid circles into view.[/i]\n\nDeploy a Probe Droid (Regular)."
+M_32_CAVE_4_SNOWTROOPERS,"[i]Snowtroopers sweep the cave, presumably searching for you.[/i]\n\nDeploy Snowtroopers (Regular)."
+M_32_CAVE_4_DEPLOY,"[i]Ice cracks under your feet and the Imperials snap to battle.[/i]\n\nA new round has started.\n\nDeploy the Rebels."
+M_32_CAVE_4_HKS,"[i]The probe droid emits a red flash, and two assassin droids noiselessly respond to the distress signal.[/i]\n\nDeploy HK Assassin Droids (Regular)."
+M_32_CAVE_4_RANDOM,"[i]The scouting party calls additional backup.[/i]"
+M_32_CAVE_4_OBJ_FIGHT,"[i]You prepare for battle.[/i]\n\n  Objective Updated  \n\n{0}"
+M_32_CAVE_4_OBJ_FIGHT_2,"[i]You prepare for battle.[/i]\n\nA new round has started.\n\n  Objective Updated  \n\n{0}"
+
+M_32_CAVE_4_DEPLOY_2,"[i]You enter the large cave with the frozen ceiling again.[/i]\n\nDeploy the Rebels."
+M_32_CAVE_4_WAMPA,"[i]A Wampa looks back from sniffing your previously made bootprints.[/i]\n\nDeploy a Wampa (Regular)."
+M_32_CAVE_4_ELITE_WAMPA,"[i]An enormous Wampa turns from the frozen trooper and lets out an ear-shattering roar.[/i]\n\nDeploy a Wampa (Elite)."
+
+M_32_CAVE_3_FAIL_TILES,"[i]After a few steps, the tunnel turns to ice. You slide around dark twists before rolling out into a cavern.[/i]\n\nPlace tiles 07A and 11A."
+M_32_CAVE_3_FAIL_DEPLOY,"[i]You slide to a stop as you reach the cave.[/i]\n\nDeploy the Rebels."
+M_32_CAVE_3_FAIL_DISCARD_SNOW,"[i]You find some of the snow has been shoveled aside.[/i]\n\nDiscard any snow in the indicated spaces."
+M_32_CAVE_3_FAIL_RANDOM,"[i]A detachment of Imperial forces seems lost, themselves.[/i]"
+
+M_32_CAVE_3_BACK_TILES,"[i]You stumble into a familiar cave.[/i]\n\nPlace tiles 07A and 11A."
+M_32_CAVE_3_BACK_DEPLOY,"[i]Looking down, you notice your own bootprints headed back the way you came.[/i]\n\nDeploy the Rebels."
+M_32_CAVE_4_CRATE_INFO,"[i]Useful equipment glints from the unfortunately frozen trooper's belt.[/i]\n\nA hero can interact with this crate to open it."
+M_32_CAVE_4_CLEAR_EXITS,"[i]The air is slightly more breathable here. Hopefully one of these paths leads to Echo Base![/i]\n\n  Objective Updated  \n\n{0}"
+
+M_32_CAVE_4_DEFEAT_WAMPAS,"[i]The ravenous Wampas that prowl this frozen labyrinth are quiet for the moment. You return your attention to finding Echo Base.[/i]\n\n  Objective Updated  \n\n{0}"
+M_32_SET_ASIDE_CAVE_4,"[i]You finally feel a warm draft ahead.[/i]\n\nClear all set aside maps."
+M_32_CAVE_4_FAIL_TILES,"[i]You slip down another icy path.[/i]\n\nPlace tiles 04A and 10A."
+M_32_CAVE_4_FAIL_DEPLOY,"[i]You slip to the caved-in cavern.[/i]\n\nDeploy the Rebels."
+M_32_CAVE_4_FAIL_RANDOM,"[i]Another Imperial detachment seems as lost as you are.[/i]"
+M_32_CAVE_4_FAIL_FIGHT,"[i]You once again reach for your weapons.[/i]\n\nA new round has started.\n\n  Objective Updated  \n\n{0}"
+
+M_32_CAVE_4_BACK_TILES,"[i]You reach a familiar cave.[/i]\n\nPlace tiles 04A and 10A."
+M_32_CAVE_4_BACK_DEPLOY,"[i]As you enter the room, you realize you just backtracked along your own bootprints.[/i]\n\nDeploy the Rebels."
+
+M_32_ECHO_TILES,"[i]You emerge from the tunnels into a service pit beneath a hangar. Just above you sits a single custom shuttle.[/i]\n\nPlace tiles 06B, 08B, 16B, 17B(2), 20A, 20B(2), and 1 door."
+M_32_ECHO_CRATES,"[i]Old Rebel supplies are still scattered in crates.[/i]\n\nPlace 2 crates."
+M_32_ECHO_PLACE_TERMINAL,"[i]Scanning the room, you notice several locks holding the shuttle in place. Tracing wires up and down the walls, it seems they all lead back to a single terminal on your level.[/i]\n\nPlace 1 terminal."
+M_32_ECHO_SORIN,"[i]""I don't care where they run,"" an impatient voice admonishes a snowtrooper captain. ""My assignment is to hunt down Rebel survivors. My probes located them, my tanks flushed them out of their holes, now it's your job to finish them off.""[/i]\n\nDeploy General Sorin."
+M_32_ECHO_SNOWTROOPERS,"[i]""Yes, sir,"" the trooper responds.\n\nHe gathers his squad and relays the orders. ""Eyes sharp,"" the captain advises. ""The general doesn't care what's down in those caves, we're going in.""[/i]\n\nDeploy Snowtroopers (Regular)."
+M_32_ECHO_DEPLOY,"[i]Afraid of being pushed back into the tunnels, you stand your ground.[/i]\n\nA new round has started.\n\nDeploy the Rebels."
+M_32_ECHO_OBJECTIVE,"[i]""Sir! They're here!"" The captain shouts.\n\n""How lucky,"" the general mockingly responds. ""You didn't need to search the caves after all. Blast them!""\n\nDespite the general's nonchalance, you keep your focus on the shuttle's security.[/i]\n\n  Objective Updated  \n\n{0}"
+M_32_SORIN_RUNS,"[i]""I can't be bothered with this,"" General Sorin grumbles as he retreats. ""Get a gunner up here!"" he shouts down a flight of stairs as he veers out of sight.[/i]\n\nRemove General Sorin from the map."
+M_32_SORIN_DEFEATED,"[i]General Sorin grasps a wound across his shoulder as he retreats through a locked door. ""Not today!"" he taunts. ""I still have work to attend to.""[/i]\n\nYou gained 5 fame."
+M_32_EWEB,"[i]An E-Web gunner races into the hangar, out of breath. As the fight continues, he works on setting up his weapon.[/i]\n\nDeploy an E-Web Engineer (Regular). It is exhausted."
+M_32_DENGAR_DEFEATED,"[i]Dengar licks the blood from his lip with a smirk. ""This contract is going to be fun,"" he says as he reaches for his pack. ""We'll dance again soon!"" A bright flash bomb masks the bounty hunter's escape.[/i]"
+
+M_32_ECHO_DOOR_INFO,"[i]A warning is scrawled in launch bay paint:\n""DO NOT OPEN!""[/i]"
+M_32_ECHO_CAVE_TILES,"[i]The door had sealed another path back into the caves.[/i]\n\nPlace tiles 20A and 21B."
+M_32_ECHO_WAMPA,"[i]A gigantic snow-beast seems surprised by the door opening.[/i]\n\nDeploy a Wampa (Elite). It is exhausted."
+M_32_ECHO_CAVE_TILES_2,"[i]Suddenly, the sealed door behind you crumples and flies from its frame![/i]\n\nDiscard the door.\n\nPlace tiles 20A and 21B."
+M_32_ECHO_WAMPA_2,"[i]A gigantic snow-beast lunges from the darkness with an ear-shattering roar![/i]\n\nDeploy a Wampa (Elite)."
+
+
+M_32_ECHO_CRATE_1,"[i]Abandoned Rebellion supplies are piled behind some shuttle equipment.[/i]\n\nA hero can interact with this crate to open it."
+M_32_ECHO_CRATE_2,"[i]It seems Sorin's troopers were in the process of cataloguing these supplies.[/i]\n\nA hero can interact with this crate to open it."
+
+M_32_ECHO_TERMINAL_INFO,"[i]This console controls Sorin's personal shuttle.[/i]\n\nA hero can interact with this terminal to initiate the launch sequence."
+M_32_ECHO_TERMINAL_INTERACT,"[i]You try to access the shuttle's ignition, but the locking system is a little more complex than you anticipated. Several smaller terminals blink throughout the hangar.[/i]\n\nPlace 1 green, 1 red, and 1 yellow terminal.\n\nDiscard this terminal."
+M_32_ECHO_TERMINAL_INTERACT_B,"[i]You try to access the shuttle's ignition, but the locking system is a little more complex than you anticipated. Several smaller terminals blink throughout the hangar.\n\nThe console prompts you for an access card. You insert the datacard you found from the buried probe droid, and one of the terminals is permanently deactivated.[/i]\n\nPlace 1 green and 1 yellow terminal.\n\nDiscard this terminal."
+M_32_ECHO_TERMINAL_INTERACT_2,"[i]Each needs to be accessed in sequence or the whole system will reset![/i]\n\nA hero can interact with a terminal to release a lock. One lock must be released each activation (not including the current activation).\n\n  Objective Updated  \n\n{0}"
+M_32_LAUNCH_CONFIRM,"[i]The security system blinks and is ready for the next lock.[/i]\n\nRelease another lock during the next activation."
+M_32_LAUNCH_FAIL,"[i]The command console buzzes and the locks re-engage.[/i]\n\nReplace the {0} terminals as indicated.\n\nYou must release one lock during each Rebel activation."
+M_32_LAUNCH_FAIL_2,"green and yellow"
+M_32_LAUNCH_FAIL_3,"red, green, and yellow"
+M_32_LAUNCH_WAIT,"[i]The security system is on a programmed cooldown.[/i]\n\nYou cannot release another lock this activation."
+M_32_LOCK_INFO,"[i]The sequence is ready for you to release another lock.[/i]\n\nA Rebel can interact with this terminal to release a lock."
+M_32_LOCK_RELEASED,"[i]The lock easily releases, but the security system requires a waiting period before releasing another lock.[/i]\n\nDiscard this terminal."
+M_32_EB_REINFORCE,"[i]More Imperials arrive at the hangar.[/i]"
+M_32_WAMPA_DEFEAT_CAVE_2,"[i]The beast lets out a gasping howl before landing in the snow with a wet thud.[/i]"
+M_32_WAMPA_DEFEAT_CAVE_3,"[i]The beast gasps a chilling howl before collapsing in the snow.[/i]"
+M_32_WAMPA_DEFEAT_CAVE_4_REG,"[i]The creature slashes and wails, then falls silent.[/i]"
+M_32_WAMPA_DEFEAT_CAVE_4_ELITE,"[i]The cave rattles at the Wampa's final roar.[/i]"
+M_32_WAMPA_DEFEAT_EB_REG,"[i]The creature barrels back into the safety of the caves with a slight limp.[/i]"
+M_32_WAMPA_DEFEAT_EB_ELITE,"[i]The beast lashes out with the last of its rage, but topples lifelessly to the ground.[/i]"
+M_32_ALLY_DEFEATED,"[i]""Leave me!"" Talcon rasps. ""I'm not the first to Rebel to fall on Hoth. If you don't find a ship, I won't be the last.""\n\nYou try to argue, but with her final words, the lieutenant reminds you of your destination. ""Get to Ison. Find Benex...""[/i]"
+M_32_ALLY_QUESTION,"[i]Exhausted, you look around the cabin.[/i]\n\nHow many Echo Base troopers survived?"
+M_32_ALLY_SURVIVE_2,"Both troopers survived!"
+M_32_ALLY_SURVIVE_1,"Only Talcon survived."
+M_32_ALLY_SURVIVE_0,"Both troopers were lost..."
+M_32_VICTORY_ALLY_2,"[i]Lieutenant Talcon is already asleep in her seat.\n\n ""We earned a good rest,"" Kish says as he carefully lays a spare Imperial coat over his snoring comrade. ""And a good meal,"" he continues. ""Let's see if they keep any spare rations on these things.""[/i]"
+M_32_VICTORY_ALLY_1,"[i]Lieutenant Talcon stares blankly at a portrait of her fallen comrade. ""Hoth was supposed to be our beginning, not our end,"" she mourns. ""I have to fight twice as hard now. For Kish.""[/i]"
+M_32_VICTORY_ALLY_0,"[i]You'd grown used to Kish and Talcon's company. The soft hum of the engines serves as a reminder of the price you've paid for freedom.[/i]"
+M_32_PERIL_WARNING,"[i]The bitter cold is ever-present. Keep moving to stay warm![/i]"
+M_32_PERIL_COLD,"[b]Minor Peril[/b]\n\n[i]The deathly cold bites at you.[/i]\n\nEach hero suffers 1 for each of his or her activation portraits."
+M_32_PERIL_DENGAR,"[b]Major Peril[/b]\n\n[i]A deadly assassin emerges from the ice caves. Looking up from your bootprints, he shoulders his rifle. ""I had thought the Wampas would take care of you,"" he says, amused. ""But if I'm going to collect Sorin's bounty on Rebel survivors, it looks like I'll actually need to get my hands dirty.""[/i]\n\nDeploy Dengar."
+M_32_PERIL_WAMPA,"[i]{0} Wampa crawls from the caves and howls with rage.[/i]"
+M_32_PERIL_WAMPA_A,"A"
+M_32_PERIL_WAMPA_ANOTHER,"Another"
+M_32_PERIL_WAMPA_ACTIVATE,"[b]Deadly Peril[/b]\n\n[i]The Wampa grows furious.[/i]\n\nThe Wampa interrupts to activate."
+M_32_EB_RANDOM_1,"[i]More of the General's forces follow the captain's lead.[/i]"
+M_32_EB_WAMPA_1,"[i]Another of the snow beasts is hot on your trail![/i]\n\nDeploy a Wampa (Regular)"
+M_32_ECHO_TILES_2,"[i]You emerge from the tunnels into a service pit beneath a hangar. Just above you sits a single custom shuttle, already preparing for launch.[/i]\n\nPlace tiles 06B, 08B, 16B, 17B(2), 20A, 20B(2), and 1 door."
+M_32_OBJECTIVE_5B,"Survive 2 rounds."
+M_32_ECHO_OBJECTIVE_5B,"[i]""Sir! They're here!"" The captain shouts.\n\n""How lucky,"" the general mockingly responds. ""You didn't need to search the caves after all. Blast them!""\n\nDespite the general's nonchalance, you keep your focus on the nearly prepared shuttle.[/i]\n\n  Objective Updated  \n\n{0}"
+
+M_32_PERIL_WAMPA_ACTIVATE,"[i]The Wampa grows furious at the sight of the bounty hunter![/i]\n\nThe Wampa (Regular) interrupts to activate."
+
+M_32_OBJECTIVE_5C,"Survive 1 more round!"
+M_32_VICTORY_NEXT_TURN,"[i]The shuttle's engines flare and the ignition sequence is nearly complete![/i]\n\n  Objective Updated  \n\n{0}"
+M_32_VICTORY_1B,"[i]You fight your way aboard the shuttle and race for the controls.\n\nDespite the Imperial resistance, the hangar doors open overhead and you hurtle to the safety of the stars.[/i]"
+
+M_32_ALLY_QUESTION_B,"[i]You excitedly eye the shuttle.[/i]\n\nHow many Echo Base troopers survived?"
+M_32_ALLY_REMOVE_2,"[i]Despite the danger, Talcon and Kish sneak aboard the shuttle.\n\n""We'll get her running in no time,"" Kish whispers. ""Just watch our backs!""[/i]\n\nRemove the Echo Base Troopers from the map."
+M_32_ALLY_REMOVE_1,"[i]Despite the danger, Talcon sneaks aboard the shuttle.\n\n""I'll have her running in no time,"" Talcon whispers. ""Just watch my back!""[/i]\n\nRemove the Echo Base Trooper from the map."
+
+M_32_EB_E_PROBE,"[i]The troopers march past some probe droids running diagnostics as they head for the tunnels.[/i]\n\nDeploy a Probe Droid (Elite)."
+M_32_EB_PROBE_1,"Deploy a Probe Droid (Regular). Assign it a color."
+M_32_EB_PROBE_2,"Deploy another Probe Droid (Regular). Assign it a color."
+M_32_FAIL_ACT_1,"[i]Hopelessly lost, you decide to follow a set of beastly tracks. Quietly stalking through the cave system, you learn to avoid the Wampas.\n\nEventually, you stumble through a broken wall into a shuttle hangar.[/i]"
+M_32_FAIL_ACT_1B,"[i]Summoning the last of your strength, you sneak aboard an Imperial shuttle and incapacitate the pilot.\n\nAs you escape orbit, an Imperial general ""Sora""-or-something yells threats over a channel you can't seem to block. But you're too tired to pay him any mind.[/i]"
+M_32_FAIL_ACT_2,"[i]Overwhelmed by threats, you jump aboard the shuttle and hope for the best.\n\nDespite the automated warnings, you grab the controls and punch the throttle. The hull twists, the landing gear tears from the hull, and you tumble into the Hoth sky.[/i]"
+
+M_32_FAIL_ALLY_1,"[i]Hopelessly lost, you decide to follow a set of beastly tracks.\n\nYou twist through dark tunnels for a while before a massive Wampa attacks. You fight it off, but not before losing the last of your allies on Hoth.\n\nToo tired to carry a fallen comrade, you stumble toward a faint warm draft, through a broken wall, and into a shuttle hangar.[/i]"
+M_32_FAIL_ALLY_1B,"[i]Summoning the last of your strength, you sneak aboard an Imperial shuttle and incapacitate the pilot.\n\nAs you escape orbit, an Imperial general ""Sora""-or-something yells threats over a channel you can't seem to block. But you're too tired to pay him any mind.[/i]"
+M_32_FAIL_ALLY_2,"[i]Overwhelmed by threats, you sprint for the shuttle. You dodge the blaster fire, but the last of your allies falls covering your escape.\n\nDespite the automated warnings, you grab the controls and punch the throttle. The hull twists, the landing gear tears from the hull, and you tumble into the Hoth sky.[/i]"
+
+M_32_VICTORY_1,"[i]The locks permanently disengage and the shuttle automatically primes for launch.\n\nYou suppress the straggling Imperials and climb in the shuttle. The hangar doors open overhead and you hurtle to the safety of the stars.[/i]"
+M_32B_FAIL_CAVE_2,"[i]Halfway down the tunnel, it turns to glare ice. You lose your footing and slide back to the cave entrance![/i]\n\nEach hero suffers 1 for each of his or her activation portraits."
+M_32B_FAIL_CAVE_2_DEPLOY,"[i]Retracing your own prints in the snow, you reach a familiar cavern.[/i]\n\nDeploy the Rebels."
+M_32B_BACK_CAVE_2,"[i]You trudge a ways before recognizing your own bootprints. Annoyed, you turn back around, freezing.[/i]\n\nEach hero suffers 1 for each of his or her activation portraits."
+M_32B_BACK_CAVE_2_DEPLOY,"[i]Retracing your steps, you reach a familiar cavern.[/i]\n\nDeploy the Rebels."
+
+M_32B_FAIL_CAVE_3,"[i]Halfway down the tunnel, it turns to glare ice. You lose your footing and slide backward.[/i]\n\nEach hero suffers 1 for each of his or her activation portraits."
+M_32B_FAIL_CAVE_3_DEPLOY,"[i]Retracing your own prints in the snow, you reach a familiar cavern.[/i]\n\nDeploy the Rebels."
+M_32B_BACK_CAVE_3,"[i]You trudge a ways before recognizing your own prints in the snow. Freezing cold, you turn back around.[/i]\n\nEach hero suffers 1 for each of his or her activation portraits."
+M_32B_BACK_CAVE_3_DEPLOY,"[i]Retracing your steps, you reach a familiar cavern.[/i]\n\nDeploy the Rebels."
+M_32B_CAVE_3_CLEAR,"[i]A path has been forcefully plowed through the snow.[/i]\n\nDiscard all snow."
+
+M_32B_TRAVEL,"[i]You venture farther into the cave system.[/i]\n\nClear the map."
+
+M_32B_CAVE_3_WAMPA,"[i]A second monster paws at something on the cave floor.[/i]\n\nDeploy a Wampa (Regular)."
+M_32B_CAVE_3_ELITE_WAMPA,"[i]A gigantic shaggy beast stops dredging the snow when it catches your scent.[/i]\n\nDeploy a Wampa (Elite)."
+M_32B_CAVE_3_WAMPA_2,"[i]Another Wampa has caught your scent![/i]\n\nDeploy a Wampa (Regular)."
+M_32B_OBJECTIVE_WAMPA,"Defeat the Wampas!"
+
+M_32B_ACTION_PROBE_DROID," [b]Short Circuit:[/b] The closest hero, the closest Wampa, and this figure each suffer 2."
+M_32B_PROBE_ACTIVATES,"[i]The partially frozen droid tries to defend itself.[/i]\n\nThe Probe Droid (Elite) interrupts to activate."
+
+M_32B_CAVE_4_REGULAR_WAMPA,"[i]An enraged Wampa leaps from the tunnels and swipes at the Snowtroopers.[/i]\n\nDeploy a Wampa (Regular)."
+M_32B_CAVE_4_NO_BACKTRACK,"[i]Despite the chaotic battle, you're beginning to understand the caves.[/i]\n\nThe indicated path is unavailable."
+M_32B_SET_ASIDE_CAVE_4,"[i]You finally feel a warm draft ahead.[/i]\n\nClear the map."
+
+M_32B_ALLY_DEFEATED,"[i]""Leave me!"" Talcon rasps. ""I'm not the first to Rebel to fall on Hoth. If you don't find a ship, I won't be the last.""\n\nYou try to argue, but with her final words, the lieutenant reminds you of your destination. ""Get to Haven...""[/i]"
+M_33_NAME,"Desert Storm"
+M_33_DESC,"[i]Coordinates recovered from General Sorin's shuttle point to a remote compound in the deserts of Aleen.\n\nShipments of various combustible gases to the planet suggest that the general is perfecting the tank's weapons.[/i]"
+M_33_WORLD_RULE,"The Rebels (represented by the Rebel mission token) are traversing the area map.
+---------------------------------------------------------
+During a hero's or Ally group's activation, the heroes can move the Rebel token up to 2 spaces. The Rebels cannot perform any other actions or use any other abilities.\n
+The heroes can move the Rebel token into and out of spaces containing blocking terrain."
+M_33_WORLD_ENEMY,"Imperial mission tokens are patrols.
+---------------------------------------------------------
+When the Rebels enter a space adjacent to a patrol—or enter a patrol's space—select that patrol and begin a skirmish.\n
+If two or more patrols are adjacent, skirmish with only one.\n
+(Patrols also start skirmishes after they move.)"
+M_33_WORLD_FACILITY,"Spaces containing blocking terrain are facilities.
+---------------------------------------------------------
+When the Rebels enter a space containing blocking terrain, select that facility then select ""Enter""—do not trigger any patrol skirmishes during this activation."
+M_33_REPAIR_DROID,"• [b]Move 2[/b] to [b]engage[/b] the SC2-M Repulsor Tank.\n
+ If the SC2-M Repulsor Tank is adjacent and has suffered any , it recovers 2.\n
+ If the SC2-M Repulsor Tank is adjacent and has suffered any , it recovers 2.\n
+ [b]Move 2[/b] to [b]attack[/b] « {0} ».\n
+ [b]Move 2[/b] {2}"
+M_33_DROID_BONUS,"Gain +1."
+M_33_OFFICER," If this figure is not on or adjacent to the terminal, it [b]moves 3[/b] toward the terminal.\n
+ [b]Executive Order[/b]: Another Imperial figure with a figure cost of 6 or less that can perform an attack [b]attacks[/b] « {0} ».\n
+ [b]Attack[/b] « {0} ».\n"
+M_33_OFFICER_BONUS,"[i]The officers clamber for control of the terminal.[/i]"
+M_33_VEHICLE," If this figure is within 2 spaces of the Rebels, each hero rolls 1 green die for each of his or her activation portraits and suffers  equal to the  results.\n
+ [b]Move 2[/b] toward the Rebels."
+M_33_VEHICLE_BONUS,"[i]The tank's advanced targeting tracks you through the desert.[/i]"
+M_33_TANK,"• [b]Advanced Shields:[/b] Recover 5.\n
+ [b]Attack[/b] 2 different Rebels. Target « {0} ».\n
+ [b]Move 4[/b] to [b]attack[/b] « {0} ».\n
+ If this figure has suffered , it recovers 3.\n
+ [b]Move 8[/b] {2}\n
+ [b]Move 2[/b] {2}"
+M_33_TANK_NO_SHIELD,"• [b]Exploited Shields:[/b] Recover 1.\n
+ [b]Attack[/b] 2 different Rebels. Target « {0} ».\n
+ [b]Move 4[/b] to [b]attack[/b] « {0} ».\n
+ If this figure has suffered , it recovers 3.\n
+ [b]Move 8[/b] {2}\n
+ [b]Move 2[/b] {2}"
+M_33_PROLOGUE,"[i]Sorin's old clearance codes miraculously still let you slip past the Imperial sensors. Despite this fortune, a cloud of sand brews on the horizon.\n\nYou secure your goggles and set out to scout the area before the sandstorm hits.[/i]"
+M_33_INTRO,"[i]A craggy cliff offers a vantage point over the compound.[/i]\n\nPlace tiles 03B, 05B, 08B, 11B, 17B, and 18B(4)."
+M_33_INTRO_FACILITIES,"[i]Through well-worn macrobinoculars, you note three distinct facilities.[/i]\n\nSpaces containing blocking terrain are facilities.\n\nSee the rules for facilities at the bottom of the screen."
+M_33_INTRO_FACILITY_A,"[i]A command tower looms over a firing range.[/i]"
+M_33_INTRO_FACILITY_B,"[i]Farther back, a durasteel garage runs under a large dune.[/i]"
+M_33_INTRO_FACILITY_C,"[i]On the outskirts, a lift drops below the surface to a waste facility.[/i]"
+M_33_PATROL_1,"[i]Through the quickly worsening storm, you spot the rough outlines of two patrols.[/i]\n\nPlace 2 red Imperial mission tokens.\n\nSee the rules for patrols at the bottom of the screen."
+M_33_PATROL_EXAMPLE,"[i]Despite the sand, the patrols diligently continue their routes.[/i]"
+M_33_INTRO_DEPLOY,"[i]The skies darken as the brunt of the sandstorm approaches. Hoping to use the low visibility to your advantage, you agree to stick together.[/i]\n\nPlace 1 yellow Rebel mission token.\n\nSee the rules for moving on the area map at the bottom of the screen."
+M_33_INTRO_OBJECTIVE,"[i]The storm crashes over the compound in a violent wave. Wiping sand from your goggles, you attempt to slip past the Imperial patrols.[/i]\n\n  Objective Updated  \n\n{0}"
+M_33_TOWER_ENTER,"[i]The command tower offers a complete view of the compound's test sites.[/i]\n\nWhen the Rebels enter this space, select ""Enter"" to infiltrate the command tower.\n\nIf you do, entering this space does not cause a patrol skirmish."
+M_33_FACILITY_ENTER,"Enter"
+M_33_OFFICER_ADJACENT,"Is the elite Imperial Officer on or adjacent to the terminal?"
+M_33_OFFICER_SABOTAGE,"[i]The officer partially counteracts your incursion.[/i]\n\nSome progress has been removed from the terminal."
+M_33_TERMINAL_INFO,"[i]The command console has access to the tank's test records.[/i]\n\nA hero can interact with the terminal to try to slice the test records."
+M_33_TERMINAL_TEST,"[i]You try to access the encrypted test records.[/i]\n\nTest ."
+M_33_TERMINAL_FAIL_0,"[i]You try to guess the password: ""1234."" Nothing happens.[/i]"
+M_33_TERMINAL_FAIL_1,"[i]You try to guess the password. Nothing happens.[/i]"
+M_33_TERMINAL_FAIL_2,"[i]You bypass the login credentials, but still need to access the records and isolate the tank's data.[/i]"
+M_33_TERMINAL_FAIL_3,"[i]You bypass the login credentials and gain access the test records, but you still need to isolate the tank's data.[/i]"
+M_33_TERMINAL_FAIL_4,"[i]You've done the hard work and isolated the data.\n\nYou just need to start the transfer to your datapad![/i]"
+M_33_TERMINAL_PASS,"[i]You tuck your datapad securely back in your pack and signal for retreat.[/i]"
+M_33_TOWER_CLEAR_ENEMIES,"[i]Imperials chase you out of the tower, but remain behind to assess the extent of your theft.[/i]\n\nRemove all enemies from the map."
+M_33_TOWER_RETURN,"[i]Having stolen secret test data from the command tower's records, you head back into the sandstorm.[/i]\n\nEach Rebel readies all of his or her cards and discards all Harmful conditions.\n\nClear this map."
+M_33_TOWER_WORLD,"Return to the area map.\n\n(Place tiles 03B, 05B, 08B, 11B, 17B, 18B(4), and the indicated patrols)."
+M_33_TOWER_RETURN_DEPLOY,"[i]You regroup in the shadow of the command tower.[/i]\n\nPlace the Rebel mission token.\n\nThis does not trigger any patrol skirmishes."
+M_33_TOWER_RETURN_OBJ,"[i]Wary of the fresh patrols, you press onward.[/i]\n\nA new round has started.\n\n  Objective Updated  \n\n{0}"
+
+M_33_TOWER_REINFORCE,"[i]Another officer descends from farther up the tower, desperate to protect the test data.[/i]\n\nDeploy an Imperial Officer (Elite)."
+M_33_OFFICER_ATTACK,"[i]The officer won't abandon the console, but takes a potshot.[/i]\n\nThe elite Imperial Officer interrupts to [b]attack[/b] « the closest healthy Rebel ».\n
+ Priority
+------------------
+: +3 Accuracy
+: +1"
+M_33_OFFICER_MOVE,"[i]The officer tries to guard the console.[/i]\n\nThe elite Imperial Officer interrupts to [b]move 2[/b] toward the terminal."
+
+M_33_TOWER_MESSAGE,"[i]You weather the sands and climb the steps to the command tower's entrance.[/i]\n\nSet the area map aside."
+M_33_TOWER_TILES,"[i]You enter a barracks that leads up half a flight of steps to the observation tower.[/i]\n\nPlace tiles 02B, 03B, 35B, and 36B(2)."
+M_33_TOWER_CRATES,"[i]The tower appears well-stocked.[/i]\n\nPlace 2 crates."
+M_33_TOWER_TERMINAL,"[i]A command console could provide an entry point to the tower's battlefield test data.[/i]\n\nPlace a terminal."
+M_33_TOWER_OFFICER,"[i]A ranking officer monitors several charts while preparing a report for General Sorin.[/i]\n\nDeploy an Imperial Officer (Elite)."
+M_33_TOWER_RANDOM_MESSAGE,"[i]""Why do I hear wind?"" the officer barks. ""I've told you lot to keep that door shut!""\n\nImperials stir from their lunch and look to the door only to find you![/i]"
+M_33_TOWER_VILLAIN_MESSAGE,"[i]A keen enemy notices the faint wind whistling through the open door, and steps forward to confront you![/i]"
+M_33_TOWER_DEPLOY,"[i]You step into battle formation.[/i]\n\nA new round has started.\n\nDeploy the Rebels."
+M_33_TOWER_OBJ,"[i]Test data from that command console could prove vital to undermining Sorin's tanks.[/i]\n\n  Objective Updated  \n\n{0}"
+M_33_GARAGE_ENTER,"[i]The garage is likely where the vehicles are maintained.[/i]\n\nWhen the Rebels enter this space, select ""Enter"" to infiltrate the command tower.\n\nIf you do, entering this space does not cause a patrol skirmish."
+M_33_GARAGE_CLEAR_ENEMIES,"[i]The remaining Imperials flee, hoping to escape blame.[/i]\n\nRemove all enemies from the map."
+M_33_GARAGE_RETURN,"[i]The tank's repulsors spark and the vehicle crashes down into the repair bay below.\n\nA temporary diagnostic unit pulses conspicuously on the tank's now exposed undercarriage. You clip the wires, slide the module into your pack, and escape back into the sandstorm.[/i]\n\nEach Rebel readies all of his or her cards and discards all Harmful conditions.\n\nClear this map."
+M_33_GARAGE_RETURN_VICTORY,"[i]The tank's repulsors spark and the vehicle crashes partially through the floor and into the repair bay below.\n\nA temporary diagnostic unit pulses conspicuously on the tank's now exposed undercarriage. You clip the wires and slide the module into your pack.[/i]"
+M_33_GARAGE_WORLD,"Return to the area map.\n\n(Place tiles 03B, 05B, 08B, 11B, 17B, 18B(4), and the indicated patrols)."
+M_33_GARAGE_RETURN_DEPLOY,"[i]You escape through the back and regroup near a sprawling scrapyard.[/i]\n\nPlace the Rebel mission token.\n\nThis does not trigger any patrol skirmishes."
+M_33_GARAGE_RETURN_OBJ,"[i]Wary of the fresh patrols, you press onward.[/i]\n\nA new round has started.\n\n  Objective Updated  \n\n{0}"
+
+M_33_GARAGE_MESSAGE,"[i]You slip through a side door at the end of the garage.[/i]\n\nSet the area map aside."
+M_33_GARAGE_TILES,"[i]You enter into a pristine, sectioned-off garage stall.[/i]\n\nPlace tiles 19A and 36A(3)."
+M_33_GARAGE_CRATE,"[i]Mechanics' supplies are neatly stacked at a workstation.[/i]\n\nPlace a crate."
+M_33_GARAGE_TANK,"[i]A tank prototype sits on a repair jack. Scorches and dents are faintly visible beneath extensive repairs.[/i]\n\nDeploy the SC2-M Repulsor Tank."
+M_33_GARAGE_TANK+,"[i]A tank prototype sits on a repair jack. Scorches and dents are faintly visible beneath extensive repairs.[/i]\n\nDeploy the SC2-M Repulsor Tank with +{0} Health."
+M_33_GARAGE_PROBE_1,"[i]A droid halts its repairs and scans the room.[/i]\n\nDeploy a Probe Droid (Regular). Assign it a color."
+M_33_GARAGE_PROBE_2,"[i]A second droid locates you and alerts the garage.[/i]\n\nDeploy another Probe Droid (Regular). Assign it a color."
+M_33_GARAGE_RANDOM,"[i]Forces respond to the droid's call.[/i]"
+M_33_GARAGE_DEPLOY,"[i]You brace for battle.[/i]\n\nA new round has started.\n\nDeploy the Rebels."
+M_33_GARAGE_OBJ,"[i]You might be able to salvage information from this tank prototype.[/i]\n\n  Objective Updated  \n\n{0}"
+M_33_WASTE_ENTER,"[i]Debris from military testing litters the area around the open pit.[/i]\n\nWhen the Rebels enter this space, select ""Enter"" to infiltrate the command tower.\n\nIf you do, entering this space does not cause a patrol skirmish."
+M_33_WASTE_MESSAGE,"[i]You step onto the rickety lift platform and pull the sand-pitted lever.[/i]\n\nSet the area map aside."
+M_33_WASTE_MESSAGE_2,"[i]You step onto the rickety lift platform and pull the sand-pitted lever.[/i]\n\nClear the map. (Discard all tokens and remove all tiles.)"
+M_33_WASTE_TILES,"[i]The lift creaks to a halt a few paces from a soupy trash pile.[/i]\n\nPlace tiles 19B, 33B, and 36B(2)."
+M_33_WASTE_CRATE,"[i]Someone has already dug a few valuables out of the trash.[/i]\n\nPlace a crate."
+M_33_WASTE_TRASH,"[i]Scrapped vehicle parts are strewn throughout the disgusting waste. If you can tell trash from treasure, you might find some prototype parts down here.[/i]\n\nPlace 6 neutral mission tokens."
+M_33_WASTE_RANDOM,"[i]""They always give us the bad jobs,"" someone mumbles from across the muck. You scan the room and notice figures wearing breathing masks to filter the stench.[/i]"
+M_33_WASTE_DEPLOY,"[i]You try to hold your breath as you reach for your weapons.[/i]\n\nA new round has started.\n\nDeploy the Rebels."
+M_33_WASTE_OBJ,"[i]With a sharp eye, you might be able to salvage tank parts before you succumb to nausea.[/i]\n\nA new round has started.\n\n  Objective Updated  \n\n{0}"
+
+M_33_TRASH_TEST,"[i]You grab hold of the trash{0}.[/i]\n\nTest .{1}"
+M_33_TRASH_TEST_ENEMY_TEXT,", but your enemies make it hard to focus"
+M_33_TRASH_TEST_ENEMY_RULE," Apply -1 to the results."
+M_33_TRASH_1,"[i]The clump of garbage dissolves to nothing and slumps through your fingers.[/i]\n\nDiscard this token."
+M_33_TRASH_2,"[i]You wipe away the grime and find something useful, if still repugnant.[/i]\n\nDraw 1 Supply card.\n\nDiscard this token."
+M_33_TRASH_3,"[i]You pop the lid off a container, but what's inside smells even worse![/i]\n\nBecome Weakened.\n\nDiscard this token."
+M_33_TRASH_4,"[i]You shake the object dry and hope it's still useful.[/i]\n\nDraw 1 Supply card.\n\nDiscard this token."
+M_33_TRASH_PART_1,"[i]You find the charred barrel of a laser cannon that looks exactly like the ones from Sorin's tanks! Unfortunately, the firing mechanism has broken off. It must be down here somewhere![/i]\n\nDiscard this token."
+M_33_TRASH_PART_2,"[i]You triumphantly hold up a firing mechanism that would slot into the laser cannon barrel! Analyzing these early examples should provide valuable insight into Sorin's progress.[/i]\n\nDiscard this token."
+
+M_33_WASTE_CLEAR_ENEMIES,"[i]You sprint for the lift, happy to get out of the rancid pit.[/i]\n\nRemove all enemies from the map."
+M_33_WASTE_RETURN,"[i]With the laser cannon parts slung over your shoulder, you head back into the sandstorm.[/i]\n\nEach Rebel readies all of his or her cards and discards all Harmful conditions.\n\nClear this map."
+M_33_WASTE_WORLD,"Return to the area map.\n\n(Place tiles 03B, 05B, 08B, 11B, 17B, 18B(4), and the indicated patrols)."
+M_33_WASTE_RETURN_DEPLOY,"[i]Queasy from the fumes, you exit the lift one floor early at the back of the pit.[/i]\n\nPlace the Rebel mission token.\n\nThis does not trigger any patrol skirmishes."
+M_33_WASTE_RETURN_OBJ,"[i]You press onward through the wind, sand, and Imperials.[/i]\n\n  Objective Updated  \n\n{0}"
+M_33_PATROL_BATTLE,"[i]Imperials patrol the compound.[/i]\n\nSelect ""Skirmish"" if:
+• The Rebel token entered this token's space.
+• The Rebel token entered an adjacent space (ignoring blocking terrain, unless entering a facility).
+• A patrol entered an adjacent space and instructed you to begin a skirmish."
+M_33_PATROL_SKIRMISH,"Skirmish"
+M_33_CRATE_TOWER_1,"[i]A few chance cubes rest on the lid of this crate.[/i]\n\nA hero can interact with this crate to open it."
+M_33_CRATE_TOWER_2,"[i]Some equipment has been stuffed beneath a monitoring station.[/i]\n\nA hero can interact with this crate to open it."
+M_33_CRATE_GARAGE,"[i]Tools and minor spare parts are sorted neatly on this shelf.[/i]\n\nA hero can interact with this crate to open it."
+M_33_CRATE_WASTE,"[i]A soggy pile of useful supplies has been fished out of the muck and left to dry.[/i]\n\nA hero can interact with this crate to open it."
+M_33_TRASH_INFO,"[i]Blown up parts and discarded meals are all piled together in the mire.[/i]\n\nA hero can interact with this trash to try to identify it."
+M_33_TRASH_INFO_1,"[i]Something is caked in muck.[/i]\n\nA hero can interact with this trash to try to identify it."
+M_33_TRASH_INFO_2,"[i]Something is dripping with... best not to think about it.[/i]\n\nA hero can interact with this trash to try to identify it."
+M_33_TRASH_INFO_3,"[i]Something smells terrible.[/i]\n\nA hero can interact with this trash to try to identify it."
+M_33_TRASH_INFO_4,"[i]Something is submerged in waste.[/i]\n\nA hero can interact with this trash to try to identify it."
+M_33_TRASH_INFO_5,"[i]Something is buried under last night's leftovers.[/i]\n\nA hero can interact with this trash to try to identify it."
+M_33_TRASH_INFO_6,"[i]Something is... moving? No, just bobbing in sewage.[/i]\n\nA hero can interact with this trash to try to identify it."
+M_33_BATTLE_MESSAGE,"[i]The patrol closes in on you.[/i]\n\nDiscard this patrol.\n\nSet the area map aside."
+M_33_BATTLE_TILES,"[i]Low visibility confines the battlefield.[/i]\n\nPlace tiles 07B, 10B, 14B(2), and 17B(2)."
+M_33_BATTLE_DEPLOY,"[i]You draw your weapons.[/i]\n\nA new round has started.\n\nDeploy the Rebels."
+M_33_BATTLE_STORMTROOPER,"[i]The enemy takes aim.[/i]\n\nDeploy Stormtroopers (Regular). Assign a color."
+M_33_BATTLE_OBJ,"[i]You make the first move and blaster bolts fly.[/i]\n\n  Objective Updated  \n\n{0}"
+M_33_RETURN,"[i]The storm rages, but you press onward.[/i]\n\nEach Rebel readies all of his or her cards and discards all Harmful conditions.\n\nSet this map aside."
+M_33_RETURN_TILES,"Return to the area map.\n\n(Place tiles 03B, 05B, 08B, 11B, 17B, 18B(4), and the indicated patrols)."
+M_33_RETURN_OBJ,"[i]Certain there's more to learn, you press onward.[/i]\n\nA new round has started.\n\n  Objective Updated  \n\n{0}"
+M_33_GAS,"[i]Rotten fumes choke the air.[/i]\n\nEach hero suffers 1 for each of his or her activation portraits."
+M_33_MOVE_RED,"[i]The patrols continue their rounds.[/i]\n\nMove each red patrol as indicated."
+M_33_MOVE_BLUE,"[i]The patrols continue their rounds.[/i]\n\nMove each blue patrol as indicated."
+M_33_MOVE_GREEN,"[i]The patrols continue their rounds.[/i]\n\nMove each green patrol as indicated."
+M_33_MOVE_GREEN_2,"[i]These patrols hold their positions.[/i]\n\nGreen patrols do not move this activation."
+M_33_SKIRMISH_EXAMPLE,"[i]The patrols search for intruders.[/i]\n\nIf one or more patrols is in or adjacent to the Rebels' space, ignoring blocking terrain, select one of those patrols and begin a skirmish."
+M_33_SKIRMISH_REMINDER,"[i]The patrols search for intruders.[/i]\n\nIf one or more patrols is in or adjacent to the Rebels' space, ignoring blocking terrain, select one of those patrols and begin a skirmish."
+M_33_ADD_PATROL_BLUE,"[i]You hear Imperial sirens faintly over the whipping winds. Through the sands you spot the shadows of new patrols.[/i]\n\nPlace 2 blue Imperial mission tokens.\n\nThis does not trigger any patrol skirmishes."
+M_33_ADD_PATROL_GREEN,"[i]Still more patrols enter the storm in search of you.[/i]\n\nPlace 2 green Imperial mission tokens.\n\nThis does not trigger any patrol skirmishes."
+M_33_SANDSTORM_PASS,"[i]You dust yourselves off and press onward.[/i]\n\nThe sandstorm has no effect."
+M_33_SANDSTORM_FAIL,"[i]You hunker down and suffer a brief delay.[/i]\n\nThe patrols immediately advance."
+M_33_SANDSTORM_STRENGTH,"[i]Heavy winds gust, driving needle-like sand.[/i]\n\nEach hero tests .\n\nInput the total ."
+M_33_SANDSTORM_INSIGHT,"[i]The cloud of sand swirls, blinding and disorienting you.[/i]\n\nEach hero tests .\n\nInput the total ."
+M_33_SANDSTORM_TECH,"[i]The choking dust jams your comms.[/i]\n\nEach hero tests .\n\nInput the total ."
+M_33_PERIL_A,"A"
+M_33_PERIL_THE,"The"
+M_33_PERIL_MINOR,"[b]Minor Peril[/b]\n\n[i]Exposure to the driving sand takes its toll.[/i]\n\nEach hero rolls 1 yellow die for each of his or her activation portraits and suffers  equal to his or her  results."
+M_33_PERIL_MINOR_TOWER,"[b]Minor Peril[/b]\n\n[i]A cowardly officer fires a shot from the hall before running away.[/i]\n\n{0} rolls 1 blue and 1 yellow die and suffers  equal to the  results."
+M_33_PERIL_MINOR_GARAGE,"[b]Minor Peril[/b]\n\n[i]A cowardly officer fires a shot from the hall before fleeing into the desert.[/i]\n\n{0} rolls 1 blue and 1 yellow die and suffers  equal to the  results."
+M_33_PERIL_MINOR_WASTE,"[b]Minor Peril[/b]\n\n[i]A cowardly officer panics as his lift arrives. He fires a shot before immediately heading back for the surface.[/i]\n\n{0} rolls 1 blue and 1 yellow die and suffers  equal to the  results."
+M_33_PERIL_MAJOR,"[b]Major Peril[/b]\n\n[i]A single tank has climbed the hill behind the garage. It fires a cannon shot![/i]\n\nEach hero rolls 1 blue die for each of his or her activation portraits and suffers  equal to his or her  results."
+M_33_PERIL_MAJOR_TOWER,"[b]Major Peril[/b]\n\n[i]{0} cowardly officer peeks into the tower with a satchel full of grenades. He hastily throws the whole bag and runs for his life![/i]\n\nEach hero rolls 1 yellow die for each of his or her activation portraits and suffers  equal to his or her  results."
+M_33_PERIL_MAJOR_GARAGE,"[b]Major Peril[/b]\n\n[i]{0} cowardly officer peeks into the garage with a satchel full of grenades. He hastily throws the whole bag and runs for his life![/i]\n\nEach hero rolls 1 yellow die for each of his or her activation portraits and suffers  equal to his or her  results."
+M_33_PERIL_MAJOR_WASTE,"[b]Major Peril[/b]\n\n[i]{0} cowardly officer plugs his nose and peeks into the waste facility with a satchel full of grenades. He hastily throws the whole bag and runs for his life![/i]\n\nEach hero rolls 1 yellow die for each of his or her activation portraits and suffers  equal to his or her  results."
+M_33_PERIL_DEADLY,"[b]Deadly Peril[/b]\n\n[i]Several tanks have climbed the hill behind the garage and the barrage is now endless.[/i]\n\nEach hero rolls 1 green die for each of his or her activation portraits and suffers  equal to his or her  results."
+M_33_PERIL_DEADLY_TOWER,"[b]Deadly Peril[/b]\n\n[i]{0} cowardly officer leads a squad of stormtroopers in surprisingly effective guerilla tactics.[/i]\n\nThe 2 healthy heroes who have suffered the most  each roll 1 blue and 1 green die and suffer  equal to his or her  results."
+M_33_PERIL_DEADLY_GARAGE,"[b]Deadly Peril[/b]\n\n[i]{0} cowardly officer leads a squad of stormtroopers in surprisingly effective guerilla tactics.[/i]\n\nThe 2 healthy heroes who have suffered the most  each roll 1 blue and 1 green die and suffer  equal to his or her  results."
+M_33_PERIL_DEADLY_WASTE,"[b]Deadly Peril[/b]\n\n[i]{0} cowardly officer leads a squad of stormtroopers in surprisingly effective guerilla tactics.[/i]\n\nThe 2 healthy heroes who have suffered the most  each roll 1 blue and 1 green die and suffer  equal to his or her  results."
+M_33_OBJ_0,"Scout Sorin's compound."
+M_33_OBJ_1,"Infiltrate each of Sorin's facilities."
+M_33_OBJ_2,"Continue searching facilities for intel."
+M_33_OBJ_3,"Search the command console for test data."
+M_33_OBJ_4,"Defeat the tank."
+M_33_OBJ_5,"Search the trash for tank parts."
+M_33_OBJ_BATTLE,"Defeat the patrol."
+M_33_VICTORY_1,"[i]With packs full of looted intel, you retreat through the storm to the shuttle.\n\nReverse-engineering the laser cannons should neutralize Sorin's offensive capabilities. You depart for Haven to decipher your findings{0}.[/i]"
+M_33_VICTORY_A," with Talcon"
+M_33_VICTORY_B," with Kish and Talcon"
+M_33_DEFEAT_0,"[i]Stopped by the combined might of nature and the Empire, you use the sandstorm to cover your escape.\n\nWhen the winds finally calm, you depart for Haven alive, but empty-handed.[/i]"
+M_33_DEFEAT_1,"[i]After successfully looting one facility, you are beaten back by the combined might of nature and the Empire. You trek through the storm to your emergency rendezvous.\n\nWhen the winds finally calm, you depart for Haven with little to show for your efforts.[/i]"
+M_33_DEFEAT_2,"[i]After successfully looting two of Sorin's facilities, you are beaten back by the combined might of nature and the Empire. You secure your findings and trek through the storm to your emergency rendezvous.\n\nWhen the winds finally calm, you depart for Haven with clues to the tank's functionality, but you know you could have learned more.[/i]"
+
+
+
+
+
+M_34_NAME,"Deadly Game"
+M_34_DESC,"[i]The nav computer on Sorin's shuttle indicates he has visited Cholganna multiple times recently. You need to find out why.[/i]"
+M_34_PLACE_TILES,"[i]While flying over the coordinates you found in the nav computer of Sorin's shuttle, you find only an open stretch of jungle. You land your shuttle a kilometer away to avoid detection and make your way to the coordinates on foot under cover of night.[/i]\n\nPlace tiles 01A, 03A, 05A, 06A, 15A, 17A, and 18A (3)."
+M_34_PLACE_SHADOWS,"[i]Dim shadows in the dark jungle play tricks on your eyes.[/i]\n\nPlace 10 neutral mission tokens. These are shadows. Select the neutral mission token rule now."
+M_34_DEPLOY_HKS,"[i]You are beginning to wonder if Sorin was simply sightseeing here when a shot flies from seemingly nowhere and barely misses {0}'s head![/i]\n\nPlace the regular and elite HK Assassin Droid cards on the table near the map, and place those groups' figures on their associated card. These figures are attacking you from the shadows and you must find them in order to defeat them."
+M_34_INITIAL_DEPLOY,"[i]Snipers aren't your only problem, though. Several more attackers come bursting out of the jungle![/i]\n\nDeploy Trandoshan Hunters ({0})."
+M_34_DEPLOY_REBELS,"[i]You prepare to fight back.[/i]\n\nDeploy the Rebels."
+M_34_INSPECT_SHADOWS,"[i]Clearly these mercenaries are protecting something out here. You resolve to search the area to find out what secrets they are protecting... as soon as you have dealt with the immediate threats.[/i]\n\n Objective Updated \n\n{0}"
+M_34_OBJECTIVE_1,"Inspect the shadows to discover what Sorin was doing here."
+M_34_SHADOW,"[i]A dark outline in the trees could be anything.[/i]\n\nThis is a shadow. Select the neutral mission token rule to see how to inspect a shadow."
+M_34_SHADOW_RULES,"Neutral mission tokens are shadows.
+---------------------------------------------------------
+During a hero's activation, that hero can suffer 1 to test  and then inspect each shadow within X spaces, where X is that hero's  results.
+
+To inspect a shadow, select it in the app."
+M_34_INSPECT,"Inspect"
+M_34_SHADOW_CRATE,"[i]You discover a cache of the mercenaries' supplies.[/i]\n\nReplace this shadow with 1 crate."
+M_34_CRATE,"[i]This hidden stash of supplies might contain something useful.[/i]\n\nA hero can interact with this crate to open it."
+M_34_BOOBY_TRAP,"[i]You find yourself looking at some kind of improvised explosive device. Before you can react, it explodes![/i]\n\nEach figure on this shadow suffers 2. Then discard this shadow."
+M_34_SHADOW_REGULAR_HK,"[i]You have found the hiding place of one of the snipers![/i]\n\nDeploy 1 figure from the regular HK Assassin Droid card as close to this shadow's space as possible, then discard this shadow.{0}"
+M_34_SHADOW_REGULAR_HK_RULE," Select the HK Assassin Droid rule now."
+M_34_SHADOW_ELITE_HK,"[i]You have found the hiding place of one of the snipers![/i]\n\nDeploy 1 figure from the elite HK Assassin Droid card as close to this shadow's space as possible, then discard this shadow."
+M_34_HK_DEFEAT_RULES,"When an HK Assassin Droid is defeated, do [b]not[/b] place that figure back on its card.\n\nWhen an HK Assassin Droid group has no associated figures on its card and none on the map, defeat that group in the app."
+M_34_BASE_ENTRANCE,"[i]You find what appears to be some kind of control panel. Upon closer inspection, the ground near the panel is actually a disguised lift platform. You can only assume it goes down to... somewhere.[/i]\n\nFlip this shadow to its colored side. This is the lift. When all heroes are on or adjacent to the lift, select the token in the app to advance the mission."
+M_34_OBJECTIVE_2,"Get all heroes on or adjacent to the lift."
+M_34_LIFT,"[i]This appears to be a lift platform that goes down into the ground.[/i]\n\nThis is the lift. While all heroes are on or adjacent to the lift, you may select Descend to advance the mission."
+M_34_DESCEND,"Descend"
+M_34_HK_INSTRUCTIONS,"Figures on this group's card perform only the bonus. This group's figures on the map perform only these instructions:\n
+• [b]Versatile Weaponry:[/b] While attacking, the defender must reroll each defense die showing a  result or 3 results.\n
+ [b]Attack[/b] « {0} ». Apply +1 and +2 Accuracy to the attack results.\n
+ [b]Move 3[/b] to [b]attack[/b] « {0} ».\n
+ [b]Move 3[/b] {2}\n
+ [b]Move 5[/b] {2}"
+M_34_HK_BONUS,"At the start of this group's activation, each figure on this group's card performs an attack targeting the healthy hero that has suffered the least damage. These attacks ignore accuracy and line of sight."
+M_34_HK_TRY_DEFEAT,"You cannot defeat the HK Assassin Droid group until there are no associated figures on the group's card and none on the map."
+M_34U_ADVANCED_BLASTERS_3,"[b]Advanced Blasters:[/b] Gain +1."
+M_34U_ADVANCED_BLASTERS_4,"[b]Advanced Blasters:[/b] Gain +2."
+M_34U_IMPERIAL_OFFICER_INSTRUCTIONS," [b]Assassination Order[/b]: If there is a figure on the HK Assassin Droid (Elite) card, that figure [b]attacks[/b] « {0} ». This attack ignores accuracy and line of sight.\n
+ [b]Executive Order[/b]: Another Imperial figure on the map that can perform an attack [b]attacks[/b] « {0} ».\n
+ [b]Move 2[/b] to [b]attack[/b] « {0} »."
+M_34U_TANK_INSTRUCTIONS,"• [b]Advanced Shields:[/b] Recover 5.\n
+ [b]Attack[/b] 2 different Rebels. Target « {0} ».\n
+ [b]Attack[/b] « {0} ».\n
+ Recover 3."
+M_34U_TANK_INSTRUCTIONS_NO_SHIELDS,"• [b]Exploited Shields:[/b] Recover 1.\n
+ [b]Attack[/b] 2 different Rebels. Target « {0} ».\n
+ [b]Attack[/b] « {0} ».\n
+ Recover 1."
+M_34U_VILLAIN_DEFEATED,"[b]Deadly Peril[/b]\n\n[i]As the infamous mercenary falls to the floor, the panicked Imperial officer taps a control on a device strapped to his wrist.\n\n""Self destruct initiated,"" a computerized voice intones over the facility's comm system. ""Detonation in {0} minutes."" You aren't sure if this is a real threat or a ruse, but to be safe you had better finish taking out the research before the countdown expires.[/i]"
+M_34U_OFFICER_DEFEATED,"[b]Deadly Peril[/b]\n\n[i]The officer collapses to the floor. With his last ounce of strength, he taps a control on a device strapped to his wrist.\n\n""Self destruct initiated,"" a computerized voice intones over the facility's comm system. ""Detonation in {0} minutes."" You aren't sure if this is a real threat or a ruse, but to be safe you had better finish taking out the research before the countdown expires.[/i]"
+M_34U_E_OFFICER_DEFEATED,"[i]With the officer out of the way, you now have an opportunity to get answers from the scientist.[/i]\n\n Objective Updated \n\n{0}"
+M_34_FORCE_ADVANCE,"[i]With all resistance eliminated, you get to the lift unmolested.[/i] {0}"
+M_34_MINOR_PERIL,"[b]Minor Peril[/b]\n\n[i]Cholganna's native wildlife has joined the hunt. You decide you had better accelerate your investigation before more of its friends arrive.[/i]\n\nDeploy a Nexu ({0})."
+M_34_MINOR_PERIL_2,"[b]Minor Peril[/b]\n\n[i]Another nexu comes slinking out of the jungle.[/i]\n\nDeploy a Nexu ({0})."
+M_34U_CLEAR_MAP,"[i]You all board the lift platform and activate the controls. The platform begins its descent, taking you on a journey in the dark.[/i]\n\nClear the map."
+M_34U_BREAK_ROOM,"[i]The platform comes to a stop and the doors open onto a spacious room with many tables and chairs.[/i]\n\nPlace tiles 02B, 33B, and 1 door."
+M_34U_PLACE_CRATE,"[i]A crate of supplies sits unobtrusively in a corner of the room.[/i]\n\nPlace 1 crate."
+M_34U_CRATE,"[i]There's no telling what you will find in this unmarked box.[/i]\n\nA hero can interact with this crate to open it."
+M_34U_DEPLOY,"[i]You are surprised to find some Imperials seated around the tables. They seem just as surprised to see you.[/i]"
+M_34U_REBELS_DEPLOY,"[i]You prepare your weapons once more.[/i]\n\nA new round has started. Deploy the Rebels."
+M_34U_EXPLORE_BASE,"[i]Sorin is clearly up to something here. You will need to explore the facility to find out what that is, and to put a stop to it if you can.[/i]\n\n Objective Updated \n\n{0}"
+M_34U_OBJECTIVE_3,"Explore the facility to discover Sorin's plans."
+M_34U_DOOR,"[i]There is no indication where this unmarked door leads.[/i]\n\n{0}"
+M_34U_SHADOW,"[i]A dark outline in the corner could be anything.[/i]\n\nThis is a shadow. Select the neutral mission token rule to see how to inspect a shadow."
+M_34U_PLACE_MORE_SHADOWS,"[i]There seems to be something moving in the shadows.[/i]\n\nPlace 4 neutral mission tokens."
+M_34U_DISCARD_TERMINAL," Discard this terminal."
+M_34U_DISCARD_TERMINAL_DESTROYED,"\n\nDiscard this terminal."
+M_34U_LIFT_DOOR,"[i]This door leads to the lift platform, which has gone back to the surface.[/i]\n\nThis door is locked."
+M_34U_COMPUTER_ROOM_PLACE,"[i]One wall of this room is covered in computer panels and screens, which bathe the room in a pale blue light.[/i]\n\nPlace tiles 03B, 35B, and 1 door."
+M_34U_DISAGREEMENT,"[i]An Imperial is having a heated discussion with a Quarren in a lab coat.[/i]\n\nDeploy an Imperial Officer (Elite). Place 1 Imperial mission token and 1 blue terminal."
+M_34U_DISAGREEMENT_2,"[i]""The General paid for this data!"" the officer hisses in a low voice. ""Hand it over now before the intruders get here!""\n\n""But the work is not complete,"" the Quarren scientist objects. ""The shield still draws too much power from other systems..."" The officer cuts her off when he catches sight of you.[/i]"
+M_34U_SHADOWS_PLACE,"[i]""Intruders!"" the officer shouts as he slams a fist down on the control panel. A klaxon blares and the lights in the base go out, replaced with red emergency lighting that cast shadows around the room.[/i]\n\nPlace 4 neutral mission tokens. These are shadows."
+M_34U_HK_ADD,"[i]You think you catch motion out of the corner of your eye where you had not seen anyone before.[/i]\n\nPlace the {0} HK Assassin Droid figures back on their associated card near the map."
+M_34U_QUESTION_SCIENTIST,"[i]This scientist might be willing to tell you what you need to know, at least once that officer is neutralized.[/i]\n\n Objective Updated \n\n{0}"
+M_34U_OBJECTIVE_4A,"Defeat the Imperial Officer (Elite)."
+M_34U_OBJECTIVE_4,"Question the scientist."
+M_34U_SCIENTIST_SCARED,"[i]The scientist is hiding behind her chair, too afraid of the fighting to talk to you.[/i]\n\nDefeat the elite Imperial Officer to be able to question to the scientist."
+M_34U_SCIENTIST,"[i]The Quarren scientist eyes you warily, unsure of your intentions.[/i]\n\nThis is the scientist. A hero can interact with the scientist to uncover Sorin's plans."
+M_34U_SCIENTIST_PLAN,"[i]""General Sorin hired me to develop the shields for his new combat vehicle,"" the scientist tells you, glancing nervously at your weapon.\n\nDestroying the research data would set Sorin back, but acquiring it could be a boon for the Rebellion. Perhaps the scientist could be convinced to hand it over, or you could take it without her cooperation.[/i]\n\n Objective Updated \n\n{0}"
+M_34U_OBJECTIVE_5,"Acquire or destroy all work related to the shield research."
+M_34U_MORE_RESEARCH," There might be more research out there to collect. You had better keep looking."
+M_34U_SCIENTIST_HELP,"[i]You could try to convince the scientist to hand over her research.[/i]\n\nThis is the scientist. A hero can interact with the scientist to try to solicit her help."
+M_34U_SCIENTIST_OPT_1," Persuade her."
+M_34U_SCIENTIST_OPT_2," Threaten her."
+M_34U_SCIENTIST_PERSUADE,"[i]You try to persuade the scientist with a speech about peace and freedom.[/i]\n\nTest ."
+M_34U_SCIENTIST_THREATEN,"[i]You attempt to convince the scientist her life depends on giving her research to you.[/i]\n\nTest ."
+M_34U_SCIENTIST_FAIL,"[i]You aren't able to convince the scientist to help you.[/i]"
+M_34U_SCIENTIST_PASS,"[i]""Very well, have it your way,"" she says. She turns to the computer, makes a few keystrokes, then pulls a datacard out of the computer and hands it over to you. Fearing reprisal from the Imperials, the scientist flees the premises.{0}[/i]\n\nYou gained 5 fame.{1}"
+M_34U_SCIENTIST_PASS_DISCARD," Discard the scientist and the blue terminal."
+M_34U_SCIENTIST_UNLOCK_DOORS,"[i]You use the computer system the scientist left unsecured to unlock the nearby door.[/i]\n\nThe door is now unlocked."
+M_34U_LAB_TERMINAL_LOCKED,"[i]This massive computer bank displays a dizzying amount of data. You aren't sure what any of it means.[/i]"
+M_34U_LAB_TERMINAL_UNLOCKED,"[i]This massive computer bank contains the scientist's work on the shields for Sorin's tank. With some slicing, you could download the data for the Rebellion's use. You decide you should at the very least destroy the system to set back Sorin's progress.[/i]\n\nA hero can interact with this terminal to attempt to slice the system. This terminal can be attacked (Health: {0}, Defense: {1})."
+M_34U_LAB_TERMINAL_SLICE," Slice the system."
+M_34U_LAB_TERMINAL_SLICE_ATTEMPT,"[i]You try to slice into the system to gain access to the data.[/i]\n\nTest ."
+M_34U_LAB_TERMINAL_SLICE_FAIL,"[i]You aren't able to break the scientist's encryption code.[/i]"
+M_34U_LAB_TERMINAL_SLICE_PASS,"[i]You break the scientist's encryption code and access the system. You transfer all data onto a datacard and erase all trace of it from the computer system itself.{0}{1}[/i]\n\nYou gained 5 fame.{2}"
+M_34U_LAB_UNLOCK_DOORS_SLICE,"[i]While you are in the system, you unlock the nearby door.[/i]\n\nThe door is now unlocked."
+M_34U_LAB_SCIENTIST_FLEES," Fearing the Imperials will blame her for the loss of the data, the scientist flees the premises."
+M_34U_LAB_DISCARD_BOTH," Discard this terminal and the scientist."
+M_34U_LAB_TERMINAL_DESTROYED,"[i]You reduce the computer system to a smoldering pile of rubble on the floor.{0}{1}[/i]{2}"
+M_34U_LAB_TERMINAL_DESTROYED_BOTH,"\n\nDiscard this terminal and the scientist."
+M_34U_LAB_UNLOCK_DOORS_DESTROY,"[i]With the facility's computer system destroyed, you hear the lock on the nearby door disengage.[/i]\n\nThe door is now unlocked."
+M_34U_TRAP,"[i]You have discovered a tangled mess of exposed wires. A breeze of circulating air causes two wires to touch, sending an arc of electricity between them.[/i]\n\nIf a figure is in this shadow's space:\nRoll 1 yellow die. Each figure in this shadow's space suffers  equal to the  results and  equal to the  results.\n\nDiscard this shadow."
+M_34U_CRATE_FIND,"[i]You find a crate of supplies hidden in the dark corner.[/i]\n\nReplace this shadow with 1 crate."
+M_34U_SHADOW_NOTHING,"[i]You find nothing of interest in this empty corner.[/i]\n\nDiscard this shadow."
+M_34U_RANGE_PLACE,"[i]The door opens on a wide room.[/i]\n\nPlace tiles 01B, 36B, and 1 door."
+M_34U_RANGE_SHIELD_PLACE,"[i]At the other end of the room is a device with a target painted on it, surrounded by a shimmering energy shield. It seems you have stumbled upon a test firing range.[/i]\n\nPlace a red Imperial mission token. "
+M_34U_RANGE_SETUP_DONE,"[i]Destroying the shield generator will set back Sorin's efforts, but figuring out how to steal it would be even better.[/i]"
+M_34U_RANGE_SHIELD_ON,"[i]A shimmering energy shield surrounds its generator, which has a target painted on it.[/i]\n\n"
+M_34U_RANGE_SHIELD_ON_RULES,"{0}This is the shield generator. The shield generator can be attacked (Health: {1}, Defense: 1 black die)."
+M_34U_RANGE_SHIELD_OFF,"[i]The shield generator is powered down and vulnerable. You could try to steal it, though it does look heavy.[/i]\n\nThis is the shield generator. A hero can interact with the shield generator to try to steal it. The shield generator can be attacked (Health: {0}, Defense: none)."
+M_34U_RANGE_SHIELD_ACQUIRE," Steal the generator."
+M_34U_RANGE_SHIELD_TEST,"[i]You attempt to lift the bulky shield generator.[/i]\n\nTest ."
+M_34U_RANGE_SHIELD_TEST_FAIL,"[i]You strain to lift the generator, but it proves too heavy.[/i]"
+M_34U_RANGE_SHIELD_TEST_PASS,"[i]With a great heave, you lift the generator and sling it over your shoulder.[/i]{0}"
+M_34U_RANGE_SHIELD_DESTROYED,"[i]The generator explodes in a hail of sparks, leaving nothing intact for Sorin to recover.{0}[/i]{1}"
+M_34U_RANGE_SHIELD_DISCARD,"\n\nDiscard the shield generator."
+M_34U_RANGE_TERMINAL_PLACE,"[i]This shadowy form turns out to be a terminal that appears to remotely control the shield generator, but it is under security lockdown.[/i]\n\nReplace this shadow with a red terminal. A hero can interact with this terminal to attempt to shut down the shield."
+M_34U_RANGE_TERMINAL,"[i]This terminal appears to remotely control the shield generator, but it is under security lockdown.[/i]\n\nA hero can interact with this terminal to attempt to shut down the shield."
+M_34U_RANGE_TERMINAL_TECH," Shut down the shield."
+M_34U_RANGE_TERMINAL_TECH_TEST,"[i]You attempt to crack the terminal's security code.[/i]\n\nTest ."
+M_34U_RANGE_TERMINAL_TECH_FAIL,"[i]You aren't able to crack the security code.[/i]"
+M_34U_RANGE_TERMINAL_TECH_PASS,"[i]You override the security lockout and power down the shield generator. The generator will now be easy to acquire or destroy.[/i]\n\nDiscard this terminal.\n\nThe shield generator now has no defense. A hero can interact with the shield generator to try to steal it."
+M_34U_GARAGE_TANK_PLACE,"[i]The room is dominated by a massive vehicle: one of Sorin's tanks!{0}[/i]\n\nDeploy the SC2-M Repulsor Tank with +{1} Health."
+M_34U_GARAGE_TANK_PLACE_NO_WEAPONS," Fortunately, this tank does not have the advanced weapons system possessed by the tanks you encountered previously, thanks to your efforts on Aleen."
+M_34U_DEFEAT_TANK,"[i]You have taken care of all of the data related to the experimental shields, but one prototype remains. You must destroy the repulsor tank in order to erase all traces of the shield research.[/i]\n\n Objective Updated \n\n{0}"
+M_34U_OBJECTIVE_6,"Defeat the SC2-M Repulsor Tank."
+M_34U_TANK_DEFEATED,"[i]The tank goes up in a ball of flame as it crashes to the garage floor. {0}[/i]{1}"
+M_34U_TANK_DEFEATED_FINAL,"Nothing of value is recoverable from the flaming wreck. You have dealt Sorin a major setback."
+M_34U_TANK_DEFEATED_PLAN_KNOWN,"Nothing of value is recoverable from the flaming wreck. Now you just need to ensure that the rest of the research is similarly dealt with."
+M_34U_MINOR_PERIL,"[b]Minor Peril[/b]\n\n[i]The doors to the lift close as the platform begins ascending back to the surface. You have a bad feeling that you're about to get company.[/i]\n\nPush each figure on tile 33B 2 spaces away from that tile. Then remove tile 33B and place 1 door."
+M_34U_MAJOR_PERIL,"[b]Major Peril[/b]\n\n[i]The lift platform has returned from the surface. The doors part, revealing newly arrived reinforcements.[/i]\n\nOpen the door and place tile 33B."
+M_34U_MAJOR_PERIL_RANGE,"[b]Major Peril[/b]\n\n[i]The door in the firing range opens to reveal a lift platform descending from the surface. The platform is crowded with reinforcements.[/i]\n\nOpen the door and place tile 33B."
+M_34U_MAJOR_PERIL_2,"[i]You catch sight of a famous, or perhaps more accurately infamous, mercenary on the crowded lift.[/i]"
+M_34U_MAJOR_PERIL_3,"[i]""General Sorin thanks you for coming so quickly,"" an Imperial officer says to the mercenary. ""If you can take care of these intruders, the General will be happy to pay your fee.""[/i]\n\nDeploy a regular Imperial Officer. Assign it a color."
+M_34U_MAJOR_PERIL_4,"[i]The mercenary has brought some help.[/i]"
+M_34U_MAJOR_PERIL_5,"[i]You don't have time to be distracted by these mercenaries. You need to finish eliminating the shield research before more reinforcements arrive![/i]"
+M_34U_DEADLY_PERIL_1,"[b]Deadly Peril[/b]\n\n[i]""Self destruct in one minute,"" the computerized voice intones. You know your time is very nearly up.[/i]"
+M_34U_DEADLY_PERIL_2,"[b]Deadly Peril[/b]\n\n[i]""Self destruct in {0} minutes,"" the computerized voice intones.[/i]"
+M_34_VICTORY_BEST,"[i]You escape the facility with all of the data you collected from Sorin's shield development, as well as the prototype generator. The Rebellion's own technicians should be able to put all of that to good use, and Sorin's tanks will struggle with the excessive power drain from their shields. You return to your ship knowing you have achieved a great victory for the Rebellion.[/i]\n\nYou gained 10 fame for acquiring the shield research."
+M_34_VICTORY_GOOD,"[i]You escape the facility having destroyed all of Sorin's work. Sorin's tanks will struggle with the excessive power drain from their shields. You return to your ship knowing you have struck a powerful blow to the General's plans.[/i]"
+M_34_DEFEAT_PLAN_UNKNOWN,"[i]You retreat back to your ship, having failed in your efforts to figure out what Sorin was up to on this world. You return to your ship empty-handed.[/i]"
+M_34_DEFEAT_PLAN_KNOWN,"[i]You withdraw from the facility under fire from the Imperials. You have discovered a part of Sorin's plan, but were unsuccessful in your attempts to thwart it. You return to your ship to plan your next move against the General.[/i]"
+M_34_DEFEAT_TIMES_UP,"[i]You realize your time is up and you retreat from the facility. You take a lift to the surface and get clear, waiting to see if the base actually explodes. When you hear the sound of another lift reaching the surface, you are convinced the warnings were just a ruse to get you out of the facility.[/i]"
+M_34_DEFEAT_TIMES_UP_2,"[i]Worried that someone is escaping with the research you left behind, you are just starting on your way to the other lift shaft when the ground begins to rumble. A moment later, a ball of fire shoots out of the lift shaft you had taken to the surface, the concussive waves of the blast knocking you to the ground.[/i]"
+M_34_DEFEAT_TIMES_UP_3,"[i]By the time you get back to your feet and locate the other lift shaft, you find no trace of whoever had returned to the surface before the explosion. You think it's possible the lift had simply surfaced on its own, but you have a feeling you aren't that lucky.[/i]"
+M_34_FOLLOWED_BY_HKS,"[i]On the way back to your ship, you get the feeling that you are being followed. When you reach your ship without any sign of pursuers, you decide the feeling was simply paranoia from dealing with those assassin droids. You put the feeling out of your mind as you go aboard your ship to return to Haven.[/i]"
+
+
+
+
+
+M_35_NAME,"An Inevitable Betrayal"
+M_35_DESC,"[i]Dengar has demanded 10,000 credits in exchange for Benex. He provided you with coordinates for the location of the exchange. You don't have the money, but it shouldn't matter since you're pretty certain it's a trap.[/i]"
+M_35_INTRO,"[i]Dengar provided you with rendezvous coordinates on Nar Shaddaa for making the trade. You scout the location before the meeting and discover Dengar has picked an abandoned factory.[/i]"
+M_35_STARTING_TILE,"[i]You enter the factory through the front entrance. You find yourselves immediately faced with two options of which way to go.[/i]\n\nPlace tiles 25B, 36B and 2 doors."
+M_35_PLACE_REBELS,"[i]Once you are all inside, the door behind you slams shut. You check the door controls and find the door is locked. It appears your only option is to go farther into the factory.[/i]\n\nDeploy the Rebels."
+M_35_INTRO_DENGAR_1,"[i]""Welcome!"" a voice booms over the factory's intercom. You recognize the voice as belonging to Dengar. ""I am pleased that you have come. Now, show me the money.""\n\nYou look around the room and note multiple security holocams tracking your every move.[/i]"
+M_35_INTRO_DENGAR_1_RESP_A,"Show us Benex first."
+M_35_INTRO_DENGAR_1_RESP_B,"Hand over Benex... or else!"
+M_35_INTRO_DENGAR_2A,"[i]""Your friend is unharmed... for now,"" Dengar says. ""Unfortunately, the same cannot be said of you.""\n\nBefore you can reply, vents in the walls begin pumping a white gas into the entryway. You begin to feel sluggish and drowsy.[/i]\n\nEach Rebel may test . Each Rebel that does not pass becomes Weakened."
+M_35_TEST_FAME,"TESTERS: Dengar's response will depend on your overall fame, but we don't currently have benchmarks for fame levels. For now, choose whether you think your fame total is high or low."
+M_35_TEST_FAME_HIGH,"High fame"
+M_35_TEST_FAME_LOW,"Low fame"
+M_35_INTRO_DENGAR_2B_LOW_FAME,"[i]Dengar bursts out in laughter. ""You are good for a laugh, I'll give you that,"" Dengar says. ""Perhaps General Sorin wants to make you his jesters. Whatever his reasons, the bounty he put on your heads is substantial. Now be good guests and go to sleep.""\n\nBefore you can reply, vents in the walls begin pumping a white gas into the entryway. You begin to feel sluggish and drowsy.[/i]\n\nEach Rebel may test . Each Rebel that does not pass becomes Weakened."
+M_35_INTRO_DENGAR_2B_HIGH_FAME,"[i]""You are in no position to be making demands,"" Dengar replies sharply. ""I have made sure of that. I do appreciate your having saved me the trouble of hunting each of you down individually. General Sorin will pay well for prisoners like you, especially if you're still alive.""\n\nVents in the walls begin pumping a white gas into the entryway. You begin to feel sluggish and drowsy.[/i]\n\nEach Rebel may test . Each Rebel that does not pass becomes Weakened."
+M_35_INITIAL_OBJECTIVE,"[i]It's clear now that your only hope of getting Benex back alive is to find Dengar.[/i]\n\n Objective Updated \n\n{0}"
+M_35_OBJECTIVE_FIND_DENGAR,"Find Dengar."
+M_35_LOCKED_DOOR_GARBAGE,"[i]This is the only door you have found that is locked. It's a good bet Dengar is on the other side of it.[/i]\n\nThis door is locked."
+M_35_UNLOCKED_DOOR,"[i]You're not sure where this door leads, but since Dengar left it unlocked, you know you'll have to be careful.[/i]\n\n{0}"
+M_35_NEWLY_UNLOCKED_DOOR,"[i]This door had been locked before you took out the factory security system, so you're confident that Dengar must be inside.[/i]\n\n{0}"
+M_35_DOOR_TO_ENTRYWAY,"[i]This door leads back to the entryway where you entered the factory.[/i]\n\n{0}"
+M_35_CAFETERIA_CONVEYOR_DOOR,"[i]This door separates the cafeteria from the conveyor room.[/i]\n\n{0}"
+M_35_PLACE_1_DOOR," and 1 door"
+M_35_PLACE_2_DOOR," and 2 doors"
+M_35_TERMINAL_RULES,"{0}{1} A hero can interact with this terminal to try to shut it down."
+M_35_TERMINAL_RULES_NON_STUNNED,"{0}{1} A non-Stunned hero can interact with this terminal to try to shut it down."
+M_35_TERMINAL_SHUT_DOWN," Shut down."
+M_35_TERMINAL_SHUT_DOWN_STOREROOM," Shut down terminal."
+M_35_TERMINAL_TEST,"[i]You try to figure out how to operate the terminal.[/i]\n\nTest ."
+M_35_TERMINAL_FAIL,"[i]You keep flicking switches and pressing buttons until you unexpectedly receive an electric shock, which shorts out the terminal.{0}{1}[/i]\n\nBecome Stunned. Discard this terminal.\n\n Objective Updated \n\n{2}"
+M_35_TERMINAL_DESTROYED,"[i]You figure out how to power down the terminal.{0}{1}[/i]\n\nDiscard this terminal.\n\n Objective Updated \n\n{2}"
+M_35_TERMINAL_FIRST,"\n\nWith the terminal shut off, you notice that the security holocams in the room have ceased functioning as well. It seems the building's security systems are connected to terminals like this one. Deactivating all of these terminals could be the key to getting to Dengar."
+M_35_TERMINAL_LAST,"[i]You power down the terminal.{0}[/i]\n\nDiscard this terminal."
+M_35_TERMINAL_LAST_FAIL,"[i]You keep flicking switches and pressing buttons until you unexpectedly receive an electric shock, which shorts out the terminal.{0}[/i]\n\nBecome Stunned. Discard this terminal."
+M_35_TERMINAL_DOOR_UNLOCKED,"[i]With all of the terminals shut down, the security systems in the building are out of commission and all door locks are disengaged.[/i]\n\nThis door is now unlocked.\n\n Objective Updated \n\n{0}"
+M_35_OBJECTIVE_TERMINALS_3,"Find and shut down 3 more terminals."
+M_35_OBJECTIVE_TERMINALS_2,"Find and shut down 2 more terminals."
+M_35_OBJECTIVE_TERMINALS_1,"Find and shut down 1 more terminal."
+M_35_OBJECTIVE_TERMINAL,"Shut down a terminal."
+M_35_CONVEYOR_RULES_UNEXPLORED,"While a Rebel is on one of the highlighted spaces, that Rebel may spend 4 movement points to follow the conveyor belt."
+M_35_CONVEYOR_RULES_UNEXPLORED_2,"While a Rebel is on one of the highlighted spaces, that Rebel may spend 2 movement points to follow the conveyor belt."
+M_35_CONVEYOR_RULES_UNEXPLORED_SELECT," To do this, select the highlighted spaces in the app."
+M_35_CONVEYOR_EXPLORE_OFF,"[i]You step up onto the conveyor belt and move carefully into the dark tunnel through the assembly machine. Once you push past a half-finished droid, you can see a light at the end of the tunnel. A few meters more and you emerge from the machine into a new room.[/i]"
+M_35_CONVEYOR_EXPLORE_ON,"[i]You step up onto the conveyor belt in between a pair of half-built droid bodies and ride it into the assembly machine. Inside it is loud and bright and hot, and you must dodge moving mechanical arms as they swing to and fro to assemble the droids.[/i]\n\nYou may test . If you do not pass, you become Bleeding."
+M_35_CONVEYOR_EXPLORED_YELLOW,"[i]The conveyor belt has proven an effective shortcut.[/i]\n\nPlace your figure as close as possible to a yellow highlighted space.\n\n{0}"
+M_35_CONVEYOR_EXPLORED_WHITE,"[i]The conveyor belt has proven an effective, if dangerous, shortcut.[/i]\n\nPlace your figure as close as possible to a white highlighted space.\n\n{0}"
+M_35_CONVEYOR_RULES_EXPLORED_OFF,"A Rebel figure in a highlighted space may spend 2 movement points to move as close as possible to any other highlighted space."
+M_35_CONVEYOR_RULES_EXPLORED_ON,"A Rebel figure in a highlighted space may spend 4 movement points to move as close as possible to any other highlighted space."
+M_35_FURNACE_ROOM_PLACE,"[i]The door opens into a short hallway, at the end of which is a blazing furnace.[/i]\n\nPlace tiles 23B, 34B, and 36B."
+M_35_FURNACE_ROOM_PLACE_CONVEYOR,"[i]The conveyor belt deposits you in a room with a blazing furnace. A short hallway leads to the door to the entryway where you entered the factory.[/i]\n\nPlace tiles 23B, 34B, and 36B."
+M_35_FURNACE_CRATE,"[i]Among all the scrap around the room is an unopened crate.[/i]\n\n{0}"
+M_35_FURNACE_CONVEYOR_START,"[i]A conveyor belt runs out of a large machine. Just then, a droid emerges from an opening in the machine. It powers on and turns its attention to you![/i]\n\nDeploy a Probe Droid (Regular). Assign it a color."
+M_35_FURNACE_DROID_REGULAR,"[i]Another droid emerges from the assembly line. You only have a few moments before it powers up.[/i]\n\nDeploy a Probe Droid (Regular). Assign it a color.\n\nThis group will ready at the end of the next Rebel activation."
+M_35_FURNACE_DROID_ELITE,"[i]Another droid emerges from the assembly line. You only have a few moments before it powers up.[/i]\n\nDeploy a Probe Droid (Elite).\n\nThis group will ready at the end of the next Rebel activation."
+M_35_FURNACE_TERMINAL_PLACE,"[i]A nearby terminal is covered in levers and buttons and flashing lights. Perhaps this terminal controls the assembly line.[/i]\n\n"
+M_35_FURNACE_TERMINAL,"[i]This terminal appears to control the assembly line.[/i]\n\n"
+M_35_FURNACE_TERMINAL_SHUT_DOWN," The assembly line grinds to a halt."
+M_35_FURNACE_FOLLOW_CONVEYOR,"[i]With the assembly line shut down, you could find out where the conveyor belt leads.[/i]\n\n{0}{1}"
+M_35_FURNACE_CONVEYOR_UPDATE,"[i]With the assembly line shut down, it will be easier to move along the conveyor belt.[/i]\n\n{0}"
+M_35_FURNACE_TERMINAL_OBJECTIVE,"[i]That assembly line is going to keep churning out droids unless you can shut it down.[/i]\n\n Objective Updated \n\n{0}"
+M_35_CAFETERIA_ROOM_PLACE,"[i]You find yourself looking in on what appears to have been a cafeteria for the factory's workers.[/i]\n\nPlace tile 02B{0}."
+M_35_CAFETERIA_OPEN_DOOR,"[i]The door at the other end of the room unexpectedly opens as well.[/i]\n\nOpen this door."
+M_35_CAFETERIA_CRATE,"[i]An unopened crate sits in a corner of the cafeteria.[/i]\n\n{0}"
+M_35_CAFETERIA_TERMINAL_PLACE,"[i]A terminal with a placard reading ""FAN CONTROL"" is positioned against one wall of the cafeteria. On top of the machine is a large canister with the words ""WARNING: HAZARDOUS GAS"" inscribed on the side. This must be how Dengar is pumping gas through the ventilation system.[/i]\n\n"
+M_35_CAFETERIA_TERMINAL,"[i]This terminal is pumping noxious gas throughout the factory.[/i]\n\n"
+M_35_CAFETERIA_TERMINAL_OBJECTIVE,"[i]The poison gas is taking its toll on you. You better shut down that fan quickly![/i]\n\n Objective Updated \n\n{0}"
+M_35_CAFETERIA_TERMINAL_SHUT_DOWN," The fan slows to a stop, as does the sound of the hissing gas."
+M_35_CAFETERIA_ENEMIES,"[i]Several heavily armed mercenaries, all wearing gas-masks, stand awaiting your arrival.[/i]"
+M_35_CONVEYOR_ROOM_PLACE_RUNNING,"[i]A conveyor belt runs along one side of this room. The belt is carrying half-completed droids of some kind into a large machine.[/i]\n\nPlace tile 20B{0}."
+M_35_CONVEYOR_TOKENS_PLACE,"[i]A number of metal plates covering the floor in a grid pattern seem out of place compared to the rest of the factory. When you look closer, you see waves of energy shimmer across each of the plates. You have a feeling you had better step carefully in here.[/i]\n\nPlace 6 Imperial mission tokens. See the rules for Imperial mission tokens at the bottom of the screen."
+M_35_IMPERIAL_MISSION_TOKEN_RULES,"When a figure enters a space with an Imperial mission token, that figure rolls 1 yellow die and suffers  equal to the  results and  equal to the  results. Then that figure becomes Stunned.
+
+Imperial figures will not voluntarily enter a space with an Imperial mission token."
+M_35_REBEL_MISSION_TOKEN_RULES,"Rebel mission tokens have no effect."
+M_35_CONVEYOR_TERMINAL_PLACE,"[i]A series of wires runs from a terminal down into the floor. This terminal must be controlling the electricity that is running through the floor plates.[/i]\n\n"
+M_35_CONVEYOR_TERMINAL,"[i]This terminal controls the electricity running through the plates covering the floor.[/i]\n\n"
+M_35_CONVEYOR_TERMINAL_SHUT_DOWN," The floor plates no longer shimmer with energy."
+M_35_CONVEYOR_TERMINAL_DESTROYED,"[i]With its energy source cut off, the floor is no longer electrified.[/i]\n\nDiscard all Imperial and Rebel mission tokens."
+M_35_CONVEYOR_FOLLOW_CONVEYOR,"[i]The conveyor may lead somewhere important, but following it while the assembly machine is running would be dangerous.[/i]\n\n{0}{1}"
+M_35_CONVEYOR_FOLLOW_CONVEYOR_STOPPED,"[i]You could follow the conveyor to see where it leads.[/i]\n\n{0}{1}"
+M_35_CONVEYOR_FLOOR_FIRST,"[i]Two of the metal plates on the floor no longer show signs of being energized. Either the energized flooring does not have enough energy to keep all of the plates powered, or else Dengar is toying with you.[/i]\n\nFlip the green Imperial mission tokens to their Rebel side. {0}"
+M_35_CONVEYOR_FLOOR_GREEN,"[i]Two more metal plates lose their energy while the previously safe plates become re-energized.[/i]\n\nFlip the green Imperial mission tokens to their Rebel side. Then flip the red Rebel mission tokens to their Imperial side.
+
+Each figure occupying a space with a red Imperial mission token rolls 1 yellow die and suffers  equal to the  results and  equal to the  results. Then those figures become Stunned."
+M_35_CONVEYOR_FLOOR_YELLOW,"[i]Two more metal plates lose their energy while the previously safe plates become re-energized.[/i]\n\nFlip the yellow Imperial mission tokens to their Rebel side. Then flip the green Rebel mission tokens to their Imperial side.
+
+Each figure occupying a space with a green Imperial mission token rolls 1 yellow die and suffers  equal to the  results and  equal to the  results. Then those figures become Stunned."
+M_35_CONVEYOR_FLOOR_RED,"[i]Two more metal plates lose their energy while the previously safe plates become re-energized.[/i]\n\nFlip the red Imperial mission tokens to their Rebel side. Then flip the yellow Rebel mission tokens to their Imperial side.
+
+Each figure occupying a space with a yellow Imperial mission token rolls 1 yellow die and suffers  equal to the  results and  equal to the  results. Then those figures become Stunned."
+M_35_STOREROOM_PLACE,"[i]You find yourself looking in on a small storeroom cluttered with supplies for the factory.[/i]\n\nPlace tile 22B and 1 door."
+M_35_STOREROOM_CANISTER_PLACE,"[i]The storeroom is filled with large, cylindrical canisters. Each of the canisters is labeled ""WARNING: HAZARDOUS GAS.""[/i]\n\nPlace 9 neutral mission tokens. These are canisters. See the rules for canisters at the bottom of the screen."
+M_35_STOREROOM_CANISTER,"[i]A large metal canister with the words ""WARNING: HAZARDOUS GAS"" blocks your way.\n\nThe canisters are too heavy to move by hand, but you might be able to move them using the crane.[/i]\n\nThis is a canister. {0}"
+M_35_STOREROOM_CANISTER_RULES,"Neutral mission tokens are canisters. Spaces containing a canister are blocking terrain. Canisters can be attacked (Health: 5, Defense: 2).\n\nWhen a canister is destroyed, each figure within 2 spaces of tile 22B suffers 2 for each of its activation portraits and becomes Weakened."
+M_35_STOREROOM_TERMINAL_PLACE,"[i]There is a crane system built into the ceiling. You guess its purpose is for moving around the heavy canisters. A nearby terminal looks like it controls the crane.[/i]\n\nPlace 1 terminal. {0}"
+M_35_STOREROOM_TERMINAL,"[i]This terminal appears to control a crane used to move canisters around. Its automated system has been sabotaged, so you'll need a good eye to position the crane properly.[/i]\n\n{0}"
+M_35_STOREROOM_TERMINAL_SHUT_DOWN," The hum of the crane's motor ceases."
+M_35_STOREROOM_TERMINAL_RULES,"A hero can interact with this terminal to attempt to move a canister with the crane system or to try to shut down the terminal."
+M_35_STOREROOM_TERMINAL_USE," Move a canister."
+M_35_STOREROOM_TERMINAL_TEST,"[i]You attempt to use the crane to move a canister.[/i]\n\nTest ."
+M_35_STOREROOM_TERMINAL_PASS,"[i]You successfully maneuver the crane over the canister, lift it, and gently set it down in a new spot.[/i]\n\nPush a canister up to {0} spaces. It cannot enter spaces with a figure or another token, and it cannot leave tile 22B."
+M_35_STOREROOM_TERMINAL_PASS_1,"[i]You successfully maneuver the crane over the canister, lift it, and gently set it down in a new spot.[/i]\n\nPush a canister 1 space. It cannot enter spaces with a figure or another token, and it cannot leave tile 22B."
+M_35_STOREROOM_TERMINAL_FAIL,"[i]The canister rises shakily before crashing to the ground. A puncture in the side releases the toxic gas contained inside.[/i]\n\nEach figure within 2 spaces of tile 22B suffers 2 for each of its activation portraits and becomes Weakened.\n\nChoose and discard a canister."
+M_35_STOREROOM_CRATE,"[i]Hidden among the canisters of toxic gas is a lone crate.[/i]\n\n{0}"
+M_35_GARBAGE_PLACE,"[i]The door opens to reveal some kind of laboratory.[/i]\n\nPlace tiles 01B, and 36B (2)."
+M_35_GARBAGE_CRATE,"[i]The lab is mostly picked clean, but you spot what appears to be an unopened crate in one corner of the room.[/i]\n\n{0}"
+M_35_GARBAGE_CREATURES,"[i]At each end of the room are doors labeled ""TEST SUBJECTS."" Dengar hits a control on the wall behind him and the doors begin to open. Hungry creatures emerge from the shadows of the cages.[/i]"
+M_35_CONTROL_BENEX_PLACE,"[i]Tied to a chair in the middle of the room is Benex. She is bleeding from multiple lacerations and appears to have lost a lot of blood. If she's not treated, she could bleed to death.[/i]\n\nPlace 1 Rebel mission token. {0}\n\nPlace {1} on Benex."
+M_35_CONTROL_BENEX,"[i]Benex sits tied to a chair, moaning softly. Her eyes are closed and blood runs from the corner of her mouth.[/i]\n\n{0}"
+M_35_CONTROL_BENEX_RULES,"This is Benex. Benex is a neutral figure with 10 Health. A hero can interact with Benex to try to treat her wounds or spend a Medpac to have her recover 3."
+M_35_CONTROL_BENEX_TREAT," Treat Benex."
+M_35_CONTROL_BENEX_MEDPAC," Use Medpac on Benex."
+M_35_CONTROL_BENEX_MEDPAC_USE,"[i]You use a medpac to treat Benex's wounds.[/i]\n\nBenex recovers 3."
+M_35_CONTROL_BENEX_TREAT_TEST,"[i]You attempt to render first aid to the tortured woman.[/i]\n\nTest .{0}
+
+After rolling, you may discard 1 [i]Medical[/i] Supply card to add 1 to your total."
+M_35_CONTROL_BENEX_TREAT_MHD," If you are MHD-19, add 1 to your total."
+M_35_CONTROL_BENEX_TREAT_FAIL,"[i]You bandage a skin abrasion, but it doesn't appear to have helped much.[/i]"
+M_35_CONTROL_BENEX_TREAT_PASS,"[i]You bandage one of Benex's smaller cuts.[/i]\n\nBenex recovers 1."
+M_35_CONTROL_BENEX_TREAT_CRIT,"[i]You manage to staunch the bleeding from one of the larger lacerations.[/i]\n\nBenex recovers 2."
+M_35_CONTROL_DENGAR_DEPLOY,"[i]""You may have lucked your way through my factory of fear,"" Dengar says from his position behind Benex, his gun to her head. ""That just means I get the pleasure of watching you suffer in person.""[/i]\n\nDeploy Dengar."
+M_35_CONTROL_VILLAIN_DEPLOY,"[i]Another deadly mercenary creeps out of the shadows behind you and prepares to strike![/i]"
+M_35_CONTROL_DENGAR_BONUS_HEALTH,"[i]You notice that Dengar is wearing more armor than usual.[/i]\n\nApply +{0} Health to Dengar."
+M_35_CONTROL_OBJECTIVE,"[i]You'll need to fight off Dengar and his associate in order to get Benex out alive.[/i]\n\n Objective Updated \n\n"
+M_35_OBJECTIVE_FINAL,"{0}Defeat Dengar and {1} before Benex bleeds out."
+M_35_OBJECTIVE_FINAL_2,"Defeat {0} before Benex bleeds out."
+M_35_VILLAIN_DEFEATED,"[i]With his ally defeated, {0} redoubles his efforts.[/i]\n\n{0} becomes Focused.\n\n Objective Updated \n\nDefeat {0} before Benex bleeds out."
+M_35_VILLAIN_DEFEATED_MAUL,"[i]With his ally defeated, Maul redoubles his efforts.[/i]\n\nMaul becomes Focused.\n\n Objective Updated \n\nDefeat Maul before Benex bleeds out."
+M_35_BOMBER_DROID_INSTRUCTIONS," [b]Move 6[/b] to be within 2 spaces of as many Rebels as possible.\n
+[b]Self Destruct[/b]:\n
+• Each Rebel within 2 spaces of this figure rolls 1 red die for each of their activation tokens and suffers  equal to their  results.\n
+• This figure is defeated. (Do not defeat it in the app. It will be removed automatically.)"
+M_35_BOMBER_DROID_BONUS,"No bonus."
+M_35_DENGAR_INSTRUCTIONS," [b]Punishment:[/b] [b]Move 2[/b] to [b]attack[/b] « {0} ». After this attack, for each unspent , the defender must gain 1 [i]Harmful[/i] condition of their choice that they do not already have.\n
+ [b]Move 2[/b] toward Benex. If this figure is adjacent to Benex, Benex suffers 1."
+M_35_DENGAR_BENEX,"Has Benex suffered 10 or more ?"
+M_35_DENGAR_BENEX_CONFIRM,"Are you sure you want to defeat Benex? This will end the mission."
+M_35_POISON_GAS,"[i]Poison gas continues to pour from vents around the factory.[/i]\n\nEach Rebel may test . Each Rebel that does not pass suffers 1 for each of their activation portraits and becomes Weakened."
+M_35_MORE_CREATURES,"[i]Another hungry creature wanders in through the open door in search of a meal.[/i]"
+M_35_MINOR_PERIL,"[b]Minor Peril[/b]
+
+[i]""You want proof that your friend is alive?"" Dengar's voice asks over the intercom. ""Well, here it is.""
+
+""Save yourselves!"" Benex cries out. ""Sorin doesn't want me, it's you..."" She suddenly goes silent.
+
+""Now that you have proof,"" Dengar continues, ""lay down your weapons or she won't be alive much longer.""[/i]
+
+You have limited time in which to complete your mission."
+M_35_MAJOR_PERIL,"[b]Major Peril[/b]
+
+[i]""Your friend wishes to say something,"" Dengar's voice says over the intercom. A moment later, Benex's scream echoes through the factory, followed by a wicked cackle from Dengar. ""Surrender now and her torment ends.""
+
+You had better pick up your pace. The longer you take, the more danger Benex is in.[/i]
+
+Your time to find Dengar is running out."
+M_35_DEADLY_PERIL,"[b]Deadly Peril[/b]
+
+[i]""I tire of this game,"" Dengar says over the intercom. ""Lay down your weapons now or else.""
+
+You have no doubt that if you don't find Dengar now, something horrible will happen to Benex.[/i]
+
+You have one round to find Dengar."
+M_35_BENEX_BLEEDING,"[b]Deadly Peril[/b]
+
+[i]Benex continues to bleed from her wounds.[/i]\n\nBenex suffers {0}.
+
+Has Benex suffered 10 or more ?"
+M_35_VICTORY,"[i]{0} is forced to conclude that this battle is lost and abandons the fight, leaving you the opportunity to scare off the wild creatures and finally free Benex from her bonds.\n\nAs {1} and {2} each take one of Benex's arms over their shoulders, she says, ""I didn't expect you to come for me. Perhaps I misjudged you."" You help her back to Sorin's shuttle so that you can take her home.[/i]"
+M_35_DEFEAT_BENEX,"[i]Benex lets out a piercing scream, then slumps forward in her chair and remains still.\n\nHaving failed to save Haven's leader, you have no reason to fight on and beat a hasty retreat.[/i]"
+M_35_DEFEAT_BENEX_OFFSCREEN,"[i]A piercing scream echoes throughout the factory, then goes silent. ""You are too late,"" Dengar says over the intercom. ""Benex is gone.""\n\nHaving failed to save Haven's leader, you have no reason to fight on and beat a hasty retreat. Dengar's cruel laughter taunts you as you flee.[/i]"
+M_35_DEFEAT_OTHER,"[i]The rescue mission proves too much for you to handle, so you beat a hasty retreat to avoid becoming Dengar's captives. The hunter's cruel laughter taunts you as you flee.[/i]"
+M_36_NAME,"Our Last Hope"
+M_36_DESC,"[i]Your desperate plan to board the Star Destroyer worked, though you couldn't stop the ship from jumping to Ison. Race to the bridge and confront Sorin before Haven is lost![/i]"
+M_36_PROLOGUE,"[i]Imperials race through the corridors as they prepare their invasion.\n\nSlowly, methodically, you evade these forces and climb toward the bridge.[/i]"
+M_36_INTRO_TILES,"[i]After several close calls, you finally reach the bridge. Through the open door, you overhear an Imperial transmission. ""First division deployed. Second landing now, sir!"" a trooper's voice crackles.\n\nOut of time to spare, you ambush the pair of stormtroopers standing guard and stride into Sorin's command center.[/i]\n\nPlace tiles 21A, 25A, 28A, 29A, 31A, 32A, 34A, 35A, and 36A(2)."
+M_36_TERMINALS,"[i]The secluded mountain village of Haven is clearly and threateningly visible over the Destroyer's command panels.[/i]\n\nPlace 3 terminals."
+M_36_INTRO_CRATE,"[i]A crate of supplies sits just inside Sorin's personal command chamber.[/i]\n\nPlace a crate."
+M_36_INTRO_OFFICER_1,"[i]An officer maintains the Star Destroyer's steady course toward Haven.[/i]\n\nDeploy an Imperial Officer (Regular). Assign it a color."
+M_36_INTRO_OFFICER_2,"[i]A second officer appears to be monitoring the ship's diagnostics.[/i]\n\nDeploy another Imperial Officer (Regular). Assign it a color."
+M_36_INTRO_SORIN,"[i]General Sorin stands with his hands clasped behind his back, admiring the view of his coming victory.[/i]\n\nDeploy General Sorin."
+M_36_INTRO_DOORS,"[i]Suddenly, an alarm blares. You turn around to find one of the guards has crawled to an alert station.\n\nGeneral Sorin whips around. His surprise melts to hatred almost instantly. ""Lockdown on the bridge!"" he yells. ""Security!""[/i]\n\nPlace 3 doors. These doors are locked."
+M_36_INTRO_SPAWN,"[i]Nearby security personnel rush to their general's defense.[/i]"
+M_36_INTRO_DEPLOY,"[i]The guards lock all exits from the bridge to prevent your escape. You're surrounded, but the ship's controls are finally within reach.[/i]\n\nDeploy the Rebels."
+M_36_INTRO_OBJECTIVE,"[i]As Haven's certain destruction looms, you resolve to disable Sorin's flagship by any means necessary.[/i]\n\n Objective Updated \n\n{0}"
+M_36_DOOR_LOCKED,"[i]This thick durasteel door can't be broken in time to save Haven. The nearby terminal likely controls the safety protocols.[/i]"
+M_36_DOOR_LOCKED_2,"[i]This thick durasteel door can't be broken in time to save Haven. Sorin's terminal likely controls the safety protocols.[/i]"
+M_36_BRIDGE_CRATE,"[i]A heavy snowcoat lies neatly draped over a standard-issue Imperial supply crate.[/i]\n\nA hero can interact with this crate to open it."
+M_36_DISCARD_DOOR_STRING,"\n\nOpen the closest door."
+M_36_DISCARD_DOOR_STRING_2,"\n\nOpen all doors."
+M_36_TERMINAL_LOCKED,"[i]Sorin's terminal seems to have direct control of the Destroyer's weapons.[/i]\n\nThis terminal is currently inaccessible."
+M_36_TERMINAL_INFO_1,"[i]Amid the complex control panels before you, this terminal seems to control the Destroyer's navigation.[/i]\n\nA hero can interact with this terminal to try to disable it."
+M_36_TERMINAL_INFO_2,"[i]Amid the complex control panels before you, this terminal seems to control the Destroyer's maintenance.[/i]\n\nA hero can interact with this terminal to try to disable it."
+M_36_TERMINAL_INFO_3,"[i]Sorin's terminal seems to have direct control of the Destroyer's weapons.[/i]\n\nA hero can interact with this terminal to try to disable it."
+
+M_36_TERMINAL_TECH," Bypass security ()"
+M_36_TERMINAL_INSIGHT," Search workstation ()"
+M_36_TERMINAL_STRENGTH," Smash it! ()"
+M_36_TEST_TECH,"[i]The security seems slightly more advanced than standard, but it's missing the update that covers your latest techniques.[/i]\n\nTest ."
+M_36_TEST_TECH_B,"[i]The security seems adequate for an average slicer, but not for you.[/i]\n\nTest ."
+M_36_TEST_TECH_C,"[i]The security seems robust to the untrained eye, but Imperial systems always have a weakness.[/i]\n\nTest ."
+M_36_TEST_INSIGHT,"[i]You quickly scan the officer's workstation.[/i]\n\nTest ."
+M_36_TEST_INSIGHT_B,"[i]You quickly search your surroundings.[/i]\n\nTest ."
+M_36_TEST_INSIGHT_C,"[i]You quickly investigate the workstation.[/i]\n\nTest ."
+M_36_TEST_STRENGTH,"[i]The panels sport the latest Imperial interface. Improved ergonomics, same poor impact resistance.[/i]\n\nTest ."
+M_36_TEST_STRENGTH_B,"[i]The panel flashes and beeps an infuriating riddle. Luckily, you know the solution.[/i]\n\nTest ."
+M_36_TEST_STRENGTH_C,"[i]The terminal's security seems robust. The frame, not so much.[/i]\n\nTest ."
+M_36_TECH_FAIL_0,"[i]You fumble the inputs and have to start over.[/i]"
+M_36_TECH_FAIL_1,"[i]You expertly run the first half of your incursion, but need another moment to finish it.[/i]"
+M_36_TECH_FAIL_1_B,"[i]You quickly complete the first half of your incursion, but need another moment to finish it.[/i]"
+M_36_TECH_FAIL_1_C,"[i]You swiftly run the first half of your incursion, but need another moment to finish it.[/i]"
+M_36_TECH_PASS,"[i]You infiltrate the terminal and disable some of the Destroyer's functions.[/i]\n\nDiscard this terminal.{0}"
+M_36_TECH_PASS_B,"[i]You easily bypass the security and cut power to some of the Destroyer's functions.[/i]\n\nDiscard this terminal.{0}"
+M_36_TECH_PASS_C,"[i]You slice into the terminal and sabotage some of the Destroyer's functions.[/i]\n\nDiscard this terminal.{0}"
+M_36_INSIGHT_FAIL_0,"[i]At a glance, nothing seems out of the ordinary.[/i]"
+M_36_INSIGHT_FAIL_1,"[i]An Imperial left the password on a datapad, but you need another clue to disable the panel.[/i]"
+M_36_INSIGHT_FAIL_1_B,"[i]A nearby datapad displays the terminal password, but you need another clue to disable the panel.[/i]"
+M_36_INSIGHT_FAIL_1_C,"[i]An unlocked datapad contains a short list of passwords, but you need another clue to disable the panel.[/i]"
+M_36_INSIGHT_PASS,"[i]Using the password and login instructions from a nearby datapad, you easily disable this panel.[/i]\n\nDiscard this terminal.{0}"
+M_36_INSIGHT_PASS_B,"[i]Using the password and login instructions from a nearby datapad, you easily disable this panel.[/i]\n\nDiscard this terminal.{0}"
+M_36_INSIGHT_PASS_C,"[i]Using the password and login instructions from a nearby datapad, you easily disable this panel.[/i]\n\nDiscard this terminal.{0}"
+M_36_STRENGTH_FAIL_0,"[i]You slam your fist on the panel. You don't even dent the frame, but one of the buttons sticks a little now.[/i]"
+M_36_STRENGTH_FAIL_1,"[i]Several buttons crack and the terminal flashes intermittently. You rear back for another strike.[/i]"
+M_36_STRENGTH_FAIL_1_B,"[i]The terminal sparks and stutters, but still functions. You rear back for another strike.[/i]"
+M_36_STRENGTH_FAIL_1_C,"[i]Buttons fly off and the crack crawls across the still-functioning display. You rear back for another strike.[/i]"
+M_36_STRENGTH_PASS,"[i]The panel caves in under your fist. The terminal shatters and you swear you feel the entire ship tilt a little.[/i]\n\nDiscard this terminal.{0}"
+M_36_STRENGTH_PASS_B,"[i]The panel disintegrates under your fist. The terminal clatters to the floor and you think you feel the entire ship rock.[/i]\n\nDiscard this terminal.{0}"
+M_36_STRENGTH_PASS_C,"[i]The panel cracks in half as your fist carves a crater into the terminal. Maybe its just adrenaline, but you feel the entire ship dip a little.[/i]\n\nDiscard this terminal.{0}"
+M_36_LIGHT_FLICKER,"[i]As the security fails, the lights flicker off and the entire bridge rumbles. You catch stuttered glimpses of the general as emergency lights strobe throughout the shuddering bridge.\n\n""Stop those Rebels!"" Sorin shouts as he disappears into the shadows.[/i]\n\nRemove General Sorin from the map."
+M_36_BRIDGE_HK,"[i]Emergency light glints off of a polished bronze chassis. The droid struggles to keep its balance as the bridge restabilizes.[/i]\n\nDeploy HK Assassin Droids (Elite).\n\nEach figure in this group becomes Weakened."
+M_36_BRIDGE_STORM,"[i]Emergency light glints off of familiar white armor. The stormtroopers struggle to regain their balance as the bridge restabilizes.[/i]\n\nDeploy Stormtroopers (Regular). Assign a color.\n\nEach figure in this group becomes Weakened."
+M_36_TERMINAL_OBJECTIVE_1,"[i]You regret that Sorin escaped through your fingers, but as Haven looms ever closer you have no time to waste.[/i]\n\n Objective Updated \n\n{0}"
+M_36_TERMINAL_OBJECTIVE_2,"[i]The Star Destroyer is definitely listing now. You focus on taking the ship down while choosing to ignore the fact that you're still on it.[/i]\n\n Objective Updated \n\n{0}"
+M_36_CRASH,"[i]The entire bridge flickers and goes dark. The ever-present hum of the engines dulls. Datapads slide from desks as the ship lists aimlessly and the floor drops from beneath your feet.\n\nYou hopelessly brace for impact as the snowcapped mountains of Ison reach up to pierce the plummeting Star Destroyer.[/i]"
+M_36_CRASH_B,"[i]The entire bridge flickers and goes dark. The ever-present hum of the engines dulls. Datapads slide from desks as the ship lists aimlessly and the floor drops from beneath your feet.\n\nYou hopelessly brace for impact as the snowcapped mountains of Ison reach up to pierce the plummeting Star Destroyer.[/i]\n\nRemove all figures from the map."
+M_36_REMOVE_ENDCAPS,"[i]Coughing up smoke and ice, you dig yourselves out of the wreckage. The last thing you remember is the horrific screeching of the shearing hull and the blast of snow crashing through the viewport.[/i]\n\nRemove tiles 36A(2).\n\nEach hero suffers 2 for each of his or her activation portraits."
+M_36_REMOVE_ENDCAPS_NORMAL,"[i]Coughing up smoke and ice, you dig yourselves out of the wreckage. The last thing you remember is the horrific screeching of the shearing hull and the blast of snow crashing through the viewport.[/i]\n\nRemove tiles 36A(2)."
+M_36_ISON_TILES,"[i]The broken ship carved a flaming ravine through the mountains, finally crunching to a stop when it hit the largest peak overlooking Haven's fields and makeshift defense station.[/i]\n\nPlace tiles 03A, 05B, 06A, 09B, 16A, 17A, 17B, 19B, 20A(3), 22B and 23A."
+M_36_ISON_CRATES,"[i]Supply caches are hidden across the battlefield.[/i]\n\nPlace 3 crates."
+M_36_ISON_BARRICADES,"[i]Haven's gates miraculously still stand, but with Sorin's troops already besieging the village, they won't hold long.[/i]\n\nPlace 4 doors. These are barricades.\n\nSee additional rules for barricades at the bottom of the screen."
+M_36_BARRICADE_DAMAGE,"[i]The outermost gates already show signs of damage from Sorin's orbital assault.[/i]\n\nThe 2 indicated doors each suffer {0}."
+M_36_ISON_TANK,"[i]Sorin's pet project leads the assault on Haven.[/i]\n\nDeploy the SC2-M Repulsor Tank with +{0} Health."
+M_36_ISON_RANDOM,"[i]The general's myriad forces support the siege on foot.[/i]"
+M_36_ISON_TUNNELS,"[i]You watch the Imperial flood crashing down on the two paths into Haven, but you remember Benex mentioning secret tunnels in the village's defense. You could use these tunnels to react to the siege.[/i]\n\nPlace 2 green, 2 yellow, and 2 red mission tokens. These are tunnels.\n\nRebels can move between matching tunnels as if they were adjacent spaces."
+M_36_ISON_MOVE,"[i]As the world finally stops spinning you prepare for battle.[/i]\n\nA new round has started.\n\nEach Rebel may interrupt to perform a move or a rest."
+M_36_ISON_MOVE_B,"[i]As the world finally stops spinning you struggle to your feet.[/i]\n\nA new round has started.\n\nDeploy each hero {0}to a different indicated space."
+M_36_ISON_MOVE_ALLY,"and ally group "
+M_36_ISON_OBJECTIVE,"[i]You catch glimpses of villagers peeking from their windows and you realize that you are the last hope for the people trapped inside Haven.[/i]\n\n Objective Updated \n\n{0}"
+M_36_TUNNEL_GREEN,"[i]This hidden tunnel provides the base easy access to its only turret.[/i]\n\nRebels can move between matching tunnels as if they were adjacent spaces."
+M_36_TUNNEL_YELLOW,"[i]This old ventilation shaft is wide enough for a person, but well camouflaged.[/i]\n\nRebels can move between matching tunnels as if they were adjacent spaces."
+M_36_TUNNEL_RED,"[i]A secret escape tunnel runs behind this ration storehouse.[/i]\n\nRebels can move between matching tunnels as if they were adjacent spaces."
+M_36_BARRICADE_OUT_1,"[i]Haven's outer gate is constructed from the hardy nearby timber. It's done an excellent job of keeping local predators out of the village, but it won't hold long against the Empire.[/i]\n\nHealth: 15 — Defense: 2"
+M_36_BARRICADE_OUT_2,"[i]Haven's inner gate boasts giant forest logs carved into the shapes of the local animals. The woodwork cleverly hides the reinforced durasteel frame.[/i]\n\nHealth: 15 — Defense: 2"
+M_36_BARRICADE_IN_1,"[i]The outpost's emergency door should buy you some time, but it won't last forever.[/i]\n\nHealth: 15 — Defense: 2"
+M_36_BARRICADE_IN_2,"[i]The outpost's entrance to Haven has been hastily reinforced with timber from inside the village.[/i]\n\nHealth: 15 — Defense: 2"
+M_36_CRATE_OUT,"[i]Some equipment peeks out from behind a damaged turret panel.[/i]\n\nA hero can interact with this crate to open it."
+M_36_CRATE_IN_1,"[i]Tucked under a monitoring station, spare supplies have been left for emergencies such as this.[/i]\n\nA hero can interact with this crate to open it."
+M_36_CRATE_IN_2,"[i]The lid to this crate is frosted in ice due to the severe draft throughout the outpost.[/i]\n\nA hero can interact with this crate to open it."
+
+M_36_BARRICADE_OUT_OBJ,"[i]Wooden splinters shower the area as the outer barricade finally shatters. Unflinchingly, the Imperials advance down the snowy path to the village.[/i]\n\nThe mission will end if either of the indicated doors are destroyed.\n\n Objective Updated \n\n{0}"
+M_36_BARRICADE_IN_OBJ,"[i]The emergency door crumples and falls to the floor. The Imperials raise a triumphant cheer and set their sights on the last barricade.[/i]\n\nThe mission will end if either of the indicated doors are destroyed.\n\n Objective Updated \n\n{0}"
+M_36_PERIL_MINOR,"[b]Minor Peril[/b]\n\n[i]Haven looms through the viewport. You think of the innocents who might suffer simply for offering you refuge and your stomach churns.[/i]\n\nEach hero suffers 1 for each of his or her activation portraits."
+M_36_PERIL_MAJOR,"[b]Major Peril[/b]\n\n[i]The deck shudders and you stumble as something begins drawing power.[/i]\n\nEach hero suffers 1 for each of his or her activation portraits."
+M_36_PERIL_MAJOR_2,"[i]You regain your footing and glance at the bridge panels. The Star Destroyer's primary weapon is now armed. Take the ship down now or Haven will be destroyed![/i]"
+M_36_PERIL_DEADLY,"[b]Deadly Peril[/b]\n\n[i]You're too late! Sorin's forces halt their siege below and Sorin's flagship fires its weapon at the mountain village.[/i]"
+M_36_BENEX_INTRO,"[i]""I was starting to worry you weren't coming back,"" Benex shouts from the top of an old defense turret. ""Glad to have some real soldiers on our side!""[/i]\n\nChoose an Imperial figure within 4 spaces of the highlighted spaces then roll 1 red die. That figure suffers  equal to the  results."
+M_36_BENEX_TURRET,"[i]Benex holds her position and fires the turret.[/i]\n\nChoose an Imperial figure within 4 spaces of the highlighted spaces then roll 1 red die. That figure suffers  equal to the  results."
+M_36_TIMER_MOVE,"[i]Watching Haven's barricade fall fills you with desperate energy.[/i]\n\nEach hero may interrupt to perform a move or a rest."
+M_36_TALCON,"[i]""I got here as soon as I could,"" Talcon pants. ""The villagers I could find are safe in the mountains, but they can't survive out there for long.""\n\nThe lieutenant stares blankly at the sky for a moment before snapping back to reality with a flash of determination. ""And I refuse to lose anybody else. For Kish!""[/i]\n\nDeploy 1 Echo Base Trooper (Elite) figure as an ally to a red or yellow Rebel mission token of your choice."
+M_36_TALCON_KISH,"[i]""We got back as soon as we could,"" Talcon pants. ""The villagers are safe in the mountains, but they can't survive out there for long.""\n\n""They won't have to,"" Kish responds with a welcome air of confidence. ""Long live the Rebellion!""[/i]\n\nDeploy the Echo Base Troopers (Elite) as allies to a red or yellow Rebel mission token of your choice."
+M_36_TALCON_REG,"[i]""I got here as soon as I could,"" Talcon pants. ""The villagers I could find are safe in the mountains, but they can't survive out there for long.""\n\nThe lieutenant stares blankly at the sky for a moment before snapping back to reality with a flash of determination. ""And I refuse to lose anybody else. For Kish!""[/i]\n\nDeploy 1 Echo Base Trooper (Regular) figure as an ally to a red or yellow Rebel mission token of your choice."
+M_36_TALCON_KISH_REG,"[i]""We got back as soon as we could,"" Talcon pants. ""The villagers are safe in the mountains, but they can't survive out there for long.""\n\n""They won't have to,"" Kish responds with a welcome air of confidence. ""Long live the Rebellion!""[/i]\n\nDeploy the Echo Base Troopers (Regular) as allies to a red or yellow Rebel mission token of your choice."
+
+
+M_36_TIMER_DENGAR,"[i]A familiar scarred face emerges from the shadows of the outpost. ""Crashing a Star Destroyer? Quite the spectacle,"" Dengar smirks and claps his hands.\n
+""Unfortunately, now I've got a lot of credits riding on your heads,"" the hunter muses, his smile giving way to the cold demeanor of a professional hunter. ""What do you say we do this the easy way and you just lay down your weapons?""[/i]\n\nDeploy Dengar."
+M_36_DENGAR_RESPOND,"[i]You know that Dengar owes no allegiance to anyone, especially the Empire, and you hope to use that to your advantage.[/i]"
+M_36_DENGAR_THREATEN,"Threaten him."
+M_36_DENGAR_REASON,"Reason with Dengar."
+M_36_REASON_TEST,"[i]You try to convince Dengar that if the Empire wins, hunters like him will be the next biggest ""threat to stability.""[/i]\n\nChoose 1 hero to test ."
+M_36_REASON_FAIL,"[i]You ramble for a moment before Dengar cuts you off.\n\n""Yes, and if you Rebels win you'll also try to stamp me out,"" he points out, probably correctly. ""Honestly, the longer this war lasts the better!""[/i]"
+M_36_REASON_FAME_LOW,"[i]""Credits talk,"" Dengar says, palm outreached. ""What's that, you're not as rich as the Empire? Well, then I guess that's settled,"" the hunter chuckles as he levels his rifle.[/i]\n\nYour fame is much too low to persuade Dengar."
+M_36_REASON_FAME_MID,"[i]""When that day comes, I'd rather be a rich outlaw than a poor one,"" Dengar retorts.[/i]\n\nYour fame is too low to persuade Dengar."
+M_36_REASON_FAME_HIGH,"[i]""It's a fair point,"" Dengar admits after a moment of contemplation. ""And if I'm being honest, I'd rather not try my luck with your squad. Let's make a deal. I keep what I want from Sorin's spoils and I'll help you deal with that fool.""\n\nHard-pressed for better terms, you warily accept the hunter's temporary alliance.[/i]\n\nDengar respects your high fame and is now an ally!"
+M_36_REASON_RETREAT,"[i]""It's a fair point,"" Dengar admits after a moment of contemplation. ""And if I'm being honest, I'd rather not try my luck with your squad. I'd offer to help, for a price of course, but it seems you've already got allies.""\n\nWith a chillingly discourteous smile, Dengar retreats into the shadows.[/i]\n\nRemove Dengar from the map."
+M_36_THREATEN_TEST,"[i]You shout at the infamous bounty hunter. He will regret this fight.[/i]\n\nChoose 1 hero to test ."
+M_36_THREATEN_FAIL,"[i]Dengar bursts out laughing. ""If I had a hundred credits for every target who threatened me I could retire comfortably by now!"" he howls.[/i]"
+M_36_THREATEN_FAME_LOW,"[i]""Hard way it is,"" Dengar smirks as he levels his rifle. ""I've hunted worse than you!""[/i]\n\nYour fame is much too low to threaten Dengar."
+M_36_THREATEN_FAME_MID,"[i]Dengar stares with furious intensity and you blink first. ""Nah,"" the hunter grins as he levels his rifle. ""I'm feeling lucky.""[/i]\n\nYour fame is too low to threaten Dengar."
+M_36_THREATEN_FAME_HIGH,"[i]""You [/i]have[i] earned quite a reputation,"" Dengar admits after a moment of contemplation. ""And if I'm being honest, your bounty isn't really all that lucrative. Let's make a deal. I keep what I want from Sorin's spoils and I'll help you deal with that fool.""\n\nHard-pressed for better terms, you warily accept the hunter's temporary alliance.[/i]\n\nDengar respects your high fame and is now an ally!"
+M_36_THREATEN_RETREAT,"[i]""You [/i]have[i] earned quite a reputation,"" Dengar admits after a moment of contemplation. ""And if I'm being honest, your bounty isn't really all that lucrative.""\n\nThe hunter slings his rifle over his shoulder and retreats into the shadows.[/i]\n\nRemove Dengar from the map."
+
+M_36_REASON_MINUS,"[i]""Where I come from, might makes right,"" Dengar interrupts. ""You couldn't beat me at the hideout, why should I believe that you know how to survive?""[/i]\n\nDengar considers you less famous."
+M_36_REASON_PLUS,"[i]""Where I come from, might makes right,"" Dengar interrupts. ""You beat me at the hideout, maybe you do know how to survive...""[/i]\n\nDengar considers you more famous."
+M_36_THREATEN_MINUS,"[i]""Oh, shush,"" Dengar interrupts. ""You couldn't beat me at the hideout, why should I fear you now?""[/i]\n\nDengar considers you less famous."
+M_36_THREATEN_PLUS,"[i]""You did beat me at the hideout..."" Dengar's takes a deep breath as he contemplates his options.[/i]\n\nDengar considers you more famous."
+
+M_36_TIMER_SORIN,"[i]""Artillery! Prepare to fire!"" General Sorin's voice cuts clean through the crisp mountain air.\n\nThe vicious tactician has reclaimed the vantage from his Star Destroyer and orders the last of his reserves forward.[/i]\n\nDeploy General Sorin."
+M_36_TIMER_TANK,"[i]Another tank crashes through the forest to join the assault.[/i]\n\nDeploy the SC2-M Repulsor Tank with +{0} Health."
+M_36_TIMER_ATST,"[i]Another vehicle pushes its way free from the wreck of the flagship.[/i]\n\nDeploy the AT-ST."
+M_36_SIEGE_OUT,"[i]More Imperials pour into the snow.[/i]"
+M_36_SIEGE_IN,"[i]More Imperials flood the outpost.[/i]"
+M_36_LAST_OBJECTIVE,"[i]""My legacy will not die on this backwards planet!"" Sorin shouts with mounting frustration. ""All formations, charge!""\n\nYou sense the tides are changing. End the general's ambitions once and for all![/i]\n\n Objective Updated \n\n{0}"
+M_36_SORIN_NO_DEFEAT,"[i]Sorin has fortified his panic room well.[/i]\n\nGeneral Sorin cannot be defeated at this time."
+M_36_SORIN_DEFEATED,"[i]General Sorin clutches his chest in shock. ""You were nobody!"" he gasps. ""I was destined for glory... How could this happen?""[/i]"
+M_36_SORIN_CELEBRATE,"[i]The Imperial siege still bears down on Haven, but the general's defeat provides a welcome surge of hope![/i]\n
+Up to 2 heroes may each choose to become Focused or recover 3.\n
+Each of those heroes that has 2 activations may choose both options."
+M_36_TANK_DEFEATED,"[i]The damaged tank catches fire and the burning wreck crashes into the snow.\n\nSorin's implement of domination is left to smolder in the fields of Haven.[/i]"
+M_36_TANK_DEFEATED_2,"[i]The second tank sputters to a stop and you hear a loud grinding.\n\nMoments later, a plume of blinding plasma erupts high into the sky, tearing a molten hole through the center of Sorin's prized weapon.[/i]"
+M_36_DENGAR_DEFEATED,"[i]Dengar grips his injured shoulder with a wince. ""Ugh, this bounty's not worth it,"" the hunter spits. ""My price just doubled, if that pompous General Sorin even lives long enough to renegotiate.""\n\nYou instinctively duck under a blaster bolt, but when you look up again Dengar's nowhere to be found.[/i]"
+M_36_DENGAR_ALLY_DEFEAT,"[i]""Deal's still on!"" Dengar shouts as he retreats. ""You save your village, then I'm coming back to take what's mine.""[/i]"
+M_36_EB_ALLY_DEFEAT,"[i]""Save them,"" Talcon coughs as she motions to the village. ""This is our war. We pay the price, not them.""[/i]"
+M_36_OBJECTIVE_0,"Get to the bridge."
+M_36_OBJECTIVE_1,"Disable all 3 terminals."
+M_36_OBJECTIVE_2A,"Disable the other 2 terminals."
+M_36_OBJECTIVE_2B,"Disable the last terminal."
+M_36_OBJECTIVE_3,"Defend the outer gates."
+M_36_OBJECTIVE_4,"Defend the gates of Haven!"
+M_36_OBJECTIVE_5,"Defeat all Imperial figures."
+M_36_VICTORY_1,"[i]Despite your wounds and exhaustion, the gates of Haven still stand. General Sorin is defeated and the Rebellion is safe from his violent ambitions.\n\nYou collapse to the ground in euphoric exhaustion until the grateful residents of Haven venture outside their gates to treat your wounds and celebrate your victory![/i]"
+M_36_VICTORY_2,"[i]Despite your wounds and exhaustion, the gates of Haven still stand. General Sorin is defeated and the Rebellion is safe from his violent ambitions.\n\n""That was fun,"" Dengar grunts with no hint of sarcasm, ""but contrary to popular belief, joining the winning side is not a reward in itself. I'm off to claim my loot. Make sure I never see you again."" The hunter pushes past you, then slowly picks his way across the battlefield.[/i]"
+M_36_VICTORY_2B,"[i]You collapse to the ground in euphoric exhaustion until the grateful residents of Haven venture outside their gates to treat your wounds and celebrate your victory![/i]"
+M_36_DEFEAT_0,"[i]You watch in horror as the Star Destroyer's myriad turbolasers obliterate the mountainside.\n\nYour hearts sink as you can only wait for the dust to settle. When it does, you watch helplessly as Sorin's troops pull any survivors from their burning homes.[/i]"
+M_36_DEFEAT_1,"[i]Imperial forces eventually restrain you and General Sorin returns to the bridge. ""You have been quite the pain in my side,"" he hisses. ""Let this be an example to those who would oppose the Empire!""[/i]"
+M_36_DEFEAT_1B,"[i]Sorin forces you to watch as the Star Destroyer's myriad turbolasers obliterate the mountainside.\n\nWhen the dust finally settles, you watch helplessly as Sorin's troops pull any survivors from their burning homes.[/i]"
+M_36_DEFEAT_2,"[i]You cannot match the Imperial Assault. Haven's gates are torn down before your eyes and Sorin's troops pour into the defenseless village.\n\nNight falls and smoke billows over the mountain range as Haven smolders for the crime of aiding you.[/i]"
+M_36_BARRICADE,"Doors are barricades.\nHealth: 15 — Defense: 2
+---------------------------------------------------------
+Figures do not block line of sight to barricades.\n
+If an Imperial attack would have no target, it attacks the closest barricade, if able."
+M_36_TARGET_BARRICADE,"the closest barricade"
+M_36_TARGET_REBEL,"the healthy Rebel who has suffered the most . If a healthy Rebel cannot be targeted, target the closest barricade, instead"
+M_36_SECONDARY_BARRICADE,"to [b]reposition 3[/b] from the closest barricade."
+M_36_TANK,"• [b]Advanced Shields:[/b] Recover 5.\n
+• This figure can perform 2  instructions.\n
+ [b]Move 4[/b] to [b]attack[/b] « the closest barricade ».\n
+ [b]Move 2[/b] to [b]attack[/b] « the healthy Rebel who has suffered the most . If a healthy Rebel cannot be targeted, target the closest barricade instead ».\n
+ [b]Move 8[/b] to [b]reposition 3[/b] from the closest barricade.\n
+ [b]Move 2[/b] to [b]reposition 3[/b] from the closest barricade."
+M_36_TANK_NO_SHIELD,"• [b]Exploited Shields:[/b] Recover 1.\n
+• This figure can perform 2  instructions.\n
+ [b]Move 4[/b] to [b]attack[/b] « the closest barricade ».\n
+ [b]Move 2[/b] to [b]attack[/b] « the healthy Rebel who has suffered the most . If a healthy Rebel cannot be targeted, target the closest barricade instead ».\n
+ [b]Move 8[/b] to [b]reposition 3[/b] from the closest barricade.\n
+ [b]Move 2[/b] to [b]reposition 3[/b] from the closest barricade."
+M_36_TANK_BONUS,"[b]Advanced Blasters:[/b] Gain +2."
+M_36_TANK_NO_BONUS,"[b]Exploited Blasters:[/b] [i]This figure gets no bonus.[/i]"
+M_36_ATST,"• [b]Targeting Computer[/b]: Gain +1 and +2 Accuracy.\n
+ [b]Move 4[/b] to [b]attack[/b] « {0} ».\n
+ [b]Move 8[/b] to [b]reposition 3[/b] from the closest barricade.\n
+ [b]Move 2[/b] to [b]reposition 3[/b] from the closest barricade.\n
+• [b]Grenade Launcher[/b]: Roll 1 red die. The closest Rebel or barricade in line of sight suffers  equal to the  results."
+M_36_SORIN_BONUS,"[i]General Sorin is preoccupied with the siege of Haven.[/i] (Haven's defenses have been damaged.)"
+M_36_SORIN," [b]Executive Order[/b]: Another Imperial figure that can perform an attack [b]attacks[/b] « the healthy Rebel that has suffered the most  ».\n
+ [b]Motivate[/b]: Another ready, non-Focused Imperial figure becomes Focused.\n
+ [b]Motivate[/b]: Another exhausted, non-Focused Imperial figure becomes Focused."
+M_36_SORIN_BONUS_FIELD,"[i]General Sorin operates the last functioning weapons aboard the wreck of his Star Destroyer.[/i]"
+M_36_SORIN_FIELD," If this figure has any Harmful conditions, discard them.\n
+ [b]Bombardment:[/b] For each barricade, roll 1 green die. That barricade suffers  equal to the  results.\n
+ [b]Bombardment:[/b] Each healthy hero rolls 1 blue die for each of his or her activation portraits and suffers  equal to the  results."
+M_36_SORIN_FIELD_HARD," If this figure has any Harmful conditions, discard them.\n
+ [b]Bombardment:[/b] For each barricade, roll 1 red die. That barricade suffers  equal to the  results.\n
+ [b]Bombardment:[/b] Each healthy hero rolls 1 green die for each of his or her activation portraits and suffers  equal to the  results."
+M_36_PLACE_BARRICADES,"PLACE BARRICADES. FIRST SUFFER {0}."
+M_36_SET_GLOBALS,"Shield: {0}
+Weapon: {1}
+Benex: {2}"
+M_36_SET_GLOBALS_1,"Toggle Shield"
+M_36_SET_GLOBALS_2,"Toggle Weapon"
+M_36_SET_GLOBALS_3,"Toggle Benex"
+M_36_TEST_FAME,"ALPHA TEST: DENGAR'S DECISION IS BASED ON HOW MUCH FAME YOU'VE GATHERED. WE WILL CHOOSE THE REQUIRED VALUES BASED ON YOUR TEST REPORTS.\n
+PLEASE RECORD YOUR CURRENT FAME, THEN SELECT ANY FAME CATEGORY TO PROCEED.\n
+Current Fame: {0}"
+
+
+
+
+
+CAM_3_EPILOGUE_VICTORY,"[i]Haven hosts a victory feast that lasts deep into the night. The villagers eat, drink, sing, and even teach you to dance a local jig. You had worried they would blame you for the danger, but Benex leads the toast to celebrate you as their defenders.\n
+In the morning, you finally reestablish contact with the Rebellion and send your summary report to Alliance Command. They suggest you take some time to heal your wounds before returning to battle and you can't think of any better place to rest than right where you are.\n
+The long winter gives way to a beautiful mountain spring. Your adventures continue, but you never forget the sunrises, crisp air, and sweet flowers of Haven.[/i]"
+CAM_3_EPILOGUE_VICTORY_NO_BENEX,"[i]Haven hosts a victory feast that lasts deep into the night. The villagers set a place of honor for their still-missing leader, Benex. You had worried the people would blame you, but they choose to celebrate you as their defenders.\n
+In the morning, you finally reestablish contact with the Rebellion and send your summary report to Alliance Command. They suggest you take some time to heal your wounds before returning to battle and you can't think of any better place to rest than right where you are.\n
+The long winter gives way to a beautiful mountain spring. Your adventures continue, but you never forget the sunrises, crisp air, and sweet flowers of Haven.[/i]"
+CAM_3_EPILOGUE_DEFEAT_1,"[i]Haven is reduced to ash as the Empire uses the rustic village as target practice. Or at least that's what your interrogator tells you, though he gives you no reason to doubt him.\n
+""I suppose I should thank you,"" General Sorin offers with a cruel grin. ""You've shown me the weaknesses my simulations failed to reveal. Because of you, the new Mark III Repulsor Tank will be unstoppable!""\n
+On the last day before your 'trial,' the general returns to your cell. ""You will be happy to know that I have been promoted,"" Sorin taunts. ""Your comrades have no idea how to stop my new tanks. Though truthfully, I don't know if they can be stopped. The end of your Rebellion is at hand.""[/i]"
+CAM_3_EPILOGUE_DEFEAT_2,"[i]You retreat into the woods and make camp. The usually starry sky billows with smoke as Haven burns in the distance. You hope the villagers made it to safety, but you don't know the terrain well enough to know where they might have headed.\n
+The Rebellion is much safer now that Sorin is gone, but you still toss and turn in your wintry sleep. If you can't protect one mountain village, will you be able to protect the galaxy?[/i]"
+
+
+
+
+
+CAM_3_TANK_BONUS,"[b]Experimental Laser Cannons:[/b] Gain +1."
+CAM_3_TANK_BONUS+,"[b]Advanced Laser Cannons:[/b] Gain +2."
+CAM_3_TANK_BONUS-,"[b]Exploited Laser Cannons:[/b] [i]This figure has no bonus.[/i]"
