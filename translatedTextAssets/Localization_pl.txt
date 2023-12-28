@@ -1,0 +1,2280 @@
+KEY,"English"
+APP_TITLE,"Legends of the Alliance"
+YOU_LOST,"You lost..."
+
+UI_PRIVACYPOLICY,"Disney Privacy Policy"
+UI_TODO,"TODO"
+UI_NONE,"None"
+UI_DEBUG,"Debug"
+UI_PAUSE,"View Map"
+UI_RESUME,"Activation"
+UI_CONFRIM,"Confirm"
+UI_SETUP_COMPLETE,"Setup complete."
+UI_LANGUAGE,"Language"
+UI_RESOLUTION,"Resolution"
+UI_WINDOWED,"Windowed"
+UI_SOUNDEFFECTS,"Sound Effects"
+UI_AMBIENTMUSIC,"Ambient Music"
+UI_PREVENT_SCREEN_SLEEP,"Prevent Screen Sleep"
+UI_CONTINUE,"Continue"
+UI_ACTIVATE,"Activated"
+UI_ACTIVATED,"End turn"
+UI_TAP_TO_CONTINUE,"Continue"
+UI_TAP_TO_CANCEL,"Cancel"
+UI_TAP_TO_RESET,"Reset"
+UI_CONFIRM,"Confirm"
+UI_CANCEL,"Cancel"
+UI_AGREE,"Agree"
+UI_RESOLVE,"Resolve"
+UI_PLUS,"+"
+UI_MINUS,"-"
+UI_PASS,"Pass"
+UI_FAIL,"Fail"
+UI_INTERACT,"Interact"
+UI_DEFEAT_OPTION,"Defeat"
+UI_DESTROYED,"Destroyed"
+UI_DESTROY,"Destroy"
+UI_RETRIEVE,"Retrieve"
+UI_RELEASE,"Release"
+UI_ESCORT,"Escort"
+UI_EXAMINE,"Examine"
+UI_EXPLORE,"Explore"
+UI_EXPLORE_SYMBOL," Explore"
+UI_YES,"Yes"
+UI_NO,"No"
+UI_PICK_UP,"Pick Up"
+UI_NO_ALLY,"No Ally"
+UI_WARNING_NOALLY,"No ally available."
+UI_WARNING_ALLYRESTRICTED,"Allies cannot be brought on this mission."
+UI_SEARCH,"Search"
+UI_WOUND_HERO,"Defeat {0}?"
+UI_HERO_END_TURN_FORMATTED,"End {0}’s activation?"
+UI_ENEMY_DEFEAT_CONFIRMATION_FORMATTED,"Defeat {0}?"
+UI_ENEMY_MANUALLY_ACTIVATE_CONFIRMATION_FORMATTED,"Do you want to activate {0} now?"
+UI_CLOSE,"Close"
+UI_MENU,"MENU"
+UI_OPTIONS,"Options"
+UI_RESET_CAMERA,"Reset Camera"
+UI_QUIT_CAMPAIGN,"Save & Quit"
+UI_CREDITS,"Credits"
+UI_AMOUNT_CREDITS,"{0} Credits"
+UI_MEDPACS,"Medpacs"
+UI_SUCCESS,"Pass"
+UI_FAILURE,"Fail"
+UI_VICTORY,"{0}: Victory!"
+UI_DEFEAT,"{0}: Defeat"
+UI_ITEM_GAINED,"Item Gained!"
+UI_ITEM_NONE,"No Items..."
+UI_INFO,"Info"
+UI_LEAVE,"Leave"
+UI_ENDING,"The End"
+UI_MISSIONS_WON,"Missions won:"
+UI_MISSIONS_LOST,"Missions lost:"
+UI_PARTY_INVENTORY,"Squad Inventory"
+UI_SHOP_INVENTORY,"Armory Inventory"
+UI_CREDITS_TOTAL,"Total Credits:"
+UI_CREDITS_FOUND,"Credits found:"
+UI_CREDITS_REWARD,"Mission reward:"
+UI_CREDITS_VICTORY,"Victory bonus:"
+UI_FAME,"Fame"
+UI_FAME_TOTAL,"Total Fame:"
+UI_FAME_EARNED,"Fame earned:"
+UI_FAME_ROUND_BONUS,"Round bonus:"
+UI_FAME_SURVIVAL_BONUS,"Survival bonus:"
+UI_NEW_HIGH_FAME_SCORE,"New high score!"
+UI_TIED_HIGH_FAME_SCORE,"Tied high score!"
+UI_PROMOTION_EARNED,"Your {0} ally has earned a promotion!"
+UI_SUPPORT_NEXT_MISSION,"You have earned the {0} ally for an additional mission!"
+UI_SKILL_CARD_EARNED,"{0}XP Class cards unlocked!"
+UI_HALL_OF_LEGENDS,"Hall of Legends"
+UI_MISSION_WIN_LOSS,"Missions    Won: {0}     Lost: {1}"
+UI_SKILL_TRAINING,"Class Cards"
+UI_START_QUEST,"Start Mission"
+UI_SIDE_QUEST,"Side Mission"
+UI_BALANCE,"Balance: {0}{1}{2} {3}"
+UI_CURRENCY,"{0} {1}"
+UI_CREDIT,"Credit"
+UI_BUY,"Buy"
+UI_SELL,"Sell"
+UI_NORESULTS,"no results"
+UI_EXPANSIONS,"expansions"
+UI_EXPANSION,"EXPANSION"
+UI_VILLAIN,"VILLAIN"
+UI_ALLY,"ALLY"
+UI_OWNED,"OWNED"
+UI_UNOWNED,"UNOWNED"
+UI_BACK,"Back"
+UI_QUESTREWARDS,"Mission Rewards"
+UI_DONE,"Done"
+UI_EMPTY,"Empty"
+UI_SLOT,"Slot"
+UI_NEW,"New"
+UI_NEW_UC,"NEW"
+UI_TUTORIAL_UC,"- TUTORIAL -"
+UI_SAVESLOT_SELECT,"Select Save Slot"
+UI_SAVESLOT_LOAD,"Load Game"
+UI_SAVESLOT_DELETE,"Are you sure you want to delete data for [FFE72CFF]slot {0}[-]?"
+UI_SAVESLOT_OVERWRITE,"Are you sure you want to overwrite data for [FFE72CFF]slot {0}[-]?"
+UI_SAVESLOT_RESET,"Are you sure you want to reset the game saved in [FFE72CFF]slot {0}[-]? If you are in the middle of a mission, this will return you to the start of the current mission. Otherwise, it will return you to the end of the last mission you completed."
+UI_FIRST_TIME_PLAYING,"Have you played any version of Star Wars: Imperial Assault before?"
+UI_PLAYER_AMOUNT_TUTORIAL,"How many heroes will be playing the tutorial?"
+UI_SOLO_NOTICE,"For a solo game, you will control two heroes and follow all rules for a two hero game."
+UI_PARTY_NAME_DEFAULT,"Squad Name (Select to Edit)"
+UI_NO_MESSAGES,"No messages received."
+UI_CAMPAIGN_SELECTION,"Select New Game"
+UI_SELECT_SAVE_SLOTS,"Select Save Slot"
+UI_SELECT_HEROES,"Select Squad"
+UI_PARTY_OVERVIEW,"Squad Overview"
+UI_DOWNLOADABLE_CONTENT,"downloadable content"
+UI_MISSING_PRODUCTS_TITLE,"This save file was created using products that have since been disabled. To ensure all content is loaded correctly, you must re-enable these products in your collection:"
+UI_MISSING_PRODUCTS_MORE_FORMAT,"+ {0} more..."
+UI_OPEN,"Open"
+UI_OBJECTIVE,"Objective:"
+UI_ROUND_X,"Round {0}"
+UI_DEFAULT_OBJECTIVE,"No current objective"
+UI_INTERMISSION_OBJECTIVE,"Use the galaxy map to continue the campaign."
+UI_PURCHASED,"Purchased"
+UI_PURCHASING,"Purchasing..."
+UI_RESTORE_PURCHASES,"Restore Purchases"
+UI_RESTORE_PENDING,"Restoring Purchases..."
+UI_RESTORE_SUCCESS,"Restore Success!"
+UI_RESTORE_FAILED,"Restore Failed. Error:"
+UI_RESTORE_TIMEDOUT,"Restore timed out..."
+UI_DIFFICULTY_SELECTION,"Select Difficulty"
+UI_DIFFICULTY_NORMAL,"Normal"
+UI_DIFFICULTY_HARD,"Hard"
+UI_DIFFICULTY_DESC,"Select a difficulty level for the campaign. You will encounter better-trained enemies in greater numbers on Hard difficulty than on Normal."
+UI_IAP_FREE,"Free"
+UI_IAP_BUY,"Buy"
+UI_IAP_UNAVAILABLE,"Unavailable"
+UI_COLLECTION_ADD,"Add to Collection"
+UI_COLLECTION_REMOVE,"Remove from Collection"
+UI_WEBSTORE,"More Info"
+UI_NEWGAME,"New Game"
+UI_LOADGAME,"Load Game"
+UI_STORE,"Store"
+UI_COLLECTION,"Collection"
+UI_RULES,"Rules"
+UI_SCORES,"Scores"
+UI_MORE,"More"
+UI_CAMPAIGNS,"Campaigns"
+UI_OTHERAPPS,"Other Apps"
+UI_BOARDGAMES,"Board Games"
+UI_MENU_CREDITS,"Credits"
+UI_QUIT,"Quit"
+UI_QUIT_CONFIRMATION,"Are you sure you want to quit?"
+UI_MENU_SURRENDER,"Surrender"
+UI_MENU_SURRENDER_CONFIRMATION,"Are you sure you want to surrender the current mission?"
+UI_WARNING_GROUPNAME,"Please select a name for your squad!"
+UI_REMINDER_THANKS,"Thank you for downloading"
+UI_REMINDER_REQUIRES,"*This application requires the board game"
+UI_REMINDER_REQUIRES_2,"Visit the [b]Collection[/b] menu to indicate which physical [i]Imperial Assault[/i] products you have access to. The more physical product you own, the more content you’ll unlock in your digital experience!"
+UI_TOGGLE_ALL,"Toggle All"
+UI_UPDATE_VERSION,"Software update {0}"
+UI_FINISH,"Finish"
+UI_SELECT_HERO_FOR_EXTRA_ACTIVATION,"Select a hero to receive an extra activation."
+UI_WITHDRAW_CONFIRMATION_FORMATTED,"Are you sure you would like to withdraw {0}?"
+UI_MEDPACK_CONFIRMATION,"Would you like to use a medpac to recover 5?"
+UI_WOUND,"Wound"
+UI_WITHDRAW,"Withdraw"
+UI_GREY,"gray"
+UI_BLACK,"black"
+UI_PURPLE,"purple"
+UI_BLUE,"blue"
+UI_REGULAR,"regular"
+UI_ELITE,"elite"
+UI_REGULAR_UPPER,"Regular"
+UI_ELITE_UPPER,"Elite"
+UI_REINFORCE_GROUP_FORMAT,"Reinforce {0} {1}."
+UI_SPAWN_GROUP_FORMAT,"Deploy{0} {1}.{2}"
+UI_AN_WORD," an"
+UI_A_WORD," a"
+UI_COLOR_PICK," Assign a color."
+UI_MISSION,"Mission"
+UI_TASK,"Encounter"
+UI_ALLYTASK,"Ally Encounter"
+UI_BONUS,"Bonus"
+UI_ACTIVATION,"Activation"
+UI_SURGE_PRIORITY," Priority"
+UI_ASK_FOR_REINFORCEMENT_MESSAGE,"How many {0} are on the map?"
+UI_DELETE_CAMPAIGN,"DELETE CAMPAIGN"
+UI_RESET_MISSION,"RESET CURRENT MISSION"
+UI_REQUIRED_PRODUCT_NAME,"*Requires the PRODUCT_NAME physical product."
+UI_SELECT_MISSION,"Select a Briefing:"
+UI_OPERATIONS,"Armory"
+UI_STORY,"Story"
+UI_SIDE,"Side"
+UI_MANUAL_ACTIVATE,"Activate Group"
+UI_FAME_GAINED,"{0}{1} Fame{2}"
+UI_CREDITS_GAINED,"{0}{1} Credit{2}"
+UI_MEDPACK_GAINED,"{0}{1} Medpac{2}"
+UI_INVENTORY,"Inventory"
+UI_ALLIES,"Allies"
+UI_ITEMS_1,"Tier I"
+UI_ITEMS_2,"Tier II"
+UI_ITEMS_3,"Tier III"
+UI_REWARDS,"Rewards"
+UI_MISSIONS_REMAINING,"Mission(s) Remaining"
+UI_XP,"{0} XP"
+UI_LAUNCH_MISSION,"Begin"
+UI_INTERACT_SYMBOL," Interact"
+UI_ESCAPE,"Escape"
+UI_DEFEAT_BUTTON,"Defeat"
+UI_INSUFFICIENT_FUND,"Insufficient funds."
+UI_PROCEED_TRANSACTION,"Proceed with the transaction?"
+UI_BEGIN_MISSION,"Begin Mission"
+UI_BEGIN_TASK,"Begin Encounter"
+UI_LEVEL,"XP"
+UI_LOG_MISSION,"Mission Log"
+UI_LOG_CAMPAIGN,"Campaign Log"
+UI_ROUND,"Round"
+UI_DECK_LEVEL_1,"Tier I"
+UI_DECK_LEVEL_2,"Tier II"
+UI_DECK_LEVEL_3,"Tier III"
+UI_DECK_REWARD,"Reward"
+UI_DECK_HERO,"Hero"
+UI_PERSONAL_INVENTORY,"Personal Inventory"
+UI_CAMPAIGN_INTERMISSION,"Intermission"
+UI_ACQUIRED,"Acquired!"
+UI_TUTORIAL_NO_WITHDRAW,"Heroes cannot be withdrawn during this tutorial. Discard all  from this hero and continue the game."
+UI_INCAPACITATED_RULES,"{0}\n\nThese rules can be found by selecting this hero's portrait and then selecting the info button."
+UI_ENEMY_CANNOT_BE_DEFEATED,"{0} cannot be defeated."
+UI_GAIN,"Gain"
+UI_REPLACE,"Replace"
+
+UI_WARNING_SKILL_RESET,"Warning: Each hero can only reset their skills once per campaign.\n\nThere is no way to undo this."
+UI_WARNING_UNSAVED_CHANGES,"You have unsaved skill changes. Continue without saving?"
+UI_WARNING_TRANSACTION_INCOMPLETE,"You have unfinished transactions. Leave the armory anyway?"
+
+UI_ERROR_TOO_FEW_SKILLS,"Insufficient number of skills assigned."
+UI_ERROR_TOO_MANY_SKILLS,"Too many skills assigned."
+UI_ERROR_TOO_MANY_SKILLS_AT_LEVEL,"Too many skills at current max skill level."
+UI_ERROR_PENDING_SKILLS,"You must assign your pending skills before proceeding."
+UI_SELECT_CAMPAIGN,"Select Campaign"
+UI_SELECT_SAVE_SLOT,"Select Save Slot"
+UI_SQUAD,"Squad"
+UI_EDIT_SQUAD_NAME,"Squad Name (Select to Edit)"
+UI_THREAT_LEVEL,"Threat Level: {0}"
+UI_RANDOM_ALLY_RECEIVE,"You have earned a random ally{0}!"
+UI_RANDOM_ALLY_RECEIVE_2," for the{0} next mission{1}"
+
+UI_LANGUAGE_WARNING,"Not all campaigns yet available in your language."
+UI_LANGUAGE_CAMPAIGN_WARNING,"This campaign is not currently available in your preferred language."
+UI_LANGUAGE_DOWNLOAD_WARNING,"A download may be required for your language content. Please ensure that you have a reliable internet connection before confirming."
+UI_DOWNLOADING_ICON_DESCRIPTION,"Assets are downloading when you see this icon:"
+UI_WARNING_INTERNET_CONNECTION,"Please ensure you have a reliable internet connection"
+UI_UPDATE_MESSAGE_VERSION_1.5.1,"Spanish and German content added!"
+
+UI_RAIDS,"Raids"
+UI_SELECT_RAID,"Select Raid"
+UI_RAID_TIER,"Raid Tier"
+UI_BRONZE,"Bronze"
+UI_SILVER,"Silver"
+UI_GOLD,"Gold"
+UI_PLATINUM,"Platinum"
+FAME_DESCRIPTION_RAID," "
+UI_TOTAL_FAME,"Total Fame:"
+UI_OBJECTIVES_BASE,"Objective:"
+UI_OBJECTIVES_BONUS," Bonus:"
+UI_ENEMIES,"Enemy:"
+UI_PENALTIES,"Hero Defeat:"
+UI_HIGH_FAME_SCORE,"Previous high score: {0}"
+UI_RAID_TIER_RESULT,"{0} Commendation"
+UI_NEXT_RAID_TIER,"{0} at {1} Fame"
+UI_RAID_OBJECTIVES_SCORE,"Objectives: {0}"
+UI_RAID_ENEMIES_SCORE,"Enemies: {0}"
+UI_RAID_PENALTIES_SCORE,"Penalties: {0}"
+UI_RAID_FAME,"Fame: {0}"
+UI_REQUIRED_PRODUCT_NAME_2,"*Requires the PRODUCT2_NAME and PRODUCT_NAME physical products."
+UI_OR,"OR"
+UI_CAMPAIGN,"Campaign"
+UI_RAID,"Raid"
+UI_DECK_RAID,"No card"
+UI_GAME_MAT,"GAME MAT"
+UI_UPDATE_MESSAGE_VERSION_1.6.0,"The new raid mode is available now! Gather a team of heroes, spend your starting credits and XP, and raid Imperial intel to earn as much fame as possible in six rounds."
+UI_UPDATE_MESSAGE_VERSION_1.6.1,"- New raid ""The Gray Cap Cantina"" is now available!
+- French language added.
+- Various bug fixes."
+TEST_ITEM_RECEIVED,"You’ve unlocked new Class cards and received gear from the Alliance!\n\nBefore starting the mission you want to test, check your inventory for the non-weapon items you have gained over this campaign. You will also need to assign each hero’s skills from the Class menu. Each hero must select 1 Class card per mission completed or skipped.\n\n(Remember that heroes unlock a 1XP card after the first mission, a 2XP or lower card after the second mission, and so forth.)"
+TEST_FORCE_SHOP,"Visit the shop via Operations to receive and spend new credits on weapons and modifications.\n\nPlease do this immediately. You will miss your opportunity to shop at this level when you proceed to or skip the next mission."
+TEST_TASK,"Encounters are narrative events that will occur between missions. Please play one of the available encounters before beginning or skipping the next mission."
+TEST_CAMPAIGN_EXPLAIN_1,"Welcome to the Imperial Assault app test!\n\nThis campaign is set up to help you test specific missions by skipping over earlier missions.\n\nIf you want to play a tutorial or mission 1, select that mission from the map\n\nIf you want to play a later mission, select the ""Skip Mission 1"" encounter, then select ""Begin Encounter"". This will simulate having completed mission 1."
+TEST_CAMPAIGN_EXPLAIN_2,"Throughout this Test Campaign, note that multiple encounters or missions can occur at the same location. Be careful to select the correct encounter by using the arrows."
+TEST_TRAITOR_ID,"The app normally selects a traitor at random. For testing, select a traitor by setting the Traitor ID.\n\n0: Random\n1: Ares Ginn\n2: Burin Kassal\n3: Calle Tharandon"
+TEST_SUSPECT_ID,"During Mission 4, players will have to decide who they suspect is the traitor. For testing, select a suspect by setting the Suspect ID.\n\n1: Ares Ginn\n2: Burin Kassal\n3: Calle Tharandon"
+TEST_CLUE_1,"Over the campaign, players will have to uncover clues as to the traitor’s identity. For testing, did the heroes find clue 1? (Mission 2: Crate)"
+TEST_CLUE_2,"Did the heroes find clue 2? (Mission 2: Darpik)"
+TEST_CLUE_3,"Over the campaign, players will have to uncover clues as to the traitor’s identity. For testing, did the heroes find clue 3? (Mission 3: Terminal)"
+TEST_CLUE_4,"Did the heroes find clue 4? (Mission 3: Blue Crate)"
+TEST_DARPIK_ALIVE,"Did Captain Darpik survive the rescue in mission 2?"
+TEST_TRAITOR_ESCAPED,"Did the traitor escape in mission 4?"
+TEST_WEISS_ALIVE,"Did the the general survive mission 4? (The general survives if the heroes failed the mission.)"
+TEST_STAR_MAP_RECOVERED,"Did the the heroes recover the star map in mission 3?"
+TEST_ALLIES_UNLOCKED,"All Core Set allies have been unlocked for this test."
+LOCATION_ALEEN,"Aleen"
+LOCATION_ALEEN_DESCRIPTION,"The desert plains of Aleen are home to a tribal race of small reptilians. These Aleena once warred with the sentient tree-like Kindalo who now live beneath the surface."
+
+LOCATION_BESPIN,"Bespin"
+LOCATION_BESPIN_DESCRIPTION,"This gas giant is home to mining facilities like Cloud City, where the planet's valuable tibanna gas is harvested and processed."
+
+LOCATION_CATO_NEIMOIDIA,"Cato Neimoidia"
+LOCATION_CATO_NEIMOIDIA_DESCRIPTION,"A wealthy Neimoidian colony known for its bridge cities, which are suspended between massive rock pillars high above the planet's ocean surface."
+
+LOCATION_CHOLGANNA,"Cholganna"
+LOCATION_CHOLGANNA_DESCRIPTION,"The shadowy forests that blanket Cholganna are home to a vicious ambush predator: the nexu."
+
+LOCATION_CORUSCANT,"Coruscant"
+LOCATION_CORUSCANT_DESCRIPTION,"Coruscant Description"
+
+LOCATION_CORELLIA,"Corellia"
+LOCATION_CORELLIA_DESCRIPTION,"An ancient industrial world, Corellia is home to Imperial shipyards that produce TIE fighters and Star Destroyers."
+
+LOCATION_DEEP_SPACE_AGAMAR,"Deep space near Agamar"
+LOCATION_DEEP_SPACE_AGAMAR_DESCRIPTION,"This corner of space offers a view of the frozen and rocky surface of Agamar. In the early days of the Rebellion, Captain Rex and stranded Separatist droids joined forces to battle the Empire on the planet."
+
+LOCATION_DEEP_SPACE,"Deep Space"
+LOCATION_DEEP_SPACE_DESCRIPTION,"A vast stretch of cold, dark nothingness."
+
+LOCATION_DEEP_SPACE_ITHOR,"Ithorian Space"
+LOCATION_DEEP_SPACE_ITHOR_DESCRIPTION,"This pocket of space boasts a view of the planet Ithor. The planet's native Ithorians hold their sprawling jungles sacred and prohibit hunting."
+
+LOCATION_DEVARON,"Devaron"
+LOCATION_DEVARON_DESCRIPTION,"This jungle world produced many pirates, smugglers, and mercenaries before the Empire took control."
+
+LOCATION_FELUCIA,"Felucia"
+LOCATION_FELUCIA_DESCRIPTION,"The site of multiple Clone Wars battles, this Outer Rim planet is covered in primeval jungles."
+
+LOCATION_FONDOR,"Near Fondor"
+LOCATION_FONDOR_DESCRIPTION,"This Imperial stronghold hosts some of the Empire’s largest shipyards."
+
+LOCATION_HOTH,"Hoth"
+LOCATION_HOTH_DESCRIPTION,"This icy Outer Rim planet was the site of the decisive Imperial assault on the Alliance's Echo Base."
+
+LOCATION_ISON,"Ison"
+LOCATION_ISON_DESCRIPTION,"This forgotten planet is home to the idyllic mountain village, Haven."
+
+LOCATION_KASHYYYK,"Kashyyyk"
+LOCATION_KASHYYYK_DESCRIPTION,"The powerful Wookiee species hails from this planet's dense jungles and towering trees."
+
+LOCATION_KESSEL,"Kessel"
+LOCATION_KESSEL_DESCRIPTION,"Kessel Description"
+
+LOCATION_LOTHAL,"Lothal"
+LOCATION_LOTHAL_DESCRIPTION,"An Outer Rim world of vast grasslands, Lothal is home to loth-cats and an ancient Jedi temple. When Lothal fell under Imperial occupation, a Rebel cell known as the Spectres rose up to fight for the world's freedom."
+
+LOCATION_MALASTARE,"Malastare"
+LOCATION_MALASTARE_DESCRIPTION,"This forested, Mid Rim planet lies along the Hydian Way. It is home to the Dug and Gran species, as well as the giant Zillo Beast."
+
+LOCATION_NAL_HUTTA,"Nal Hutta"
+LOCATION_NAL_HUTTA_DESCRIPTION,"This hot, swampy planet is the homeworld of the Hutts."
+
+LOCATION_NAR_SHADDAA,"Nar Shaddaa"
+LOCATION_NAR_SHADDAA_DESCRIPTION,"The ""Smuggler’s Moon"" rests deep within Hutt Space. This bustling criminal hub has more than earned its infamy."
+
+LOCATION_ORD_MANTELL,"Ord Mantell"
+LOCATION_ORD_MANTELL_DESCRIPTION,"This mountainous Mid Rim planet sees its share of outlaws. The Black Sun criminal syndicate operated out of Ord Mantell City during the fall of the Republic."
+
+LOCATION_RODIA,"Rodia"
+LOCATION_RODIA_DESCRIPTION,"This swampy Outer Rim planet is home to the Rodians. Their domed cities protect them from the overbearing surface heat."
+
+LOCATION_RYLOTH,"Ryloth"
+LOCATION_RYLOTH_DESCRIPTION,"This Outer Rim planet is home to the Twi'lek, who avoid the world's dangers by living in underground settlements."
+
+LOCATION_SON-TUUL,"""Son-tuul"""
+LOCATION_SON-TUUL_DESCRIPTION,"""Son-tuul Description"""
+
+LOCATION_TATOOINE,"Tatooine"
+LOCATION_TATOOINE_DESCRIPTION,"This desert planet in the Outer Rim was the childhood home of Luke Skywalker."
+
+LOCATION_TOYDARIA,"Toydaria"
+LOCATION_TOYDARIA_DESCRIPTION,"Located in Hutt Space, this fog-blanketed swamp world is home to the Toydarian species."
+
+LOCATION_YAVIN,"Yavin 4"
+LOCATION_YAVIN_DESCRIPTION,"The fourth moon orbiting the Outer Rim planet Yavin, Yavin 4’s jungle surface is home to the Massassi Outpost. This ancient temple served as the Alliance’s headquarters in the early days of the Galactic Civil War."
+
+LOCATION_YLESIA,"Ylesia"
+LOCATION_YLESIA_DESCRIPTION,"This planet in Hutt space is home to the bulky, horned beasts known as reek."
+FAME_TITLE,"Fame Level"
+FAME_DESCRIPTION,"Your fame level influences the items that the Rebel Alliance gives you after each mission, as well as the quantity and quality of Imperial groups you will face during missions."
+FAME_INSIGNIFICANT,"Insignificant"
+FAME_NOTEWORTHY,"Noteworthy"
+FAME_IMPRESSIVE,"Impressive"
+FAME_CELEBRATED,"Celebrated"
+FAME_HEROIC,"Heroic"
+FAME_LEGENDARY,"Legendary"
+FAME_RANGE,"{0} - {1}"
+FAME_RANGE_TOP,"{0}+"
+CAMPAIGN_TUTORIAL_TITLE,"[i]Legends of the Alliance[/i] Tutorial"
+CAMPAIGN_TUTORIAL_DESCRIPTION,"Whether you are brand new to [i]Star Wars: Imperial Assault[/i] or are a veteran of the game, this tutorial will teach you how to play [i]Star Wars: Imperial Assault—Legends of the Alliance[/i]!"
+CAMPAIGN_1_TITLE,"Flight of the [i]Freedom Fighter[/i]"
+CAMPAIGN_1_DESCRIPTION,"Following the destruction of the Death Star, you must escape the Empire’s retaliation on Yavin 4 and protect the transport [i]Freedom Fighter[/i] as it passes through treacherous Imperial space."
+CAMPAIGN_1_PROLOGUE,"From within the secret Rebel base on Yavin 4, you listen anxiously as the pilots of Red and Gold squadrons face down the Empire’s ultimate weapon, the Death Star. You cheer with joyful relief when Luke Skywalker destroys the Imperial installation with a single shot. You stand at grateful attention as Princess Leia Organa presents Skywalker and Han Solo with awards for their meritorious service.\n\nYet, the ceremony has hardly finished when Rebel Command orders a full evacuation of the Yavin 4 base. You help load the transports, uncertain how long you have until the Empire arrives...."
+CAMPAIGN_1_VICTORY,"The Rebel ships arrayed at the rendezvous point are a welcome sight. The Alliance has survived the evacuation of the base on Yavin 4 and, thanks to your actions, has escaped detection by Imperial forces. Though you will never forget the cost of this victory, you know it is a small sacrifice for the good you have done. Admiral Ackbar pins commendations to each of your uniforms. You’ve barely had time to thank the admiral for the honor when your comlink beeps—new orders. There are still many battles left to fight before the galaxy is freed of the Emperor’s tyranny, and you may yet be instrumental in them. May the Force be with you, always!"
+CAMPAIGN_1_DEFEAT_1,"You awaken in an Imperial detention cell. Your most serious wounds have been tended to, but judging by every other part of your body aching, that’s probably just so that you don’t die before the Empire has had a chance to question you. The door to your cell slides open, and an Imperial intelligence officer enters. “Your crew will be well-treated if you cooperate,” the officer sneers. Almost certainly a lie, perhaps even a bluff. If you don’t give the Empire answers, they will move to the next captive. But you cannot betray the Alliance. As the officer beckons for an interrogation droid, you prepare to resist to your last breath. May the Force be with you…"
+CAMPAIGN_1_DEFEAT_2,"You awaken in an Imperial detention cell. Your most serious wounds have been tended to, but judging by every other part of your body aching, that’s probably just so that you don’t die before the Empire has had a chance to question you. The door to your cell slides open, and any hope of a rescue you may have harbored is dashed as an Imperial intelligence officer enters alongside the ominously-humming globe of a hovering interrogation droid. As stormtroopers restrain you, you can only hope that some twist of fate allowed your crew to escape in the chaos you caused. If so, may the Force be with them…"
+CAMPAIGN_1_DEFEAT_3,"Your sacrifice bought the [i]Freedom Fighter[/i] time to escape. The last thing you see before collapsing is the [i]Freedom Fighter[/i] streaking away from the Star Destroyer, its engines glimmering against the black of space before rocketing safely into hyperspace. Even the ominous humming of Imperial interrogation droids cannot banish your hope for the galaxy. As an Imperial intelligence officer begins your interrogation, you know this: you have saved many Rebel lives, and you will resist as long as it takes to save more with your silence. You, like the Alliance itself, will not surrender. May the Force be with you…"
+CAMPAIGN_1_DEFEAT_4,"Your sacrifice bought the [i]Freedom Fighter[/i] time to escape. The last thing you see before collapsing is the [i]Freedom Fighter[/i] streaking away from the Star Destroyer, its engines glimmering against the black of space before rocketing safely into hyperspace. As Imperial intelligence officers begin their agonizing interrogation, they cannot shatter your determination to resist to the last moment. You saved many Rebel lives, and though you failed to protect the star map from the Empire, the [i]Freedom Fighter[/i]’s crew still have a chance to warn the fleet before the Empire can use that information. Hope survives. May the Force be with them…"
+CAMPAIGN_1_DEFEAT_5,"You have overcome everything the Imperial war machine has thrown at you to ensure the safety of the [i]Freedom Fighter[/i], the survival of its crew, and the security of the Rebel Alliance. You feel strangely honored that your exploits proved impressive enough for Darth Vader to personally intervene. Vader’s grip tightens as more Imperial soldiers flood the hangar. “Commander, prepare holding cells for these Rebel agents,” Vader orders. ""We have much to discuss."" You struggle for breath as you start to lose consciousness. For now, you have saved the Rebellion. Even in the face of Darth Vader, you will not surrender. May the Force be with you, always."
+
+CAMPAIGN_2_TITLE,"Jabba's Realm"
+CAMPAIGN_2_DESCRIPTION,"After crash landing on Tatooine, you are pressed into the service of the vile gangster Jabba the Hutt in order to protect your loved ones."
+
+CAMPAIGN_3_TITLE,"Return to Hoth"
+CAMPAIGN_3_DESCRIPTION,"Separated from the Rebel Alliance after the Battle of Hoth, only you can thwart the ambitions of the diabolical General Sorin and his deadly new weapon!"
+RAID_1_TITLE,"Malastarian Outpost"
+RAID_1_CAMPAIGN,"Tasked with infiltrating an Imperial outpost, you gear up for a challenging single mission.\n\nEach hero starts with a 1 and 2XP Class card. "
+
+RAID_2_TITLE,"The Gray Cap Cantina"
+RAID_2_DESCRIPTION,"Accumulate as much fame as possible in a raid on off-duty Imperial officers.\n\nEach hero starts with a 1, 2, 3, and 4XP Class card. "
+ALLY_DISCLAIMER,"*Adding this Ally pack may cause this character to appear outside their established timeline."
+ALLY_DISCLAIMER_2,"*Adding this Ally pack may cause these characters to appear outside their established timelines."
+VILLAIN_DISCLAIMER,"*Adding this Villain pack may cause this character to appear outside their established timeline."
+BOX_DISCLAIMER,"*Adding this expansion may cause these characters to appear outside their established timelines."
+
+PRODUCTSWI01_TITLE,"[i]Star Wars: Imperial Assault[/i] Core Game"
+PRODUCTSWI01_DESCRIPTION,"As the essential core experience, the [i]Star Wars: Imperial Assault[/i] core game provides the heroes with everything they need to begin a [i]Legends of the Alliance[/i] campaign."
+PRODUCTSWI01_CONTENTS,"Digital content unlocked:
+ • 6 heroes
+ • 15 enemy groups
+ • 5 allies
+ • 5 ally encounters
+ • 4 villains
+ • 36 items
+ • 9 supply cards
+ • 3 conditions"
+
+PRODUCTSWI03_TITLE,"General Weiss Villain Pack"
+PRODUCTSWI03_DESCRIPTION,"Face off against the devious Imperial general and his dangerous AT-ST in your campaigns of [i]Legends of the Alliance[/i]."
+PRODUCTSWI03_CONTENTS,"Digital content unlocked:\n
+ • 1 villain that can appear in any campaign"
+
+PRODUCTSWI04_TITLE,"Royal Guard Champion Villain Pack"
+PRODUCTSWI04_DESCRIPTION,"Defeat the Emperor’s champion in your campaigns of [i]Legends of the Alliance[/i]."
+PRODUCTSWI04_CONTENTS,"Digital content unlocked:\n
+ • 1 villain that can appear in any campaign"
+
+PRODUCTSWI05_TITLE,"IG-88 Villain Pack"
+PRODUCTSWI05_DESCRIPTION,"Withstand the heavy firepower of bounty hunter IG-88 in your campaigns of [i]Legends of the Alliance[/i]."
+PRODUCTSWI05_CONTENTS,"Digital content unlocked:\n
+ • 1 villain that can appear in any campaign"
+
+PRODUCTSWI06_TITLE,"Han Solo Ally Pack"
+PRODUCTSWI06_DESCRIPTION,"Make your own luck alongside Han Solo for your campaigns of [i]Legends of the Alliance[/i]."
+PRODUCTSWI06_CONTENTS,"Digital content unlocked:\n
+ • 1 ally that can appear in any campaign"
+
+PRODUCTSWI07_TITLE,"Chewbacca Ally Pack"
+PRODUCTSWI07_DESCRIPTION,"Earn the loyalty of the indomitable Chewbacca for your campaigns of [i]Legends of the Alliance[/i]."
+PRODUCTSWI07_CONTENTS,"Digital content unlocked:\n
+ • 1 ally that can appear in any campaign"
+
+PRODUCTSWI08_TITLE,"Rebel Troopers Ally Pack"
+PRODUCTSWI08_DESCRIPTION,"Fight alongside the army of the Rebellion in your campaigns of [i]Legends of the Alliance[/i]."
+PRODUCTSWI08_CONTENTS,"Digital content unlocked:\n
+ • 2 allies that can appear in any campaign"
+
+PRODUCTSWI09_TITLE,"Rebel Saboteurs Ally Pack"
+PRODUCTSWI09_DESCRIPTION,"Drop into the conflict alongside heavy armaments in your campaigns of [i]Legends of the Alliance[/i]."
+PRODUCTSWI09_CONTENTS,"Digital content unlocked:\n
+ • 2 allies that can appear in any campaign"
+
+PRODUCTSWI10_TITLE,"Twin Shadows"
+PRODUCTSWI10_DESCRIPTION,"Brave the wastes of Tatooine as you face off against Tusken Raiders and Heavy Stormtroopers in your campaigns of [i]Legends of the Alliance.[/i]"
+PRODUCTSWI10_CONTENTS,"Digital content unlocked:
+ • 2 heroes
+ • 4 enemy groups
+ • 2 allies
+ • 2 villains
+ • 6 items
+ • 1 supply card
+ • 1 condition"
+
+PRODUCTSWI11_TITLE,"Boba Fett Villain Pack"
+PRODUCTSWI11_DESCRIPTION,"Stand up to the deadliest bounty hunter in the galaxy in your campaigns of [i]Legends of the Alliance[/i]."
+PRODUCTSWI11_CONTENTS,"Digital content unlocked:\n
+ • 1 villain that can appear in any campaign"
+
+PRODUCTSWI12_TITLE,"R2-D2 and C-3PO Ally Pack"
+PRODUCTSWI12_DESCRIPTION,"Accept the support of R2-D2 and C-3PO in your campaigns of [i]Legends of the Alliance[/i]."
+PRODUCTSWI12_CONTENTS,"Digital content unlocked:\n
+ • 2 allies that can appear in any campaign
+ • 1 ally encounter"
+
+PRODUCTSWI13_TITLE,"Kayn Somos Villain Pack"
+PRODUCTSWI13_DESCRIPTION,"Outgun the Imperial legion and their veteran captain in your campaigns of [i]Legends of the Alliance[/i]."
+PRODUCTSWI13_CONTENTS,"Digital content unlocked:\n
+ • 1 villain that can appear in any campaign"
+
+PRODUCTSWI14_TITLE,"Stormtroopers Villain Pack"
+PRODUCTSWI14_DESCRIPTION,"The Imperial forces are reinforced in your campaigns of [i]Legends of the Alliance[/i]."
+PRODUCTSWI14_CONTENTS,"Digital content unlocked:\n
+ • 1 enemy group variant"
+
+PRODUCTSWI15_TITLE,"Wookiee Warriors Ally Pack"
+PRODUCTSWI15_DESCRIPTION,"Earn the protection of the Wookiees in your campaigns of [i]Legends of the Alliance[/i]."
+PRODUCTSWI15_CONTENTS,"Digital content unlocked:\n
+ • 2 allies that can appear in any campaign
+ • 1 ally encounter"
+
+PRODUCTSWI16_TITLE,"Hired Guns Villain Pack"
+PRODUCTSWI16_DESCRIPTION,"The Empire has sent the scum and villainy of the galaxy after you in your campaigns of [i]Legends of the Alliance[/i]."
+PRODUCTSWI16_CONTENTS,"Digital content unlocked:\n
+ • 2 enemy groups"
+
+PRODUCTSWI17_TITLE,"Alliance Smuggler Ally Pack"
+PRODUCTSWI17_DESCRIPTION,"Hire an extra set of hands for your campaigns of [i]Legends of the Alliance[/i]."
+PRODUCTSWI17_CONTENTS,"Digital content unlocked:\n
+ • 2 allies that can appear in any campaign
+ • 1 ally encounter"
+
+PRODUCTSWI18_TITLE,"Bantha Rider Villain Pack"
+PRODUCTSWI18_DESCRIPTION,"The Tuskens’ numbers increase as they add bantha riders to their ranks in your campaigns of [i]Legends of the Alliance[/i]."
+PRODUCTSWI18_CONTENTS,"Digital content unlocked:\n
+ • 1 enemy group"
+
+PRODUCTSWI19_TITLE,"Return to Hoth"
+PRODUCTSWI19_DESCRIPTION,"Return to the frozen stronghold of the Rebellion and struggle to survive the deadly cold that descends upon your campaigns of [i]Legends of the Alliance[/i]."
+PRODUCTSWI19_CONTENTS,"Digital content unlocked:
+ • 3 heroes
+ • 7 enemy groups
+ • 2 allies
+ • 2 villains
+ • 9 items
+ • 4 supply cards
+ • 1 condition"
+
+PRODUCTSWI20_TITLE,"General Sorin Villain Pack"
+PRODUCTSWI20_DESCRIPTION,"Bring down the vicious Imperial general and his armored legions in your campaigns of [i]Legends of the Alliance[/i]."
+PRODUCTSWI20_CONTENTS,"Digital content unlocked:\n
+ • 1 villain that can appear in any campaign"
+
+PRODUCTSWI21_TITLE,"Dengar Villain Pack"
+PRODUCTSWI21_DESCRIPTION,"Don’t get caught by the ruthless Dengar in your campaigns of [i]Legends of the Alliance[/i]."
+PRODUCTSWI21_CONTENTS,"Digital content unlocked:\n
+ • 1 villain that can appear in any campaign"
+
+PRODUCTSWI22_TITLE,"Leia Organa Ally Pack"
+PRODUCTSWI22_DESCRIPTION,"Save your skin with the aid of Leia Organa in your campaigns of [i]Legends of the Alliance[/i]."
+PRODUCTSWI22_CONTENTS,"Digital content unlocked:\n
+ • 1 ally that can appear in any campaign
+ • 1 ally encounter"
+
+PRODUCTSWI23_TITLE,"Echo Base Troopers Ally Pack"
+PRODUCTSWI23_DESCRIPTION,"Defend the Alliance and escape the Empire with the Rebellion’s finest in your campaigns of [i]Legends of the Alliance[/i]."
+PRODUCTSWI23_CONTENTS,"Digital content unlocked:\n
+ • 2 allies that can appear in any campaign
+ • 1 ally encounter"
+
+PRODUCTSWI24_TITLE,"The Bespin Gambit"
+PRODUCTSWI24_DESCRIPTION,"Visit the beautiful city in the clouds and outmaneuver the spies of the Empire in your campaigns of [i]Legends of the Alliance[/i]."
+PRODUCTSWI24_CONTENTS,"Digital content unlocked:
+ • 2 heroes
+ • 4 enemy groups
+ • 1 ally
+ • 2 villains
+ • 2 companions
+ • 6 items
+ • 2 supply cards
+ • 2 conditions"
+
+PRODUCTSWI25_TITLE,"Bossk Villain Pack"
+PRODUCTSWI25_DESCRIPTION,"Outsmart the keenest hunter of the Outer Rim in your campaigns of [i]Legends of the Alliance[/i]."
+PRODUCTSWI25_CONTENTS,"Digital content unlocked:\n
+ • 1 villain that can appear in any campaign"
+
+PRODUCTSWI26_TITLE,"Agent Blaise Villain Pack"
+PRODUCTSWI26_DESCRIPTION,"Outmaneuver the commander of the Imperial Security Bureau in your campaigns of [i]Legends of the Alliance[/i]."
+PRODUCTSWI26_CONTENTS,"Digital content unlocked:\n
+ • 1 villain that can appear in any campaign"
+
+PRODUCTSWI27_TITLE,"Lando Calrissian Ally Pack"
+PRODUCTSWI27_DESCRIPTION,"Charm your way out of trouble with Lando Calrissian in your campaigns of [i]Legends of the Alliance[/i]."
+PRODUCTSWI27_CONTENTS,"Digital content unlocked:\n
+ • 1 ally that can appear in any campaign
+ • 1 ally encounter"
+
+PRODUCTSWI28_TITLE,"ISB Infiltrators Villain Pack"
+PRODUCTSWI28_DESCRIPTION,"The Empire’s soldiers have gained new intelligence in your campaigns of [i]Legends of the Alliance[/i]."
+PRODUCTSWI28_CONTENTS,"Digital content unlocked:\n
+ • 2 enemy groups"
+
+PRODUCTSWI29_TITLE,"Obi-Wan Kenobi Ally Pack"
+PRODUCTSWI29_DESCRIPTION,"Learn the ways of the Force with Obi-Wan Kenobi in your campaigns of [i]Legends of the Alliance[/i]."
+PRODUCTSWI29_CONTENTS,"Digital content unlocked:\n
+ • 1 ally that can appear in any campaign
+ • 1 item"
+
+PRODUCTSWI30_TITLE,"The Grand Inquisitor Villain Pack"
+PRODUCTSWI30_DESCRIPTION,"Withstand the merciless onslaught of the Emperor’s chief Jedi-hunter in your campaigns of [i]Legends of the Alliance[/i]."
+PRODUCTSWI30_CONTENTS,"Digital content unlocked:\n
+ • 1 villain that can appear in any campaign
+ • 1 item"
+
+PRODUCTSWI31_TITLE,"Greedo Villain Pack"
+PRODUCTSWI31_DESCRIPTION,"Don’t get shot by Jabba’s lackey in your campaigns of [i]Legends of the Alliance[/i]!"
+PRODUCTSWI31_CONTENTS,"Digital content unlocked:\n
+ • 1 villain that can appear in any campaign
+ • 1 item"
+
+PRODUCTSWI32_TITLE,"Jabba’s Realm"
+PRODUCTSWI32_DESCRIPTION,"Survive amidst the clutches of the criminals of the Outer Rim as you escape Tatooine in your campaigns of [i]Legends of the Alliance[/i]."
+PRODUCTSWI32_CONTENTS,"Digital content unlocked:
+ • 3 heroes
+ • 7 enemy groups
+ • 2 allies
+ • 2 villains
+ • 1 companion
+ • 9 items
+ • 2 supply cards
+ • 2 conditions"
+
+PRODUCTSWI33_TITLE,"Luke Skywalker, Jedi Knight Ally Pack"
+PRODUCTSWI33_DESCRIPTION,"The Jedi Knights return when Luke Skywalker joins your campaigns of [i]Legends of the Alliance[/i]."
+PRODUCTSWI33_CONTENTS,"Digital content unlocked:\n
+ • 1 ally that can appear in any campaign
+ • 1 ally encounter"
+
+PRODUCTSWI34_TITLE,"Alliance Rangers Ally Pack"
+PRODUCTSWI34_DESCRIPTION,"Bring down the Empire’s defenses with Rebel scouts in your campaigns of [i]Legends of the Alliance[/i]."
+PRODUCTSWI34_CONTENTS,"Digital content unlocked:\n
+ • 2 allies that can appear in any campaign
+ • 1 ally encounter"
+
+PRODUCTSWI35_TITLE,"Captain Terro Villain Pack"
+PRODUCTSWI35_DESCRIPTION,"Defeat a veteran of the Empire and his hardy dewback riders in your campaigns of [i]Legends of the Alliance[/i]."
+PRODUCTSWI35_CONTENTS,"Digital content unlocked:\n
+ • 1 enemy group
+ • 1 villain that can appear in any campaign"
+
+PRODUCTSWI36_TITLE,"Jabba the Hutt Villain Pack"
+PRODUCTSWI36_DESCRIPTION,"Escape the clutches of the most notorious crime lord in your campaigns of [i]Legends of the Alliance[/i]."
+PRODUCTSWI36_CONTENTS,"Digital content unlocked:\n
+ • 1 villain that can appear in any campaign"
+
+PRODUCTSWI41_TITLE,"BT-1 and 0-0-0 Villain Pack"
+PRODUCTSWI41_DESCRIPTION,"Stand up to Vader’s murderous droid agents in your campaigns of [i]Legends of the Alliance[/i]."
+PRODUCTSWI41_CONTENTS,"Digital content unlocked:\n
+ • 2 villains that can appear in any campaign"
+
+PRODUCTSWI42_TITLE,"Jawas Villain Pack"
+PRODUCTSWI42_DESCRIPTION,"The Empire has found new and unique tools in your campaigns of [i]Legends of the Alliance[/i]."
+PRODUCTSWI42_CONTENTS,"Digital content unlocked:\n
+ • 2 enemy groups"
+
+PRODUCTSWI43_TITLE,"Chopper and Hera Ally Pack"
+PRODUCTSWI43_DESCRIPTION,"Resist oppression with Hera and Chopper in your campaigns of [i]Legends of the Alliance[/i]."
+PRODUCTSWI43_CONTENTS,"Digital content unlocked:\n
+ • 2 allies that can appear in any campaign
+ • 1 ally encounter"
+
+PRODUCTSWI46_TITLE,"Heart of the Empire"
+PRODUCTSWI46_DESCRIPTION,"Venture into the heart of Coruscant and resist the might of the Empire in your campaigns of [i]Legends of the Alliance[/i]."
+PRODUCTSWI46_CONTENTS,"Digital content unlocked:
+ • 3 heroes
+ • 7 enemy groups
+ • 1 ally
+ • 2 villains
+ • 1 companion
+ • 9 items
+ • 3 supply cards
+ • 1 condition"
+
+PRODUCTSWI47_TITLE,"Maul Villain Pack"
+PRODUCTSWI47_DESCRIPTION,"Vengeance stalks you in your campaigns of [i]Legends of the Alliance[/i]."
+PRODUCTSWI47_CONTENTS,"Digital content unlocked:\n
+ • 1 villain that can appear in any campaign"
+
+PRODUCTSWI48_TITLE,"Emperor Palpatine Villain Pack"
+PRODUCTSWI48_DESCRIPTION,"Challenge the Emperor himself in your campaigns of [i]Legends of the Alliance[/i]."
+PRODUCTSWI48_CONTENTS,"Digital content unlocked:\n
+ • 1 villain that can appear in any campaign"
+
+PRODUCTSWI49_TITLE,"Ahsoka Tano Ally Pack"
+PRODUCTSWI49_DESCRIPTION,"Protect the innocent and defeat the darkness alongside Ahsoka Tano in your campaigns of [i]Legends of the Alliance[/i]."
+PRODUCTSWI49_CONTENTS,"Digital content unlocked:\n
+ • 1 ally that can appear in any campaign"
+
+PRODUCTSWI54_TITLE,"Tyrants of Lothal"
+PRODUCTSWI54_DESCRIPTION,"Join the heroic Spectres and fight for freedom in your campaigns of [i]Legends of the Alliance[/i]."
+PRODUCTSWI54_CONTENTS,"Digital content unlocked:
+ • 2 heroes
+ • 2 enemy groups
+ • 4 allies
+ • 2 villains
+ • 6 items
+ • 1 condition"
+
+PRODUCTSWI55_TITLE,"Ezra Bridger and Kanan Jarrus Ally Pack"
+PRODUCTSWI55_DESCRIPTION,"Learn to control your strength with Ezra Bridger and Kanan Jarrus in your campaigns of [i]Legends of the Alliance[/i]."
+PRODUCTSWI55_CONTENTS,"Digital content unlocked:\n
+ • 2 allies that can appear in any campaign"
+
+PRODUCTSWI56_TITLE,"Sabine Wren and Zeb Orrelios Ally Pack"
+PRODUCTSWI56_DESCRIPTION,"Go on the offensive with Sabine Wren and Zeb Orrelios in your campaigns of [i]Legends of the Alliance[/i]."
+PRODUCTSWI56_CONTENTS,"Digital content unlocked:\n
+ • 2 allies that can appear in any campaign"
+
+PRODUCTSWI57_TITLE,"Thrawn Villain Pack"
+PRODUCTSWI57_DESCRIPTION,"Test your wits against the legendary Grand Admiral in your campaigns of [i]Legends of the Alliance[/i]."
+PRODUCTSWI57_CONTENTS,"Digital content unlocked:\n
+ • 1 villain that can appear in any campaign"
+
+PRODUCTSWI58_TITLE,"Hondo Ohnaka Villain Pack"
+PRODUCTSWI58_DESCRIPTION,"Keep your friends close and your enemies closer in your campaigns of [i]Legends of the Alliance[/i]."
+PRODUCTSWI58_CONTENTS,"Digital content unlocked:\n
+ • 1 villain that can appear in any campaign"
+
+PRODUCTSWI63_TITLE,"Malastarian Outpost Game Mat"
+PRODUCTSWI63_DESCRIPTION,"Pick your team and gear up for a raid on an Imperial outpost on Malastare."
+PRODUCTSWI63_CONTENTS,"Digital content unlocked:\n
+ • 1 raid"
+
+PRODUCTSWI64_TITLE,"The Gray Cap Cantina Game Mat"
+PRODUCTSWI64_DESCRIPTION,"Assemble your squad and grab your gear for a raid on the Gray Cap Cantina."
+PRODUCTSWI64_CONTENTS,"Digital content unlocked:\n
+ • 1 raid"
+HERO_DIALA_NAME,"Diala Passil"
+HERO_DIALA_START_1,"Plasteel Staff"
+HERO_DIALA_SKILL_1,"Force Adept"
+HERO_DIALA_SKILL_2,"Force Throw"
+HERO_DIALA_SKILL_3,"Battle Meditation"
+HERO_DIALA_SKILL_4,"Defensive Stance"
+HERO_DIALA_SKILL_5,"Art of Movement"
+HERO_DIALA_SKILL_6,"Snap Kick"
+HERO_DIALA_SKILL_7,"Dancing Weapon"
+HERO_DIALA_SKILL_8,"Way of the Sarlacc"
+HERO_DIALA_REWARD,"Shu Yen’s Lightsaber"
+
+HERO_FENN_NAME,"Fenn Signis"
+HERO_FENN_START_1,"Infantry Rifle"
+HERO_FENN_SKILL_1,"Tactical Movement"
+HERO_FENN_SKILL_2,"Take Cover"
+HERO_FENN_SKILL_3,"Adrenaline Rush"
+HERO_FENN_SKILL_4,"Weapon Expert"
+HERO_FENN_SKILL_5,"Suppressive Fire"
+HERO_FENN_SKILL_6,"Trench Fighter"
+HERO_FENN_SKILL_7,"Rebel Elite"
+HERO_FENN_SKILL_8,"Superior Positioning"
+HERO_FENN_REWARD,"Veteran Prowess"
+
+HERO_GAARKHAN_NAME,"Gaarkhan"
+HERO_GAARKHAN_START_1,"Vibro-Ax"
+HERO_GAARKHAN_SKILL_1,"Wookiee Fortitude"
+HERO_GAARKHAN_SKILL_2,"Wookiee Loyalty"
+HERO_GAARKHAN_SKILL_3,"Ferocity"
+HERO_GAARKHAN_SKILL_4,"Staggering Blow"
+HERO_GAARKHAN_SKILL_5,"Vicious Strike"
+HERO_GAARKHAN_SKILL_6,"Rampage"
+HERO_GAARKHAN_SKILL_7,"Unstoppable"
+HERO_GAARKHAN_SKILL_8,"Brutal Cleave"
+HERO_GAARKHAN_REWARD,"Life Debt"
+
+HERO_GIDEON_NAME,"Gideon Argus"
+HERO_GIDEON_START_1,"Holdout Blaster"
+HERO_GIDEON_SKILL_1,"Called Shot"
+HERO_GIDEON_SKILL_2,"Military Efficiency"
+HERO_GIDEON_SKILL_3,"Air of Command"
+HERO_GIDEON_SKILL_4,"Mobile Tactician"
+HERO_GIDEON_SKILL_5,"For the Cause!"
+HERO_GIDEON_SKILL_6,"Rallying Shout"
+HERO_GIDEON_SKILL_7,"Hammer and Anvil"
+HERO_GIDEON_SKILL_8,"Masterstroke"
+HERO_GIDEON_REWARD,"Fearless Leader"
+
+HERO_JYN_NAME,"Jyn Odan"
+HERO_JYN_START_1,"Vintage Blaster"
+HERO_JYN_SKILL_1,"Quick as a Whip"
+HERO_JYN_SKILL_2,"Smuggler’s Luck"
+HERO_JYN_SKILL_3,"Cheap Shot"
+HERO_JYN_SKILL_4,"Roll with It"
+HERO_JYN_SKILL_5,"Get Cocky"
+HERO_JYN_SKILL_6,"Gunslinger"
+HERO_JYN_SKILL_7,"Sidewinder"
+HERO_JYN_SKILL_8,"Trick Shot"
+HERO_JYN_REWARD,"Peacemaker"
+HERO_JYN_SKILL_2_REPLACEMENT_EFFECT,"This class card retains its two exhaust abilities. Having this class card will display an additional item in the armory."
+
+HERO_MAK_NAME,"Mak Eshka’rey"
+HERO_MAK_START_1,"Longblaster"
+HERO_MAK_SKILL_1,"Disengage"
+HERO_MAK_SKILL_2,"Supply Network"
+HERO_MAK_SKILL_3,"Jeswandi Training"
+HERO_MAK_SKILL_4,"Target Acquired"
+HERO_MAK_SKILL_5,"Execute"
+HERO_MAK_SKILL_6,"Expertise"
+HERO_MAK_SKILL_7,"Decoy"
+HERO_MAK_SKILL_8,"No Escape"
+HERO_MAK_REWARD,"Shadow Suit"
+
+HERO_BIV_NAME,"Biv Bodhrik"
+HERO_BIV_START_1,"Repeating Blaster"
+HERO_BIV_SKILL_1,"Advance"
+HERO_BIV_SKILL_2,"Shake it Off"
+HERO_BIV_SKILL_3,"Crushing Blow"
+HERO_BIV_SKILL_4,"Into the Fray"
+HERO_BIV_SKILL_5,"Trophy Armor"
+HERO_BIV_SKILL_6,"Vibrobayonet"
+HERO_BIV_SKILL_7,"Final Stand"
+HERO_BIV_SKILL_8,"Stay Down"
+HERO_BIV_REWARD,"Hunt Them Down"
+
+HERO_SASKA_NAME,"Saska Teft"
+HERO_SASKA_START_1,"Modified Blaster"
+HERO_SASKA_SKILL_1,"Tool Kit"
+HERO_SASKA_SKILL_2,"Unstable Device"
+HERO_SASKA_SKILL_3,"Energy Shield"
+HERO_SASKA_SKILL_4,"Structural Weakness"
+HERO_SASKA_SKILL_5,"Gadgeteer"
+HERO_SASKA_SKILL_6,"Power Converter"
+HERO_SASKA_SKILL_7,"Adrenaline Injector"
+HERO_SASKA_SKILL_8,"Remote Distribution"
+HERO_SASKA_REWARD,"Tech Goggles"
+
+HERO_LOKU_NAME,"Loku Kanoloa"
+HERO_LOKU_START_1,"All-Weather Rifle"
+HERO_LOKU_SKILL_1,"Combat Spotter"
+HERO_LOKU_SKILL_2,"Scouting Report"
+HERO_LOKU_SKILL_3,"Overwatch"
+HERO_LOKU_SKILL_4,"Spectrum Scanner"
+HERO_LOKU_SKILL_5,"Scout’s Guidance"
+HERO_LOKU_SKILL_6,"Study of Enemies"
+HERO_LOKU_SKILL_7,"Coordinated Attack"
+HERO_LOKU_SKILL_8,"Mon Cala Special Forces"
+HERO_LOKU_REWARD,"Battle Vision"
+
+HERO_MHD_NAME,"MHD-19"
+HERO_MHD_START_1,"Sidearm Blaster"
+HERO_MHD_SKILL_1,"Bacta Injector"
+HERO_MHD_SKILL_2,"Improper Procedure"
+HERO_MHD_SKILL_3,"Field Surgeon"
+HERO_MHD_SKILL_4,"Fuel Injection"
+HERO_MHD_SKILL_5,"Adrenal Vapor"
+HERO_MHD_SKILL_6,"Miracle Worker"
+HERO_MHD_SKILL_7,"Bacta Radiator"
+HERO_MHD_SKILL_8,"Combat Override"
+HERO_MHD_REWARD,"Systems Upgrade"
+
+HERO_VERENA_NAME,"Verena Talos"
+HERO_VERENA_START_1,"Military Blaster"
+HERO_VERENA_START_2,"Fighting Knife"
+HERO_VERENA_SKILL_1,"Combat Momentum"
+HERO_VERENA_SKILL_2,"Create Opening"
+HERO_VERENA_SKILL_3,"K’tara Maneuver"
+HERO_VERENA_SKILL_4,"Student of Battle"
+HERO_VERENA_SKILL_5,"Point Blank Shot"
+HERO_VERENA_SKILL_6,"Improvised Cover"
+HERO_VERENA_SKILL_7,"Master Operative"
+HERO_VERENA_SKILL_8,"Combat Mastery"
+HERO_VERENA_REWARD,"Iron Hand"
+
+HERO_DAVITH_NAME,"Davith Elso"
+HERO_DAVITH_START_1,"Heirloom Dagger"
+HERO_DAVITH_SKILL_1,"Covert Operative"
+HERO_DAVITH_SKILL_2,"Elusive Agent"
+HERO_DAVITH_SKILL_3,"Blindside"
+HERO_DAVITH_SKILL_4,"Falling Leaf"
+HERO_DAVITH_SKILL_5,"Shrouded Lightsaber"
+HERO_DAVITH_SKILL_6,"Force Illusion"
+HERO_DAVITH_SKILL_7,"Fell Swoop"
+HERO_DAVITH_SKILL_8,"Embody the Force"
+HERO_DAVITH_REWARD,"Radiant Holocron"
+
+HERO_MURNE_NAME,"Murne Rin"
+HERO_MURNE_START_1,"Diplomat’s Blaster"
+HERO_MURNE_SKILL_1,"Company of Heroes"
+HERO_MURNE_SKILL_2,"Sonic Bellow"
+HERO_MURNE_SKILL_3,"Rebel Propaganda"
+HERO_MURNE_SKILL_4,"Professional Aide"
+HERO_MURNE_SKILL_5,"Solidarity"
+HERO_MURNE_SKILL_6,"Double Agent"
+HERO_MURNE_SKILL_7,"Waylay"
+HERO_MURNE_SKILL_8,"Lead from the Front"
+HERO_MURNE_REWARD,"Cam Droid"
+HERO_MURNE_SKILL_1_REPLACEMENT_EFFECT,"At the start of each mission, choose 1 hero and 1 ally to become Focused. At the start of a random round, choose 1 Rebel to become Focused."
+HERO_MURNE_SKILL_1_SETUP,"[b]Company of Heroes[/b]\n\nMurne chooses 1 hero and 1 ally within 3 spaces of her to become Focused."
+HERO_MURNE_SKILL_1_RANDOM,"[b]Company of Heroes[/b]\n\nMurne chooses 1 Rebel within 3 spaces of her to become Focused."
+
+HERO_ONAR_NAME,"Onar Koma"
+HERO_ONAR_START_1,"Bodyguard Rifle"
+HERO_ONAR_SKILL_1,"Get Down"
+HERO_ONAR_SKILL_2,"Keep Up"
+HERO_ONAR_SKILL_3,"Stay Behind Me"
+HERO_ONAR_SKILL_4,"Mutual Destruction"
+HERO_ONAR_SKILL_5,"Brute Strength"
+HERO_ONAR_SKILL_6,"Hold Still"
+HERO_ONAR_SKILL_7,"Black Sun Armor"
+HERO_ONAR_SKILL_8,"Don’t Make Me Hurt You"
+HERO_ONAR_REWARD,"Haymaker"
+
+HERO_SHYLA_NAME,"Shyla Varad"
+HERO_SHYLA_START_1,"Duelist Blade"
+HERO_SHYLA_SKILL_1,"All-Out Attack"
+HERO_SHYLA_SKILL_2,"Responsiveness"
+HERO_SHYLA_SKILL_3,"Smoke Bombs"
+HERO_SHYLA_SKILL_4,"Proximity Strike"
+HERO_SHYLA_SKILL_5,"Swords Dance"
+HERO_SHYLA_SKILL_6,"Remote Detonator"
+HERO_SHYLA_SKILL_7,"Full Sweep"
+HERO_SHYLA_SKILL_8,"Deadly Grace"
+HERO_SHYLA_REWARD,"Mandalorian Heritage"
+
+HERO_VINTO_NAME,"Vinto Hreeda"
+HERO_VINTO_START_1,"Hair-Trigger Pistol"
+HERO_VINTO_SKILL_1,"Pinpoint Shot"
+HERO_VINTO_SKILL_2,"Shot on the Run"
+HERO_VINTO_SKILL_3,"Battlefield Experience"
+HERO_VINTO_SKILL_4,"Sharpshooter"
+HERO_VINTO_SKILL_5,"Off-Hand Blaster"
+HERO_VINTO_SKILL_6,"Dead On"
+HERO_VINTO_SKILL_7,"Rapid Fire"
+HERO_VINTO_SKILL_8,"Merciless"
+HERO_VINTO_REWARD,"Desperado"
+
+HERO_KO-TUN_NAME,"Ko-Tun Feralo"
+HERO_KO-TUN_START_1,"Service Rifle"
+HERO_KO-TUN_SKILL_1,"Auxiliary Training"
+HERO_KO-TUN_SKILL_2,"Inch By Inch"
+HERO_KO-TUN_SKILL_3,"Combat Logistics"
+HERO_KO-TUN_SKILL_4,"Dig In"
+HERO_KO-TUN_SKILL_5,"Fire Support Specialist"
+HERO_KO-TUN_SKILL_6,"Opportunist"
+HERO_KO-TUN_SKILL_7,"Squad Cohesion"
+HERO_KO-TUN_SKILL_8,"Self-sufficient"
+HERO_KO-TUN_REWARD,"Alliance Efficiency"
+
+HERO_JARROD_NAME,"Jarrod Kelvin"
+HERO_JARROD_START_1,"Vibro-Claws"
+HERO_JARROD_SKILL_1,"Forward Momentum"
+HERO_JARROD_SKILL_2,"Balanced Approach"
+HERO_JARROD_SKILL_3,"Scout’s Loadout"
+HERO_JARROD_SKILL_4,"Slicer’s Upgrades"
+HERO_JARROD_SKILL_5,"Mutual Progression"
+HERO_JARROD_SKILL_6,"Explosive Reflexes"
+HERO_JARROD_SKILL_7,"Mechanical Master"
+HERO_JARROD_SKILL_8,"Leaping Slash"
+HERO_JARROD_REWARD,"X-8 Upgrade"
+
+HERO_DROKKATTA_NAME,"Drokkatta"
+HERO_DROKKATTA_START_1,"MGL-9 ""Boomer"""
+HERO_DROKKATTA_SKILL_1,"Charging Up"
+HERO_DROKKATTA_SKILL_2,"Leave No One Behind"
+HERO_DROKKATTA_SKILL_3,"Bank Shot"
+HERO_DROKKATTA_SKILL_4,"Shrapnel Rounds"
+HERO_DROKKATTA_SKILL_5,"Repeater Cannon"
+HERO_DROKKATTA_SKILL_6,"Structural Exploitation"
+HERO_DROKKATTA_SKILL_7,"Wookiee Wrath"
+HERO_DROKKATTA_SKILL_8,"Thermal Explosives"
+HERO_DROKKATTA_REWARD,"Wookiee Roar"
+
+HERO_WILDFIRE_NAME,"CT-1701"
+HERO_WILDFIRE_START_1,"DC-15S Blaster"
+HERO_WILDFIRE_SKILL_1,"Reload"
+HERO_WILDFIRE_SKILL_2,"Covering Fire"
+HERO_WILDFIRE_SKILL_3,"Strafing Run"
+HERO_WILDFIRE_SKILL_4,"Pin Them Down"
+HERO_WILDFIRE_SKILL_5,"Squad Tactics"
+HERO_WILDFIRE_SKILL_6,"Weakness Identified"
+HERO_WILDFIRE_SKILL_7,"Concentrate Fire"
+HERO_WILDFIRE_SKILL_8,"Wild Fire"
+HERO_WILDFIRE_REWARD,"Bullseye!"
+
+HERO_TRESS_NAME,"Tress Hacnua"
+HERO_TRESS_START_1,"Reinforced Cyberarm"
+HERO_TRESS_SKILL_1,"Mynock Strike"
+HERO_TRESS_SKILL_2,"Aryx Variation"
+HERO_TRESS_SKILL_3,"Dianoga Sweep"
+HERO_TRESS_SKILL_4,"Gundark Throw"
+HERO_TRESS_SKILL_5,"Acklay Counter"
+HERO_TRESS_SKILL_6,"Dragonsnake Variation"
+HERO_TRESS_SKILL_7,"Krayt Dragon Fury"
+HERO_TRESS_SKILL_8,"Fluidity"
+HERO_TRESS_REWARD,"Wholeness"
+HEROIC,"Heroic"
+LEGENDARY,"Legendary"
+PEACEMAKER,"Peacemaker"
+FEARLESS_LEADER,"Fearless Leader"
+LIFE_DEBT,"Life Debt"
+VETERAN_PROWESS,"Veteran Prowess"
+REBEL_RECON,"Rebel Recon"
+ALLIED_OPERATIONS,"Allied Operations"
+ITEM_1,"DH-17"
+ITEM_2,"E-11"
+ITEM_3,"DL-44"
+ITEM_4,"Vibroblade"
+ITEM_5,"Armored Gauntlets"
+ITEM_6,"Balanced Hilt"
+ITEM_7,"Extended Haft"
+ITEM_8,"Tactical Display"
+ITEM_9,"Marksman Barrel"
+ITEM_10,"Combat Coat"
+ITEM_11,"Survival Gear"
+ITEM_12,"Portable Medkit"
+ITEM_13,"Combat Coat"
+ITEM_14,"A280"
+ITEM_15,"T-21"
+ITEM_16,"434 ""Deathhammer"""
+ITEM_17,"Vibro Knucklers"
+ITEM_18,"BD-1Vibro-Ax"
+ITEM_19,"High-Impact Guard"
+ITEM_20,"Spread Barrel"
+ITEM_21,"Overcharger"
+ITEM_22,"Laminate Armor"
+ITEM_23,"Extra Ammunition"
+ITEM_24,"Slicing Tools"
+ITEM_25,"Pulse Cannon"
+ITEM_26,"DXR-6"
+ITEM_27,"Sporting Blaster"
+ITEM_28,"Force Pike"
+ITEM_29,"Laminate Armor"
+ITEM_30,"Personal Shields"
+ITEM_31,"Reinforced Helmet"
+ITEM_32,"Combat Visor"
+ITEM_33,"Combat Knife"
+ITEM_34,"Shock Emitter"
+ITEM_35,"Disruption Cell"
+ITEM_36,"Telescoping Sights"
+
+ITEM_37,"Vintage Blaster"
+ITEM_38,"Vibro-Ax"
+ITEM_39,"Infantry Rifle"
+ITEM_40,"Longblaster"
+ITEM_41,"Holdout Blaster"
+ITEM_42,"Plasteel Staff"
+ITEM_54,"Tatooine Hunting Rifle"
+ITEM_55,"Gaffi Stick"
+ITEM_56,"EE-3 Carbine"
+ITEM_57,"Plasma Cell"
+ITEM_58,"Hidden Blade"
+ITEM_59,"DLT-19"
+ITEM_60,"DDC Defender"
+ITEM_61,"Vibroknife"
+ITEM_62,"Under-Barrel HH-4"
+ITEM_63,"Environment Hazard Suit"
+ITEM_64,"Stun Baton"
+ITEM_65,"Cybernetic Arm"
+ITEM_66,"Valken-38 Carbine"
+ITEM_67,"Vibrogenerator"
+ITEM_68,"Concussion Grenades"
+ITEM_69,"Vibrosword"
+ITEM_70,"Shadowsilk Cloak"
+ITEM_71,"R5 Astromech"
+ITEM_72,"Weighted Head"
+ITEM_73,"Sniper Scope"
+ITEM_74,"Disruptor Pistol"
+ITEM_75,"Ancient Lightsaber"
+ITEM_76,"Electrostaff"
+ITEM_77,"DT-12 Heavy Blaster Pistol"
+ITEM_78,"Bacta Pump"
+ITEM_79,"Hand Cannon"
+ITEM_80,"Emergency Injector"
+ITEM_81,"Double Vibrosword"
+ITEM_82,"Energized Hilt"
+ITEM_83,"Bolt Upgrade"
+ITEM_84,"Ryyk Blades"
+ITEM_85,"Modified Energy Cannon"
+ITEM_86,"Admiral’s Uniform"
+ITEM_90,"Responsive Armor"
+ITEM_91,"Charged Ammo Pack"
+ITEM_92,"Charge Pistol"
+ITEM_93,"Polearm"
+ITEM_94,"Focusing Beam"
+ITEM_95,"Hunter's Rifle"
+ITEM_96,"A-12 Sniper Rifle"
+ITEM_97,"Supply Pack"
+ITEM_98,"Power Charger"
+ITEM_99,"Punch Dagger"
+ITEM_100,"Combat Vambrace"
+ITEM_101,"E-11D"
+ITEM_102,"Mandalorian Helmet"
+ITEM_103,"Bo-rifle"
+ITEM_104,"Plastoid Armor"
+ITEM_1001,"Heroic"
+ITEM_1002,"Legendary"
+ITEM_1003,"Peacemaker"
+ITEM_1004,"Fearless Leader"
+ITEM_1005,"Life Debt"
+ITEM_1006,"Veteran Prowess"
+ITEM_1007,"Rebel Recon"
+ITEM_1008,"Allied Operations"
+ITEM_1009,"Adrenal Implant"
+ITEM_EXTRA_MEDPAC,"Extra Medpac"
+ITEM_FOCUS,"Focus 1 Hero"
+STORMTROOPERS_SINGULAR,"Stormtrooper"
+STORMTROOPERS_PLURAL,"Stormtroopers"
+STORMTROOPERS_SECONDARY,"to [b]reposition 4[/b]."
+STORMTROOPERS_INSTRUCTIONS,"Ignore the [b]Squad Training[/b] ability on this group’s card."
+STORMTROOPERS_INSTRUCTIONS_ELITE,"Ignore the [b]Squad Training[/b] and [b]Last Stand[/b] abilities on this group’s card."
+ACTION_STORMTROOPER," [b]Move 3[/b] to [b]attack[/b] « {0} ».\n
+ [b]Move 2[/b] {2}\n
+ [b]Move 6[/b] {2}"
+ACTION_STORMTROOPER_AGGRESSIVE," [b]Move 4[/b] to [b]attack[/b] « {0} ».\n
+ [b]Move 2[/b] {2}\n
+ [b]Move 6[/b] {2}"
+ACTION_ELITE_STORMTROOPER,"• [b]Last Stand[/b]: If there are fewer than 3 figures in this group, become Focused. Limit once per group activation.\n
+ [b]Move 3[/b] to [b]attack[/b] « {0} ».\n
+ [b]Move 2[/b] {2}\n
+ [b]Move 6[/b] {2}"
+ACTION_ELITE_STORMTROOPER_AGGRESSIVE,"• [b]Last Stand[/b]: If there are fewer than 3 figures in this group, become Focused. Limit once per group activation.\n
+ [b]Move 4[/b] to [b]attack[/b] « {0} ».\n
+ [b]Move 2[/b] {2}\n
+ [b]Move 6[/b] {2}"
+BONUS_STORMTROOPER_1,"[b]Squad Training:[/b] Gain Pierce 1 for each other figure in this group."
+BONUS_STORMTROOPER_2,"When the first figure in this group declares an attack, add 1 green die to the attack pool."
+BONUS_STORMTROOPER_3,"After this group’s activation, reinforce 1 defeated figure from this group as close as possible to another figure in this group."
+BONUS_STORMTROOPER_TUT,"Gain +1."
+SURGE_STORMTROOPER_1,": +2 Accuracy\n: +1"
+SURGE_STORMTROOPER_ELITE_1,": +3 Accuracy\n: +2"
+
+VADERS_FINEST_SINGULAR,"Vader's Finest Stormtrooper"
+VADERS_FINEST_PLURAL,"Vader's Finest Stormtroopers"
+VADERS_FINEST_SECONDARY,"to [b]reposition 4[/b]."
+VADERS_FINEST_INSTRUCTIONS,"This group uses the regular Stormtrooper deployment card.\n\nIgnore the [b]Squad Training[/b] ability on this group’s card."
+VADERS_FINEST_INSTRUCTIONS_ELITE,"This group uses the elite Stormtrooper deployment card.\n\nIgnore the [b]Squad Training[/b] and [b]Last Stand[/b] abilities on this group’s card."
+ACTION_VADERS_FINEST," If this figure has 1 or more [i]Harmful[/i] conditions, discard all [i]Harmful[/i] conditions and become Focused.\n
+ [b]Move 3[/b] to [b]attack[/b] « {0} ».\n
+ [b]Move 4[/b] {2}\n
+ [b]Move 4[/b] {2}"
+ACTION_VADERS_FINEST_AGGRESSIVE," If this figure has 1 or more [i]Harmful[/i] conditions, discard all [i]Harmful[/i] conditions and become Focused.\n
+ [b]Move 4[/b] to [b]attack[/b] « {0} ».\n
+ [b]Move 4[/b] {2}\n
+ [b]Move 4[/b] {2}"
+ACTION_ELITE_VADERS_FINEST,"• [b]Last Stand[/b]: If there are fewer than 3 figures in this group, become Focused. Limit once per group activation.\n
+ If this figure has 1 or more [i]Harmful[/i] conditions and no [i]Beneficial[/i] conditions, discard all [i]Harmful[/i] conditions and become Focused.\n
+ [b]Move 3[/b] to [b]attack[/b] « {0} ».\n
+ [b]Move 4[/b] {2}\n
+ [b]Move 4[/b] {2}"
+ACTION_ELITE_VADERS_FINEST_AGGRESSIVE,"• [b]Last Stand[/b]: If there are fewer than 3 figures in this group, become Focused. Limit once per group activation.\n
+ If this figure has 1 or more [i]Harmful[/i] conditions and no [i]Beneficial[/i] conditions, discard all [i]Harmful[/i] conditions and become Focused.\n
+ [b]Move 4[/b] to [b]attack[/b] « {0} ».\n
+ [b]Move 4[/b] {2}\n
+ [b]Move 4[/b] {2}"
+BONUS_VADERS_FINEST_1,"[b]Squad Training:[/b] Gain +1 for each other figure in this group."
+BONUS_VADERS_FINEST_2,"Focused figures add 1 red die instead of 1 green die when attacking."
+BONUS_VADERS_FINEST_3,"After this group’s activation, deploy 1 defeated figure from this group as close as possible to another figure in this group."
+
+IMPERIAL_OFFICER_SINGULAR,"Imperial Officer"
+IMPERIAL_OFFICER_PLURAL,"Imperial Officers"
+IMPERIAL_OFFICER_SECONDARY,"to [b]reposition 5[/b]."
+IMPERIAL_OFFICER_INSTRUCTIONS,"Ignore the [b]Order[/b] and [b]Cower[/b] abilities on this group’s card."
+IMPERIAL_OFFICER_INSTRUCTIONS_ELITE,"Ignore the [b]Executive Order[/b] and [b]Cower[/b] abilities on this group’s card."
+ACTION_IMPERIAL_OFFICER," [b]Order[/b]: Another Imperial figure with a figure cost of 3 or less [b]attacks[/b] « the healthy Rebel closest to this figure ».\n
+ [b]Move 3[/b] to [b]attack[/b] « {0} ».\n
+ [b]Move 2[/b] {2}\n
+ [b]Move 6[/b] {2}\n
+• [b]Cower[/b]: If not within 3 spaces of a Rebel, recover 2."
+ACTION_IMPERIAL_OFFICER_ELITE," [b]Order[/b]: Another Imperial figure with a figure cost of 6 or less [b]attacks[/b] « the healthy Rebel closest to this figure ».\n
+ [b]Move 3[/b] to [b]attack[/b] « {0} ».\n
+ [b]Move 2[/b] {2}\n
+ [b]Move 6[/b] {2}\n
+• [b]Cower[/b]: If not within 3 spaces of a Rebel, recover 3."
+BONUS_IMPERIAL_OFFICER_1,"The first Imperial attack gains +1."
+BONUS_IMPERIAL_OFFICER_2,"At the start of this activation, each Imperial figure within 3 spaces of this figure discards 1 [i]Harmful[/i] condition. Each of those figures that did not discard a condition recovers 2."
+BONUS_IMPERIAL_OFFICER_REG_1,"Before this activation, the highest cost Imperial figure (that isn't already Focused) becomes Focused."
+BONUS_IMPERIAL_OFFICER_ELITE_1,"Before this activation, the 2 highest cost Imperial figures (that aren't already Focused) become Focused."
+BONUS_IMPERIAL_OFFICER_TUT,"Attacks performed during the [b]Order[/b] instruction gain +1."
+SURGE_IMPERIAL_OFFICER_1,": +2 Accuracy\n: +1\n: Focus"
+SURGE_IMPERIAL_OFFICER_2,": +2 Accuracy\n: Focus\n: +1"
+SURGE_IMPERIAL_OFFICER_ELITE_1,": +3 Accuracy\n: +1\n: Focus\n: Stun"
+SURGE_IMPERIAL_OFFICER_ELITE_2,": +3 Accuracy\n: +1\n: Stun\n: Focus"
+SURGE_IMPERIAL_OFFICER_ELITE_3,": +3 Accuracy\n: Focus\n: Stun\n: +1"
+SURGE_IMPERIAL_OFFICER_ELITE_4,": +3 Accuracy\n: Stun\n: Focus\n: +1"
+
+ROYAL_GUARD_SINGULAR,"Royal Guard"
+ROYAL_GUARD_PLURAL,"Royal Guards"
+ROYAL_GUARD_SECONDARY,"toward « the closest non-ready hero »."
+ROYAL_GUARD_SECONDARY_ALT,"toward the closest hero."
+ROYAL_GUARD_INSTRUCTIONS,"[b]Errata[/b]:\n• The ""Vengeance"" ability should read: ""When an adjacent, friendly, non-Guardian figure is defeated, you become Focused.""\n• The [b]Protector[/b] ability has been replaced with this ability: ""[b]Sentinel:[/b] While a friendly non-[i]Guardian[/i] figure is defending, and you are adjacent to the target space, apply +1 to the defense results. Limit 1 ""Sentinel"" or ""Protector"" ability used per attack."""
+ROYAL_GUARD_INSTRUCTIONS_ELITE,"[b]Errata[/b]: The [b]Protector[/b] ability has been replaced with this ability: ""[b]Sentinel:[/b] While a friendly non-[i]Guardian[/i] figure is defending, and you are adjacent to the target space, apply +1 to the defense results. Limit 1 ""Sentinel"" or ""Protector"" ability used per attack."""
+ACTION_ROYAL_GUARD," [b]Move 4[/b] to [b]attack[/b] « {0} ».\n
+ [b]Move 3[/b] to [b]engage[/b] as many non-Guardian Imperial figures as possible (minimum 1).\n
+• If this figure is adjacent to a non-Guardian Imperial figure, end this figure’s activation.\n
+ [b]Move 3[/b] {2}\n
+ [b]Move 7[/b] {2}"
+ACTION_ROYAL_GUARD_AGGRESSIVE," [b]Move 5[/b] to [b]attack[/b] « {0} ».\n
+ [b]Move 2[/b] to [b]engage[/b] as many non-Guardian Imperial figures as possible (minimum 1).\n
+• If this figure is adjacent to a non-Guardian Imperial figure, end this figure’s activation.\n
+ [b]Move 2[/b] {2}\n
+ [b]Move 8[/b] {2}"
+ACTION_ROYAL_GUARD_NO_ENGAGE," [b]Move 4[/b] to [b]attack[/b] « {0} ».\n
+ [b]Move 3[/b] {2}\n
+ [b]Move 7[/b] {2}"
+BONUS_ROYAL_GUARD_1,"When the first figure in this group declares an attack, add 1 blue die to the attack pool."
+BONUS_ROYAL_GUARD_2,"Add 1 to each [b]Move[/b] value during this activation."
+BONUS_ROYAL_GUARD_TUT,"Gain +1."
+SURGE_ROYAL_GUARD_1,": Pierce 1\n: Stun"
+SURGE_ROYAL_GUARD_2,": Stun\n: Pierce 1"
+SURGE_ROYAL_GUARD_ELITE_1,": +2\n: Stun"
+SURGE_ROYAL_GUARD_ELITE_2,": Stun\n: +2"
+
+PROBE_DROID_SINGULAR,"Probe Droid"
+PROBE_DROID_PLURAL,"Probe Droids"
+PROBE_DROID_SECONDARY,"to [b]reposition 3[/b]."
+PROBE_DROID_INSTRUCTIONS,"Ignore the [b]Self-Destruct[/b] ability on this group’s card."
+PROBE_DROID_INSTRUCTIONS_ELITE,"Ignore the [b]Self-Destruct[/b] and [b]Targeting Computer[/b] abilities on this group’s card."
+ACTION_PROBE_DROID," [b]Move 3[/b] to [b]attack[/b] « {0} ».\n
+ [b]Self Destruct[/b]: If this figure has suffered 3 or more:
+       - [b]Move 2[/b] to [b]engage[/b] as many Rebels as possible.
+       - Each adjacent Rebel rolls 1 red die and suffers  equal to the  results.
+       - If any Rebels suffered , defeat this figure immediately.\n
+ [b]Move 2[/b] {2}\n
+ [b]Move 4[/b] {2}"
+ACTION_PROBE_DROID_NON-ENGAGE," [b]Move 2[/b] to [b]attack[/b] « {0} ».\n
+ [b]Move 2[/b] {2}\n
+ [b]Move 4[/b] {2}"
+ACTION_PROBE_DROID_ELITE,"• [b]Targeting Computer[/b]: Gain +1 and +2 Accuracy.\n
+ [b]Move 3[/b] to [b]attack[/b] « {0} ».\n
+ [b]Self Destruct[/b]: If this figure has suffered 5 or more:
+       - [b]Move 2[/b] to [b]engage[/b] as many Rebels as possible.
+       - Each adjacent Rebel rolls 1 red die and suffers  equal to the  results.
+       - If any Rebels suffered , defeat this figure immediately.\n
+ [b]Move 2[/b] {2}\n
+ [b]Move 6[/b] {2}"
+ACTION_PROBE_DROID_ELITE_NON-ENGAGE,"• [b]Targeting Computer[/b]: Gain +1 and +2 Accuracy.\n
+ [b]Move 3[/b] to [b]attack[/b] « {0} ».\n
+ [b]Move 2[/b] {2}\n
+ [b]Move 6[/b] {2}"
+BONUS_PROBE_DROID_TUT,"Gain +1."
+BONUS_PROBE_DROID_1,"After this figure [b]attacks[/b], the defender suffers 1."
+BONUS_PROBE_DROID_2,"Gain Pierce 1."
+BONUS_PROBE_DROID_REG_1,"[b]Self Destruct (0)[/b]: At the end of this activation, if this figure is adjacent to a Rebel, roll 1 red die. Each adjacent Rebel suffers  equal to the  results. Then this figure is defeated."
+BONUS_PROBE_DROID_REG_2,"[b]Electroshock[/b]: At the end of this activation, each adjacent Rebel tests . Each that fails suffers 1."
+BONUS_PROBE_DROID_ELITE_1,"[b]Self Destruct (5)[/b]: At the end of this activation, if this figure is adjacent to a Rebel and has suffered 5 or more , roll 1 red die. Each adjacent Rebel suffers  equal to the  results. Then, this figure is defeated."
+BONUS_PROBE_DROID_ELITE_2,"[b]Probe[/b]: At the end of this activation, « the hero with the most  dice » in line of sight of this figure suffers 1."
+SURGE_PROBE_DROID_TUT,": +1\n: Pierce 1"
+SURGE_PROBE_DROID_1,": +1\n: Pierce 1\n: Recover 1"
+SURGE_PROBE_DROID_2,": Recover 1\n: +1\n: Pierce 1"
+SURGE_PROBE_DROID_ELITE_1,": +2\n:Pierce 2\n: Recover 2"
+SURGE_PROBE_DROID_ELITE_2,": Recover 2\n: +2\n:Pierce 2"
+
+E_WEB_ENGINEER_SINGULAR,"E-Web Engineer"
+E_WEB_ENGINEER_PLURAL,"E-Web Engineers"
+E_WEB_ENGINEER_SECONDARY,"to [b]reposition 3[/b]."
+E_WEB_ENGINEER_INSTRUCTIONS,"Ignore the [b]Tripod[/b] ability on this group’s card."
+E_WEB_ENGINEER_INSTRUCTIONS_ELITE,"Ignore the [b]Tripod[/b] ability on this group’s card."
+ACTION_E_WEB_ENGINEER,"• Imperial figures do not block this figure’s line of sight.\n
+ [b]Attack[/b] « {0} ».\n
+ [b]Attack[/b] « {0} ».\n
+ [b]Move 2[/b] to [b]attack[/b] « the closest hero ».\n
+       • If this figure performed the previous instruction, it suffers 2.\n
+ If this figure did not attack, [b]move 4[/b] {2}"
+ACTION_ELITE_E_WEB_ENGINEER,"• Imperial figures do not block this figure’s line of sight.\n
+ [b]Attack[/b] « {0} ».\n
+ [b]Attack[/b] « {0} ».\n
+ [b]Move 3[/b] to [b]attack[/b] « the closest hero ».\n
+       • If this figure performed the previous instruction, it suffers 2.\n
+ If this figure did not attack, [b]move 6[/b] {2}"
+BONUS_E_WEB_ENGINEER_1,"When this figure declares its first attack, add 1 blue die to the attack pool."
+BONUS_E_WEB_ENGINEER_2,"Gain +1 and +2 Accuracy."
+BONUS_E_WEB_ENGINEER_3,"At the start of this activation, if this figure does not have line of sight to a Rebel, [b]move 1[/b] toward the closest Rebel."
+SURGE_E_WEB_ENGINEER_1,": +1\n: Recover 2"
+SURGE_E_WEB_ENGINEER_2,": Recover 2\n: +1"
+SURGE_E_WEB_ENGINEER_ELITE_1,": +2\n: Recover 2"
+SURGE_E_WEB_ENGINEER_ELITE_2,": Recover 2\n: +2"
+
+AT_ST_SINGULAR,"AT-ST"
+AT_ST_PLURAL,"AT-STs"
+AT_ST_SECONDARY,"to [b]reposition 2[/b]."
+AT_ST_INSTRUCTIONS,"Ignore the [b]Targeting Computer[/b] ability on this group’s card."
+ACTION_AT_ST,"• [b]Targeting Computer[/b]: Gain +1 and +2 Accuracy.\n
+ [b]Attack[/b] « {0} ».\n
+ [b]Move 5[/b] to [b]reposition 2[/b].\n
+ [b]Attack[/b] « {0} ».\n
+ [b]Move 3[/b] {2}\n
+• [b]Grenade Launcher[/b]: Roll 1 red die. The closest Rebel in line of sight suffers  equal to the  results."
+BONUS_AT_ST_1,"Gain +1."
+BONUS_AT_ST_2,"After this figure [b]attacks[/b], each other Rebel within 2 spaces of the target suffers 1 for each of their activation portraits."
+SURGE_AT_ST_1,": Pierce 2\n: Blast 2"
+SURGE_AT_ST_2,": Blast 2\n: Pierce 2"
+
+NEXU_SINGULAR,"Nexu"
+NEXU_PLURAL,"Nexu"
+NEXU_SECONDARY,"to [b]reposition 3[/b]."
+NEXU_INSTRUCTIONS,"Ignore the [b]Pounce[/b] ability on this group’s card."
+NEXU_INSTRUCTIONS_ELITE,"Ignore the [b]Pounce[/b] ability on this group’s card."
+ACTION_NEXU," [b]Pounce:[/b] Place this figure in an empty space within 6 spaces and adjacent to 2 or more Rebels. Then [b]attack[/b] « the Rebel that has suffered the least  ».\n
+ [b]Pounce:[/b] Place this figure in an empty space within 6 spaces and adjacent to « {0} ». Then [b]attack[/b] « {0} ».\n
+ [b]Move 3[/b] {2}\n
+ [b]Move 9[/b] {2}"
+BONUS_NEXU_1,"At the start of this activation, if a Rebel is bleeding, this figure gains +1."
+BONUS_NEXU_2,"If this figure has suffered 4 or more , the top of its activation list gains:  Recover 4. Then, [b]move 10[/b] to [b]reposition 6[/b]."
+BONUS_NEXU_3,"At the start of this figure’s activation, if this figure is in an exterior space, this figure gains +1."
+BONUS_NEXU_TUT,"While this figure is attacking, if the defender is Bleeding, the defender suffers 1."
+SURGE_NEXU_1,": Cleave 1\n: Pierce 2"
+SURGE_NEXU_2,": Pierce 2\n: Cleave 1"
+SURGE_NEXU_ELITE_1,": +2"
+
+TRANDOSHAN_HUNTER_SINGULAR,"Trandoshan Hunter"
+TRANDOSHAN_HUNTER_PLURAL,"Trandoshan Hunters"
+TRANDOSHAN_HUNTER_SECONDARY,"to [b]reposition 2[/b]."
+TRANDOSHAN_HUNTER_INSTRUCTIONS,"No special instructions."
+TRANDOSHAN_HUNTER_INSTRUCTIONS_ELITE,"No special instructions."
+ACTION_TRANDOSHAN," [b]Move 4[/b] to [b]attack[/b] « {0} ».\n
+ [b]Move 1[/b] {2}\n
+ [b]Move 7[/b] {2}"
+ACTION_TRANDOSHAN_AGGRESSIVE," [b]Move 5[/b] to [b]attack[/b] « {0} ».\n
+ [b]Move 4[/b] {2}\n
+ [b]Move 4[/b] {2}"
+BONUS_TRANDOSHAN_1,"[b]Regenerate[/b]: At the start of this figure’s activation, this figure discards all [i]Harmful[/i] conditions and recovers 2."
+BONUS_TRANDOSHAN_2,"When the first figure in this group declares an attack, add 1 blue die to the attack pool."
+BONUS_TRANDOSHAN_3,"Each figure in this group gains +1."
+SURGE_TRANDOSHAN_1,": Pierce 2\n: Bleed"
+SURGE_TRANDOSHAN_2,": Bleed\n: Pierce 2"
+SURGE_TRANDOSHAN_ELITE_1,": Pierce 2\n: Bleed\n: Focus"
+SURGE_TRANDOSHAN_ELITE_2,": Bleed\n: Focus\n: Pierce 2"
+SURGE_TRANDOSHAN_ELITE_3,": Pierce 2\n: Focus\n: Bleed"
+SURGE_TRANDOSHAN_ELITE_4,": Focus\n: Bleed\n: Pierce 2"
+
+DARTH_VADER,"Darth Vader"
+DARTH_VADER_SECONDARY,"toward « the closest non-ready hero »."
+DARTH_VADER_INSTRUCTIONS,"Ignore the [b]Brutality[/b], [b]Force Choke[/b] and [b]Foresight[/b] abilities on this group’s card."
+ACTION_DARTH_VADER,"• This figure discards each [i]Harmful[/i] condition, then suffers 1 for each condition discarded. If this figure would be defeated, it is not defeated until the end of this activation.\n
+ [b]Brutality:[/b] [b]Move 4[/b] to [b]engage[/b] 2 or more Rebels. Then, [b]attack[/b] each adjacent Rebel.\n
+ [b]Move 4[/b] to [b]attack[/b] « {0} ».\n
+ [b]Force Choke:[/b] [b]Move 2[/b] toward « {0} ». Then that figure suffers 2 and 1.\n
+ [b]Move 6[/b] {2}"
+ACTION_DARTH_VADER_NO_DEFEAT,"• This figure discards each [i]Harmful[/i] condition.\n
+ [b]Brutality:[/b] [b]Move 4[/b] to [b]engage[/b] 2 or more Rebels. Then, [b]attack[/b] each adjacent Rebel.\n
+ [b]Move 4[/b] to [b]attack[/b] « {0} ».\n
+ [b]Force Choke:[/b] [b]Move 2[/b] toward « {0} ». Then that figure suffers 2 and 1.\n
+ [b]Move 6[/b] {2}"
+BONUS_DARTH_VADER_1,"[b]Force Push[/b]: At the start of this figure’s activation, push the closest Rebel 2 spaces toward this figure."
+BONUS_DARTH_VADER_2,"Apply +1 to each attack. At the end of this figure’s activation, this figure suffers 2."
+BONUS_DARTH_VADER_3,"At the end of this figure’s activation, each Rebel adjacent to this figure suffers 1."
+SURGE_DARTH_VADER_1,": +2\n: Pierce 3"
+SURGE_DARTH_VADER_2,": Pierce 3\n: +2"
+
+GENERAL_WEISS,"General Weiss"
+GENERAL_WEISS_SECONDARY,"to [b]reposition 3[/b]."
+GENERAL_WEISS_INSTRUCTIONS,"Ignore the [b]Epic Arsenal[/b] and [b]General’s Orders[/b] abilities on this group’s card.
+
+If this figure attacks outside of its activation, its attack pool consists of 1 blue and 2 green dice."
+ACTION_GENERAL_WEISS_1," [b]Move 3[/b] to [b]attack[/b] « {0} ».\n
+ Roll 1 blue die. A Rebel within 5 spaces and each other Rebel within 2 spaces of it suffers  equal to the  results. Target « the Rebel within 2 spaces of the most other Rebels ».\n
+ [b]Move 8[/b] {2}\n
+ [b]Move 2[/b] {2}\n
+• [b]General’s Orders:[/b] The two other highest-cost Imperial figures [b]move 2[/b] toward the Rebels and become Focused."
+ACTION_GENERAL_WEISS_2," [b]Move 3[/b] to [b]attack[/b] « {0} ».\n
+ Roll 1 green die. A Rebel within 4 spaces suffers  equal to the  results. Target « the healthy Rebel that has suffered the most  ». If a  was rolled, become Focused.\n
+ [b]Move 8[/b] {2}\n
+ [b]Move 2[/b] {2}\n
+• [b]General’s Orders:[/b] The two other highest-cost Imperial figures [b]move 2[/b] toward the Rebels and become Focused."
+ACTION_GENERAL_WEISS_3," [b]Move 3[/b] to [b]attack[/b] « {0} ».\n
+ Roll 1 red die. A Rebel within 2 spaces suffers  equal to the  results. Target « the healthy Rebel that has suffered the most  ».\n
+ [b]Move 8[/b] {2}\n
+ [b]Move 2[/b] {2}\n
+• [b]General’s Orders:[/b] The two other highest-cost Imperial figures [b]move 2[/b] toward the Rebels and become Focused."
+ACTION_GENERAL_WEISS_4," [b]Move 3[/b] to [b]attack[/b] « {0} ».\n
+ Roll 1 yellow die. A Rebel within 3 spaces suffers  equal to the  results and  equal to the  results. Target « the hero who has suffered the least strain ».\n
+ [b]Move 8[/b] {2}\n
+ [b]Move 2[/b] {2}\n
+• [b]General’s Orders:[/b] The two other highest-cost Imperial figures [b]move 2[/b] toward the Rebels and become Focused."
+BONUS_GENERAL_WEISS_1,"Your attack pool consists of 2 blue, 1 green, and 1 red dice."
+BONUS_GENERAL_WEISS_2,"Your attack pool consists of 1 blue, 2 green, and 1 red dice."
+BONUS_GENERAL_WEISS_3,"Your attack pool consists of 1 blue, 1 green, and 2 red dice."
+BONUS_GENERAL_WEISS_4,"Your attack pool consists of 1 blue, 1 green, 1 red, and 1 yellow dice."
+BONUS_GENERAL_WEISS_5,"Your attack pool consists of 2 blue, 1 green, and 1 yellow dice."
+BONUS_GENERAL_WEISS_6,"Your attack pool consists of 1 blue, 2 green, and 1 yellow dice."
+BONUS_GENERAL_WEISS_7,"Your attack pool consists of 1 blue, 1 green, and 2 yellow dice."
+BONUS_GENERAL_WEISS_8,"Your attack pool consists of 2 blue, 1 red, and 1 yellow dice."
+BONUS_GENERAL_WEISS_9,"Your attack pool consists of 1 blue, 2 red, and 1 yellow dice."
+BONUS_GENERAL_WEISS_10,"Your attack pool consists of 1 blue, 1 red, and 2 yellow dice."
+BONUS_GENERAL_WEISS_11,"Your attack pool consists of 2 green, 1 red, and 1 yellow dice."
+BONUS_GENERAL_WEISS_12,"Your attack pool consists of 1 green, 2 red, and 1 yellow dice."
+BONUS_GENERAL_WEISS_13,"Your attack pool consists of 1 green, 1 red, and 2 yellow dice."
+BONUS_GENERAL_WEISS_1B,"Your attack pool consists of 1 blue, 1 green, and 1 red dice."
+BONUS_GENERAL_WEISS_2B,"Your attack pool consists of 1 blue, 1 green, and 1 yellow dice."
+BONUS_GENERAL_WEISS_3B,"Your attack pool consists of 1 blue, 1 red, and 1 yellow dice."
+BONUS_GENERAL_WEISS_4B,"Your attack pool consists of 1 green, 1 red, and 1 yellow dice."
+SURGE_GENERAL_WEISS_1,": Blast 3\n: Pierce 2"
+SURGE_GENERAL_WEISS_2,": Pierce 2\n: Blast 3"
+
+ROYAL_GUARD_CHAMPION,"Royal Guard Champion"
+ROYAL_GUARD_CHAMPION_SECONDARY,"toward « the closest non-ready hero »."
+ROYAL_GUARD_CHAMPION_INSTRUCTIONS,"Ignore the [b]Brutality[/b] and [b]Executor[/b] abilities on this group’s card."
+ACTION_ROYAL_GUARD_CHAMPION," [b]Move 5[/b] to [b]attack[/b] the closest « Rebel within 3 spaces of another Rebel ».\n
+ [b]Move 3[/b] to [b]attack[/b] a different « Rebel », even if this figure has already performed an  instruction.\n
+ [b]Move 2[/b] {2}\n
+ [b]Move 10[/b] {2}"
+BONUS_ROYAL_GUARD_CHAMPION_1,"If a Rebel has attacked another Imperial figure this round, [b]move 2[/b] toward the closest Rebel and become Focused."
+BONUS_ROYAL_GUARD_CHAMPION_2,"Each other Imperial figure within 3 spaces recovers 2. If no figure recovered  this way, become Focused."
+SURGE_ROYAL_GUARD_CHAMPION_1,": +2\n: Pierce 2\n: Bleed"
+SURGE_ROYAL_GUARD_CHAMPION_2,": Bleed\n: +2\n: Pierce 2"
+
+IG_88,"IG-88"
+IG_88_SECONDARY,"to [b]reposition 2[/b]."
+IG_88_INSTRUCTIONS,"Ignore the [b]Arsenal[/b] ability on this group’s card.
+
+If this figure attacks outside of its activation, its attack pool consists of 1 blue and 1 green die."
+ACTION_IG_88_GREEN_RED,"• This figure’s attack pool consists of 1 green and 1 red die during this activation.\n
+ [b]Move 1[/b] to [b]attack[/b] a Rebel within 3 spaces. Target « {0} ».\n
+ [b]Move 1[/b] to [b]attack[/b] a Rebel within 3 spaces. Target « {0} ».\n
+ [b]Move 5[/b] to [b]attack[/b] a Rebel within 3 spaces. Target « {0} ».\n
+ [b]Move 1[/b] {2}\n
+ [b]Move 9[/b] {2}"
+ACTION_IG_88_GREEN_BLUE,"• This figure’s attack pool consists of 1 blue and 1 green die during this activation.\n
+ [b]Move 1[/b] to [b]attack[/b] a Rebel within 6 spaces. Target « {0} ».\n
+ [b]Move 1[/b] to [b]attack[/b] a Rebel within 5 spaces. Target « {0} ».\n
+ [b]Move 5[/b] to [b]attack[/b] a Rebel within 6 spaces. Target « {0} ».\n
+ [b]Move 1[/b] {2}\n
+ [b]Move 9[/b] {2}"
+ACTION_IG_88_GREEN_YELLOW,"• This figure’s attack pool consists of 1 green and 1 yellow die during this activation.\n
+ [b]Move 1[/b] to [b]attack[/b] a Rebel within 4 spaces. Target « {0} ».\n
+ [b]Move 1[/b] to [b]attack[/b] a Rebel within 3 spaces. Target « {0} ».\n
+ [b]Move 5[/b] to [b]attack[/b] a Rebel within 4 spaces. Target « {0} ».\n
+ [b]Move 1[/b] {2}\n
+ [b]Move 9[/b] {2}"
+ACTION_IG_88_BLUE_RED,"• This figure’s attack pool consists of 1 blue and 1 red die during this activation.\n
+ [b]Move 1[/b] to [b]attack[/b] a Rebel within 5 spaces. Target « {0} ».\n
+ [b]Move 1[/b] to [b]attack[/b] a Rebel within 4 spaces. Target « {0} ».\n
+ [b]Move 5[/b] to [b]attack[/b] a Rebel within 5 spaces. Target « {0} ».\n
+ [b]Move 1[/b] {2}\n
+ [b]Move 9[/b] {2}"
+ACTION_IG_88_BLUE_YELLOW,"• This figure’s attack pool consists of 1 blue and 1 yellow die during this activation.\n
+ [b]Move 1[/b] to [b]attack[/b] a Rebel within 5 spaces. Target « {0} ».\n
+ [b]Move 1[/b] to [b]attack[/b] a Rebel within 4 spaces. Target « {0} ».\n
+ [b]Move 5[/b] to [b]attack[/b] a Rebel within 5 spaces. Target « {0} ».\n
+ [b]Move 1[/b] {2}\n
+ [b]Move 9[/b] {2}"
+ACTION_IG_88_RED_YELLOW,"• This figure’s attack pool consists of 1 red and 1 yellow die during this activation.\n
+ [b]Move 1[/b] to [b]attack[/b] a Rebel within 3 spaces. Target « {0} ».\n
+ [b]Move 1[/b] to [b]attack[/b] a Rebel within 2 spaces. Target « {0} ».\n
+ [b]Move 5[/b] to [b]attack[/b] a Rebel within 3 spaces. Target « {0} ».\n
+ [b]Move 1[/b] {2}\n
+ [b]Move 9[/b] {2}"
+BONUS_IG_88_1,"[b]Blaze of Glory[/b]: At the end of this activation, this figure [b]moves 1[/b] to [b]attack[/b] « {0} ». Apply +2 Accuracy to the attack results. Then, if this figure performed this attack, it suffers 3."
+BONUS_IG_88_2,"[b]Focused on the Kill[/b]: Discard all Harmful conditions from this figure, or if it has no Harmful conditions, it becomes Focused instead. Then, it [b]moves 2[/b] toward the closest Rebel."
+SURGE_IG_88_1,": +2\n: Recover 3"
+SURGE_IG_88_2,": Recover 3\n: +2"
+HEAVY_STORMTROOPER_SINGULAR,"Heavy Stormtrooper"
+HEAVY_STORMTROOPER_PLURAL,"Heavy Stormtroopers"
+HEAVY_STORMTROOPER_SECONDARY,"to [b]reposition 4[/b]."
+HEAVY_STORMTROOPER_INSTRUCTIONS,"No special instructions."
+HEAVY_STORMTROOPER_INSTRUCTIONS_ELITE,"No special instructions."
+ACTION_HEAVY_STORMTROOPER," [b]Move 2[/b] to [b]attack[/b] « the Rebel adjacent to the most other Rebels ».\n
+ [b]Move 2[/b] {2}\n
+ [b]Move 4[/b] {2}"
+ACTION_HEAVY_STORMTROOPER_AGGRESSIVE," [b]Move 3[/b] to [b]attack[/b] « the Rebel adjacent to the most other Rebels ».\n
+ [b]Move 2[/b] {2}\n
+ [b]Move 4[/b] {2}"
+ACTION_ELITE_HEAVY_STORMTROOPER," [b]Move 2[/b] to [b]attack[/b] « the Rebel adjacent to the most other Rebels ».\n
+ [b]Move 2[/b] {2}\n
+ [b]Move 4[/b] {2}"
+ACTION_ELITE_HEAVY_STORMTROOPER_AGGRESSIVE," [b]Move 3[/b] to [b]attack[/b] « the Rebel adjacent to the most other Rebels ».\n
+ [b]Move 2[/b] {2}\n
+ [b]Move 4[/b] {2}"
+BONUS_HEAVY_STORMTROOPER_1,"Gain +1 and +2 Accuracy."
+BONUS_HEAVY_STORMTROOPER_2,"[b]Burst Fire:[/b] After each attack, each Rebel within 2 spaces of the target space suffers 1."
+SURGE_HEAVY_STORMTROOPER_1,": Blast 1\n: +1"
+SURGE_HEAVY_STORMTROOPER_2,": +1\n: Blast 1"
+SURGE_HEAVY_STORMTROOPER_ELITE_1,": Blast 2\n: +2"
+SURGE_HEAVY_STORMTROOPER_ELITE_2,": +2\n: Blast 2"
+
+TUSKEN_RAIDER_SINGULAR,"Tusken Raider"
+TUSKEN_RAIDER_PLURAL,"Tusken Raiders"
+TUSKEN_RAIDER_SECONDARY,"to [b]reposition 2[/b]."
+TUSKEN_RAIDER_INSTRUCTIONS,"Ignore the [b]Tusken Cycler[/b] ability and Habitat keyword on this group's card."
+TUSKEN_RAIDER_INSTRUCTIONS_ELITE,"Ignore the [b]Tusken Cycler[/b] ability and Habitat keyword on this group's card."
+ACTION_TUSKEN_RAIDER," [b]Move 4[/b] to engage as many Rebels as possible (minimum 1). Then [b]attack[/b] 
+« {0} ».\n
+ [b]Tusken Cycler:[/b] [b]Move 3[/b] to perform a  [b]attack[/b] using 1 blue and 1 red die. Target « {0} ». Do not use  abilities during this attack.\n
+ [b]Move 3[/b] {2}\n
+ [b]Move 5[/b] {2}"
+ACTION_TUSKEN_RAIDER_AGGRESSIVE," [b]Move 4[/b] to engage as many Rebels as possible (minimum 1). Then [b]attack[/b] 
+« {0} ».\n
+ [b]Tusken Cycler:[/b] [b]Move 4[/b] to perform a  [b]attack[/b] using 1 blue and 1 red die. Target « {0} ». Do not use  abilities during this attack.\n
+ [b]Move 2[/b] {2}\n
+ [b]Move 6[/b] {2}"
+BONUS_TUSKEN_RAIDER_1,"When the first figure in this group declares an attack, add 1 blue die to the attack pool."
+BONUS_TUSKEN_RAIDER_2,"[b]War Cry:[/b] After this group’s activation, each Rebel within 3 spaces of a Tusken Raider tests . Each Rebel that fails suffers 1."
+BONUS_REGULAR_TUSKEN_RAIDER_1,"At the start of this group's activation, each Tusken Raider recovers 1."
+BONUS_ELITE_TUSKEN_RAIDER_1,"At the start of this group's activation, each Tusken Raider recovers 2."
+SURGE_TUSKEN_RAIDER_1,": Cleave 1\n: Weaken"
+SURGE_TUSKEN_RAIDER_2,": Weaken\n: Cleave 1"
+
+KAYN_SOMOS,"Kayn Somos"
+KAYN_SOMOS_SECONDARY,"to [b]reposition 3[/b]."
+KAYN_SOMOS_INSTRUCTIONS,"Ignore the [b]Firing Squad[/b] and [b]Squad Command[/b] abilities on this group’s card."
+ACTION_KAYN_SOMOS,"• [b]Squad Command:[/b] The closest other Imperial figure that isn’t Focused becomes Focused.\n
+ [b]Firing Squad:[/b] The closest other Imperial figure that can perform an attack [b]attacks[/b] « the Rebel closest to that figure ». If more than 1 Imperial figure has line of sight to the target, add 1 blue die to the attack pool.\n
+ [b]Move 4[/b] to [b]attack[/b] « {0} ».\n
+ [b]Move 2[/b] {2}\n
+ [b]Move 6[/b] {2}"
+BONUS_KAYN_SOMOS_1,"[b]Inspire the Troops:[/b] At the start of this activation, each Imperial figure within 3 spaces of this figure discards 1 [i]Harmful[/i] condition. Each of those figures that did not discard a condition recovers 1."
+BONUS_KAYN_SOMOS_2,"[b]Support the Commander:[/b] At the start of this activation, this figure recovers 1 for each Imperial figure within 3 spaces of it."
+SURGE_KAYN_SOMOS,": +1\n: Pierce 1"
+
+BOBA_FETT,"Boba Fett"
+BOBA_FETT_SECONDARY,"toward « the closest ready Rebel »."
+BOBA_FETT_INSTRUCTIONS,"Ignore the [b]Battle Discipline[/b] ability on this group’s card."
+ACTION_BOBA_FETT,"• [b]Battle Discipline:[/b] If this figure has suffered 2 or more , it recovers 2. Otherwise, it gains +2 and +2 Accuracy.\n
+ [b]Move 6[/b] to [b]attack[/b] « {0} ».\n
+ [b]Move 2[/b] to [b]engage[/b] as many Rebels as possible (minimum 1).\n
+ [b]Move 2[/b] {2}\n
+ [b]Move 10[/b] {2}"
+BONUS_BOBA_FETT_1,"[b]Rocket Launcher:[/b] At the end of this activation, roll 1 red die. A Rebel within 5 spaces suffers  equal to the  results. Target « {0} »."
+BONUS_BOBA_FETT_2,"[b]Whipcord:[/b] At the end of this activation, a Rebel within 3 spaces becomes Stunned. Target « {0} »."
+BONUS_BOBA_FETT_3,"[b]Flamethrower:[/b] At the end of this activation, each Rebel within 3 spaces suffers 1."
+SURGE_BOBA_FETT_1,": Weaken\n: Pierce 1"
+SURGE_BOBA_FETT_2,": Pierce 1\n: Weaken"
+SENTRY_DROIDS_SINGULAR,"Sentry Droid"
+SENTRY_DROIDS_PLURAL,"Sentry Droids"
+SENTRY_DROIDS_SECONDARY,"to [b]reposition 4[/b]."
+SENTRY_DROIDS_INSTRUCTIONS,"Ignore the [b]Multi-Fire[/b], [b]Charged Shot[/b], and [b]Targeting Computer[/b] abilities on this group’s card."
+SENTRY_DROIDS_INSTRUCTIONS_ELITE,"Ignore the [b]Multi-Fire[/b], [b]Charged Shot[/b], and [b]Targeting Computer[/b] abilities on this group’s card."
+ACTION_SENTRY_DROIDS_MULTI_FIRE,"• [b]Targeting Computer:[/b] Gain +1 and +2 Accuracy.\n
+ [b]Move 2[/b] to [b]attack[/b] « {0} ».\n
+• [b]Multi-Fire:[/b] [b]Move 1[/b] to [b]attack[/b] « the closest Rebel » that this figure has not attacked this activation. Apply -2 to this attack's results.\n
+ [b]Move 2[/b] {2}\n
+ [b]Move 6[/b] {2}\n
+• If this figure has not attacked more than once, it gains 1."
+ACTION_SENTRY_DROIDS_CHARGED_SHOT,"• [b]Charged Shot:[/b] Gain +1 and +4 Accuracy. Figures do not block this figure's line of sight.\n
+ [b]Move 2[/b] to [b]attack[/b] « {0} ».\n
+ [b]Move 3[/b] {2}\n
+ [b]Move 5[/b] {2}\n
+• Gain 1."
+BONUS_SENTRY_DROIDS_1,"[b]Supercharged:[/b] At the start of this figure's activation, this figure gains 1."
+BONUS_SENTRY_DROIDS_2,"[b]Survival Subroutine:[/b] At the end of this figure's activation, this figure gains 1."
+BONUS_SENTRY_DROIDS_3,"[b]Sentry:[/b] At the end of this figure's activation, the other Imperial figure within 3 spaces with the least Health remaining gains 1."
+SURGE_SENTRY_DROIDS_1,": +1 Accuracy\n: Pierce 2\n: +1"
+SURGE_SENTRY_DROIDS_ELITE_1,": +2 Accuracy\n: Pierce 2\n: +1"
+
+RIOT_TROOPERS_SINGULAR,"Riot Trooper"
+RIOT_TROOPERS_PLURAL,"Riot Troopers"
+RIOT_TROOPERS_SECONDARY,"to [b]reposition 2[/b]."
+RIOT_TROOPERS_INSTRUCTIONS,"Ignore the [b]Crowd Control[/b] ability on this group’s card."
+RIOT_TROOPERS_INSTRUCTIONS_ELITE,"Ignore the [b]Crowd Control[/b] and [b]Professional[/b] abilities on this group’s card."
+ACTION_RIOT_TROOPERS," [b]Move 3[/b] to [b]attack[/b] « {0} ». After this attack, if the target suffered any , it may test . If it does not pass, it suffers 1.\n
+ [b]Move 2[/b] {2}\n
+ [b]Move 6[/b] {2}\n
+• If this figure did not attack, it gains 2."
+ACTION_RIOT_TROOPERS_AGGRESSIVE," [b]Move 4[/b] to [b]attack[/b] « {0} ». After this attack, if the target suffered , it may test . If it does not pass, it suffers 1.\n
+ [b]Move 2[/b] {2}\n
+ [b]Move 7[/b] {2}\n
+• If this figure did not attack, it gains 2."
+ACTION_RIOT_TROOPERS_ELITE,"• [b]Professional:[/b] Gain +1.\n
+ [b]Move 3[/b] to [b]attack[/b] « {0} ». After this attack, if the target suffered , it also suffers 1.\n
+ [b]Move 2[/b] {2}\n
+ [b]Move 6[/b] {2}\n
+• If this figure did not attack, it gains 2."
+ACTION_RIOT_TROOPERS_ELITE_AGGRESSIVE,"• [b]Professional:[/b] Gain +1.\n
+ [b]Move 4[/b] to [b]attack[/b] « {0} ». After this attack, if the target suffered , it also suffers 1.\n
+ [b]Move 2[/b] {2}\n
+ [b]Move 7[/b] {2}\n
+• If this figure did not attack, it gains 2."
+BONUS_RIOT_TROOPERS_1,"Gain Reach."
+BONUS_RIOT_TROOPERS_2,"[b]Defender:[/b] At the end of this figure's activation, [b]move 2[/b] to [b]engage[/b] as many non-Guardian Imperial figures as possible (minimum 1). Then each adjacent non-Guardian Imperial figure without a  gains 1."
+BONUS_RIOT_TROOPERS_3,"[b]Clear the Area:[/b] After this figure attacks, if the target suffered any , push the target 1 space away from this figure."
+BONUS_RIOT_TROOPERS_ELITE_1,"While attacking a Weakened figure, the attack gains Stun."
+SURGE_RIOT_TROOPERS_1,": +1\n: +1"
+SURGE_RIOT_TROOPERS_ELITE_1,": +2\n: +1"
+
+AT_DP_SINGULAR,"AT-DP"
+AT_DP_PLURAL,"AT-DPs"
+AT_DP_SECONDARY,"toward « the closest Rebel »."
+AT_DP_INSTRUCTIONS,"Ignore the [b]Charge Generators[/b] ability on this group’s card."
+ACTION_AT_DP,"• [b]Charge Generators:[/b] If this figure has suffered less than 9, it gains +2.\n
+ [b]Move 1[/b] to [b]attack[/b] « {0} ».\n
+ [b]Move 1[/b] to [b]attack[/b] « {0} ».\n
+ [b]Move 3[/b] to [b]attack[/b] « {0} ».\n
+ [b]Move 6[/b] {2}\n
+ [b]Move 2[/b] {2}"
+BONUS_AT_DP_1,"[b]Stomp:[/b] When this figure ends its movement in 1 or more spaces with Rebels, roll 1 red die. Each of those Rebels suffers  equal to the  results."
+BONUS_AT_DP_2,"Gain Blast 1."
+BONUS_AT_DP_3,"[b]Charging Up:[/b] After this figure resolves an instruction with 1 or more , it gains 1 for each ."
+SURGE_AT_DP_1,": Pierce 2\n: +1"
+
+PALPATINE,"Emperor Palpatine"
+PALPATINE_SECONDARY,"to [b]reposition 3[/b]."
+PALPATINE_INSTRUCTIONS,"Ignore the [b]Emperor[/b], [b]Tempt[/b], and [b]Force Lightning[/b] abilities on this group’s card."
+ACTION_PALPATINE,"• [b]Emperor:[/b] The other Imperial figure with the highest figure cost that can attack [b]attacks[/b] « {0} ».\n
+ If this figure is at least 5 spaces away from the closest Rebel, it [b]moves 3[/b] toward « the Rebel adjacent to the most other Rebels ».\n
+ [b]Force Lightning:[/b] The « Rebel that has suffered the most  » within 4 spaces suffers 2 and becomes Weakened. If there is another Rebel within 2 spaces of the target, repeat this instruction targeting that Rebel. Limit once per Rebel.\n
+ Move 2 to [b]attack[/b] « the healthy hero that has suffered the most  ».\n
+ [b]Move 3[/b] {2}"
+BONUS_PALPATINE_1,"[b]Advance:[/b] At the start of this activation, the Imperial figure with the highest figure cost [b]moves 2[/b] toward « the closest non-ready hero »."
+BONUS_PALPATINE_2,"[b]Tempt:[/b] At the start of this activation, the healthy « hero with the fewest  dice » tests . If he or she fails, that hero [b]attacks[/b] another Rebel of his or her choice. After this attack, the attacker gains 2."
+BONUS_PALPATINE_3,"[b]Tempt:[/b] At the start of this activation, the other Imperial figure with the highest figure cost gains 1. If that figure has the  attack type, it gains 2 instead."
+SURGE_PALPATINE_1,": +1"
+
+CLAWDITE_SINGULAR,"Clawdite Shapeshifter"
+CLAWDITE_PLURAL,"Clawdite Shapeshifters"
+CLAWDITE_SECONDARY,"to [b]reposition 4[/b]."
+CLAWDITE_INSTRUCTIONS,"Ignore the [b]Shape[/b], [b]Shift[/b], [b]Assassin's Blade[/b], [b]Fleet[/b], and [b]Conspire[/b] abilities on this group’s card and its Form cards. This figure uses the surge abilities in its  priority list, regardless of its current form card.\n
+When this figure gains a Form card, return any other Form cards this figure has to the supply.\n
+While this figure has a figure from another group on its Deployment card, this figure activates as if it was a figure in that group, using that group's attack dice, surge priority and instructions. When the figure on this group's Deployment card is redeployed or its group is defeated, remove that figure from this figure's Deployment card."
+ACTION_CLAWDITE," [b]Move 3[/b] to [b]attack[/b] « {0} ».\n
+ [b]Move 2[/b] {2}\n
+ [b]Move 6[/b] {2}\n
+• [b]Shapeshift:[/b] If there is not a figure on this figure's Deployment card, take the defeated figure with the highest figure cost from another Imperial group still on the map and place it on this figure's Deployment card. When that figure's group activates, activate this figure as if it was a figure in that group, using that group's attack dice, surge priority and instructions."
+BONUS_CLAWDITE_1,"[b]Scout:[/b] At the start of this activation, gain the Scout Form card.
+[b]Ambush:[/b] While attacking a target that is 4 or more spaces away or does not have line of sight to this figure, gain Pierce 2."
+BONUS_CLAWDITE_2,"[b]Streetrat:[/b] At the start of this activation, gain the Streetrat Form card.
+[b]Assassin's Blade:[/b] After this figure attacks, it [b]moves 2[/b] to [b]engage[/b] the « closest Rebel ». If it engages, roll 1 red die. That Rebel suffers  equal to the\n results."
+BONUS_CLAWDITE_3,"[b]Senator:[/b] At the start of this activation, gain the Senator Form card.
+[b]Conspire:[/b] After this figure performs its first  instruction, roll its attack pool plus 1 yellow die. Each Imperial figure within X spaces gains 1, where X is the number of  results."
+SURGE_CLAWDITE_1,": Pierce 2\n: +1, +2 Ac.\n: Gain 1\n: Recover 2"
+SURGE_CLAWDITE_2,": Pierce 2\n: +1, +2 Ac.\n: Recover 2\n: Gain 1"
+SURGE_CLAWDITE_3,": Recover 2\n: Pierce 2\n: +1, +2 Ac.\n: Gain 1"
+SURGE_CLAWDITE_4,": Recover 2\n: Gain 1\n: Pierce 2\n: +1, +2 Ac."
+
+MAUL,"Maul"
+MAUL_SECONDARY,"toward « the closest non-ready hero »."
+MAUL_INSTRUCTIONS,"Ignore the [b]Dual-Bladed Fury[/b] and [b]Stalk Prey[/b] abilities on this group’s card."
+ACTION_MAUL," [b]Dual-Bladed Fury:[/b] [b]Move 4[/b] to attack « {0} ». Before this attack, if more than 1 Rebel is within 2 spaces and in line of sight, this figure gains Reach and Cleave 2. Otherwise, add 1 green die to the attack pool.\n
+ [b]Move 2[/b] {2}\n
+ [b]Move 8[/b] {2}"
+BONUS_MAUL_1,"[b]Consumed with Vengeance:[/b] At the start of this activation, if this figure is adjacent to a Rebel, this figure gains 1. Otherwise, [b]move 2[/b] toward « the closest non-ready hero »."
+BONUS_MAUL_2,"[b]Deceitful:[/b] The next Rebel to activate this round cannot attack this figure."
+BONUS_MAUL_3,"[b]Whirlwind:[/b] When this figure enters a space adjacent to a Rebel, that Rebel suffers 1. Limit once per Rebel."
+SURGE_MAUL_1,": Pierce 3\n: Gain 1"
+HIRED_GUN_SINGULAR,"Hired Gun"
+HIRED_GUN_PLURAL,"Hired Guns"
+HIRED_GUN_SECONDARY,"to [b]reposition 3[/b]."
+HIRED_GUN_INSTRUCTIONS,"Ignore the [b]Parting Shot[/b] ability on this group's card."
+HIRED_GUN_INSTRUCTIONS_ELITE,"Ignore the [b]Parting Shot[/b] ability on this group's card."
+ACTION_HIRED_GUN," [b]Move 4[/b] to [b]attack[/b] « {0} ».\n
+• [b]Parting Shot:[/b] [b]Attack[/b] « {0} ». If the target suffers 2 or more , this figure is defeated. Limit once per group.\n
+ [b]Move 3[/b] {2}\n
+ [b]Move 7[/b] {2}"
+ACTION_HIRED_GUN_AGGRESSIVE," [b]Move 5[/b] to [b]attack[/b] « {0} ».\n
+• [b]Parting Shot:[/b] [b]Attack[/b] « {0} ». If the target suffers 2 or more , this figure is defeated. Limit once per group.\n
+ [b]Move 2[/b] {2}\n
+ [b]Move 8[/b] {2}"
+BONUS_HIRED_GUN_1,"When the first figure in this group attacks, add 1 blue die to the attack pool."
+BONUS_HIRED_GUN_2,"[b]Reinforce:[/b] After this group’s activation, reinforce 1 defeated figure from this group as close as possible to another figure in this group."
+SURGE_HIRED_GUN_1,": +1 Accuracy\n: +1\n: Pierce 1"
+SURGE_HIRED_GUN_ELITE_1,": +1\n: +1"
+
+BANTHA_RIDER_SINGULAR,"Bantha Rider"
+BANTHA_RIDER_PLURAL,"Bantha Riders"
+BANTHA_RIDER_SECONDARY,"toward « the closest Rebel »."
+BANTHA_RIDER_INSTRUCTIONS,"Ignore the [b]Trample[/b] ability and Habitat keyword on this group's card.\n
+Once the [b]Stampede[/b] ability is used, this figure cannot move again during the same activation."
+BANTHA_RIDER_INSTRUCTIONS_ELITE,"Ignore the [b]Trample[/b] ability and Habitat keyword on this group's card.\n
+Once the [b]Stampede[/b] ability is used, this figure cannot move again during the same activation."
+ACTION_BANTHA_RIDER,"• When moving, this figure ends its movement on as many Rebels as possible.\n
+ [b]Trample:[/b] [b]Move 5[/b] to [b]engage[/b] as many Rebels as possible (minimum 1), then roll 1 red die. Each adjacent Rebel suffers  equal to the  results.\n
+ If this figure did not perform [b]Trample[/b], it [b]moves 5[/b] to [b]attack[/b] « {0} ».\n
+ [b]Move 2[/b] to [b]attack[/b] « {0} ».\n
+ [b]Move 10[/b] {2}\n
+ [b]Move 5[/b] {2}"
+BONUS_BANTHA_RIDER_1,"The first time this figure attacks or uses [b]Trample[/b], add 1 blue die to its dice pool."
+BONUS_BANTHA_RIDER_2,"[b]Crush:[/b] Each Rebel that suffers  during this activation also becomes Weakened."
+SURGE_BANTHA_RIDER_1,": +2 Accuracy\n: Pierce 2"
+SNOWTROOPER_SINGULAR,"Snowtrooper"
+SNOWTROOPER_PLURAL,"Snowtroopers"
+SNOWTROOPER_SECONDARY,"to [b]reposition 3[/b]."
+SNOWTROOPER_INSTRUCTIONS,"Ignore the [b]Environmental Recovery Gear[/b] ability on this group's card."
+SNOWTROOPER_INSTRUCTIONS_ELITE,"Ignore the [b]Environmental Recovery Gear[/b] ability on this group's card."
+ACTION_SNOWTROOPER,"• [b]Environmental Recovery Gear:[/b] This figure recovers 1.\n
+ [b]Move 3[/b] to [b]attack[/b] « {0} ».\n
+ [b]Move 2[/b] {2}\n
+ [b]Move 6[/b] {2}"
+ACTION_SNOWTROOPER_AGGRESSIVE,"• [b]Environmental Recovery Gear:[/b] This figure recovers 1.\n
+ [b]Move 4[/b] to [b]attack[/b] « {0} ».\n
+ [b]Move 2[/b] {2}\n
+ [b]Move 6[/b] {2}"
+ACTION_SNOWTROOPER_ELITE,"• [b]Environmental Recovery Gear:[/b] This figure recovers 2.\n
+ [b]Move 3[/b] to [b]attack[/b] « {0} ».\n
+ [b]Move 2[/b] {2}\n
+ [b]Move 6[/b] {2}"
+ACTION_SNOWTROOPER_ELITE_AGGRESSIVE,"• [b]Environmental Recovery Gear:[/b] This figure recovers 2.\n
+ [b]Move 4[/b] to [b]attack[/b] « {0} ».\n
+ [b]Move 2[/b] {2}\n
+ [b]Move 6[/b] {2}"
+BONUS_SNOWTROOPER_1,"Gain +1."
+BONUS_SNOWTROOPER_2,"When the first figure in this group attacks, add 1 green die to the attack pool."
+BONUS_SNOWTROOPER_3,"[b]Medical Supplies:[/b] Before this group's activation, each Imperial figure within 2 spaces of one or more figures in this group recovers 1."
+SURGE_SNOWTROOPER_1,": +2 Accuracy\n: Pierce 1\n: Weaken"
+SURGE_SNOWTROOPER_2,": +2 Accuracy\n: Weaken\n: Pierce 1"
+SURGE_SNOWTROOPER_ELITE_1,": +3 Accuracy\n: Pierce 2\n: Focus, Weaken"
+SURGE_SNOWTROOPER_ELITE_2,": +3 Accuracy\n: Focus, Weaken\n: Pierce 2"
+
+HK_ASSASSIN_DROID_SINGULAR,"HK Assassin Droid"
+HK_ASSASSIN_DROID_PLURAL,"HK Assassin Droids"
+HK_ASSASSIN_DROID_SECONDARY,"to [b]reposition 5[/b]."
+HK_ASSASSIN_DROID_INSTRUCTIONS,"Ignore the [b]Versatile Weaponry[/b] and [b]Targeting Computer[/b] abilities on this group's card."
+HK_ASSASSIN_DROID_INSTRUCTIONS_ELITE,"Ignore the [b]Versatile Weaponry[/b] and [b]Targeting Computer[/b] abilities on this group's card."
+ACTION_HK_ASSASSIN_DROID,"• [b]Versatile Weaponry:[/b] While attacking, the defender must reroll each defense die showing a  result or 3 results.\n
+ [b]Attack[/b] « {0} ». Apply +1 and +2 Accuracy to the attack results.\n
+ [b]Move 3[/b] to [b]attack[/b] « {0} ».\n
+ [b]Move 3[/b] {2}\n
+ [b]Move 5[/b] {2}"
+ACTION_HK_ASSASSIN_DROID_AGGRESSIVE,"• [b]Versatile Weaponry:[/b] While attacking, the defender must reroll each defense die showing a  result or 3 results.\n
+ [b]Attack[/b] « {0} ». Apply +1 and +2 Accuracy to the attack results.\n
+ [b]Move 4[/b] to [b]attack[/b] « {0} ».\n
+ [b]Move 2[/b] {2}\n
+ [b]Move 6[/b] {2}"
+BONUS_HK_ASSASSIN_DROID_1,"[b]Acquire Target:[/b] At the start of this group's activation, each of its figures that does not have line of sight to a Rebel [b]moves 2[/b] toward the « closest Rebel », gaining line of sight if possible."
+BONUS_HK_ASSASSIN_DROID_2,"[b]Overwatch:[/b] At the start of this group's activation, « the closest Rebel » in line of sight of a figure in this group may test . If it does not pass, it suffers 1 and becomes Weakened."
+SURGE_HK_ASSASSIN_DROID_1,": +1\n: Pierce 1\n: Weaken"
+SURGE_HK_ASSASSIN_DROID_2,": Weaken\n: +1\n: Pierce 1"
+SURGE_HK_ASSASSIN_DROID_ELITE_1,": +1\n: +1\n: Pierce 1\n: Weaken"
+SURGE_HK_ASSASSIN_DROID_ELITE_2,": Weaken\n: +1\n: +1\n: Pierce 1"
+
+WAMPA_SINGULAR,"Wampa"
+WAMPA_PLURAL,"Wampas"
+WAMPA_SECONDARY,"toward « the closest Rebel »."
+WAMPA_INSTRUCTIONS,"Ignore the [b]Hunger[/b] ability and Habitat keyword on this group's card."
+WAMPA_INSTRUCTIONS_ELITE,"Ignore the [b]Hunger[/b] ability and Habitat keyword on this group's card."
+ACTION_WAMPA," [b]Move 4[/b] to engage as many Rebels as possible (minimum 1). Then [b]attack[/b] 
+« {0} ».\n
+ [b]Move 2[/b] {2}\n
+ [b]Move 6[/b] {2}\n
+• [b]Hunger:[/b] If this figure did not attack, it suffers 2 and becomes Focused."
+ACTION_WAMPA_AGGRESSIVE," [b]Move 5[/b] to engage as many Rebels as possible (minimum 1). Then [b]attack[/b] 
+« {0} ».\n
+ [b]Move 2[/b] {2}\n
+ [b]Move 6[/b] {2}\n
+• [b]Hunger:[/b] If this figure did not attack, it suffers 2 and becomes Focused."
+BONUS_WAMPA_1,"[b]Chase Down:[/b] At the start of this activation, [b]move 3[/b] toward « the closest Rebel »."
+BONUS_WAMPA_2,"[b]Hunger Pangs:[/b] Gain +1. After attacking, this figure recovers 2."
+BONUS_WAMPA_3,"[b]Howl:[/b] At the start of this activation, each Rebel within 5 spaces may test . Each Rebel that does not pass\nsuffers 1."
+SURGE_WAMPA_1,": Stun\n: Cleave 2"
+SURGE_WAMPA_2,": Cleave 2\n: Stun"
+SURGE_WAMPA_ELITE_1,": Bleed, Stun\n: Cleave 3"
+SURGE_WAMPA_ELITE_2,": Cleave 3\n: Bleed, Stun"
+
+SC2-M_REPULSOR_TANK_SINGULAR,"SC2-M Repulsor Tank"
+SC2-M_REPULSOR_TANK_PLURAL,"SC2-M Repulsor Tanks"
+SC2-M_REPULSOR_TANK_SECONDARY,"to [b]reposition 3[/b]."
+SC2-M_REPULSOR_TANK_INSTRUCTIONS,"Ignore the [b]Focus Fire[/b] and [b]Defensible[/b] abilities on this group's card."
+SC2-M_REPULSOR_TANK_INSTRUCTIONS_ELITE,"Ignore the [b]Focus Fire[/b] and [b]Defensible[/b] abilities on this group's card."
+ACTION_SC2-M_REPULSOR_TANK,"• [b]Defensible:[/b] Recover 3.\n
+ [b]Attack[/b] 2 different Rebels. Target « {0} ».\n
+ [b]Move 4[/b] to [b]attack[/b] « {0} ».\n
+ If this figure has suffered , it recovers 3.\n
+ [b]Move 8[/b] {2}\n
+ [b]Move 2[/b] {2}"
+BONUS_SC2-M_REPULSOR_TANK_1,"[b]Heavy Munitions:[/b] After this figure attacks, each Rebel other than the defender within 2 spaces of the target space suffers 2."
+BONUS_SC2-M_REPULSOR_TANK_2,"[b]Bombard:[/b] This figure's attacks do not require line of sight or Accuracy."
+BONUS_SC2-M_REPULSOR_TANK_3,"[b]Reroute Power:[/b] After this activation, if this figure has suffered any , it recovers 3. Otherwise it becomes Focused."
+SURGE_SC2-M_REPULSOR_TANK_1,": +2\n: Blast 1"
+SURGE_SC2-M_REPULSOR_TANK_2,": Blast 1\n: +2"
+
+GENERAL_SORIN,"General Sorin"
+GENERAL_SORIN_SECONDARY,"to [b]reposition 6[/b]."
+GENERAL_SORIN_INSTRUCTIONS,"Ignore the [b]Bombardment[/b] and [b]Advanced Firepower[/b] abilities on this group's card."
+ACTION_GENERAL_SORIN,"• [b]Bombardment:[/b] This figure's attacks do not require line of sight or Accuracy, and each gains Blast 1.\n
+ [b]Attack[/b] 2 different Rebels. Target « the healthy Rebel that is adjacent to the most other Rebels ».\n
+ [b]Move 2[/b] to [b]engage[/b] as many Imperial figures as possible (minimum 1).\n
+• [b]Advanced Firepower:[/b] Each adjacent Imperial figure becomes Focused.\n
+ [b]Move 4[/b] {2}\n
+ [b]Move 4[/b] {2}"
+BONUS_GENERAL_SORIN_1,"[b]Focus:[/b] At the start of this activation, this figure becomes Focused."
+BONUS_GENERAL_SORIN_2,"Gain Pierce 1."
+BONUS_GENERAL_SORIN_3,"[b]Mortar:[/b] At the start of this activation, each hero may test . If a hero is in an exterior space, it may test  instead. Each hero that does not pass becomes Weakened."
+SURGE_GENERAL_SORIN_1,": +1\n: Stun\n: Focus"
+SURGE_GENERAL_SORIN_2,": Stun\n: Focus\n: +1"
+SURGE_GENERAL_SORIN_3,": Focus\n: Stun\n: +1"
+
+
+
+DENGAR,"Dengar"
+DENGAR_SECONDARY,"to [b]reposition 3[/b]."
+DENGAR_INSTRUCTIONS,"Ignore the [b]Punishment[/b] ability on this group's card."
+ACTION_DENGAR," [b]Punishment:[/b] [b]Move 3[/b] to [b]attack[/b] « {0} ». After this attack, for each unspent , the defender must gain 1 [i]Harmful[/i] condition of its choice that it does not already have.\n
+ [b]Move 3[/b] {2}\n
+ [b]Move 5[/b] {2}"
+ACTION_DENGAR_AGGRESSIVE," [b]Punishment:[/b] [b]Move 4[/b] to [b]attack[/b] « {0} ». After this attack, for each unspent , the defender must gain 1 [i]Harmful[/i] condition of its choice that it does not already have.\n
+ [b]Move 3[/b] {2}\n
+ [b]Move 5[/b] {2}"
+BONUS_DENGAR_1,"[b]Set Sights:[/b] Gain +3 Accuracy. Figures do not block this figure's line of sight."
+BONUS_DENGAR_2,"[b]Lingering Pain:[/b] At the start of this activation, each Rebel with a [i]Harmful[/i] condition suffers 1. If no Rebels\nsuffered  from this effect, this figure becomes Focused."
+BONUS_DENGAR_3,"[b]Exploit Weakness:[/b] When this figure attacks, the defender must remove 1 die from its defense pool."
+SURGE_DENGAR_1,": +2"
+GRAND_INQUISITOR,"The Grand Inquisitor"
+GRAND_INQUISITOR_SECONDARY,"toward « the Rebel that is within 2 spaces of the most other Rebels »."
+GRAND_INQUISITOR_INSTRUCTIONS,"Ignore the [b]Lightsaber Throw[/b] ability on this group's card."
+ACTION_GRAND_INQUISITOR," [b]Move 5[/b] to [b]engage[/b] 2 or more Rebels, then [b]attack[/b] « {0} ».\n
+ [b]Move 5[/b] to [b]attack[/b] « {0} ».\n
+ [b]Move 3[/b] {2}\n
+ [b]Move 7[/b] {2}\n
+• [b]Lightsaber Throw:[/b]  Each Rebel within 3 spaces of this figure that has not been attacked this activation rolls 1 red die, then suffers  equal to the  results.\n"
+BONUS_GRAND_INQUISITOR_1,"[b]Aimed Throw:[/b] Add 1 yellow die to each roll for [b]Lightaber Throw[/b]."
+BONUS_GRAND_INQUISITOR_2,"[b]Wear Them Down:[/b] At the start of this activation, the 
+« healthy Rebel that has suffered the most  »
+suffers 1."
+SURGE_GRAND_INQUISITOR_1,": -1 \n: Pierce 3\n: Cleave 3\n: +1"
+SURGE_GRAND_INQUISITOR_2,": -1 \n: Cleave 3\n: Pierce 3\n: +1"
+
+GREEDO,"Greedo"
+GREEDO_SECONDARY,"to [b]reposition 4[/b]."
+GREEDO_INSTRUCTIONS,"Ignore the [b]Parting Shot[/b] ability on this group's card."
+ACTION_GREEDO,"• [b]Parting Shot:[/b] If this figure is defeated during [b]Slow on the Draw[/b], it finishes its attack before being defeated.\n
+ [b]Move 4[/b] to [b]attack[/b] « {0} ». Attack from 2 spaces away, if able.\n
+ [b]Move 3[/b] {2}\n
+ [b]Move 7[/b] {2}"
+ACTION_GREEDO_AGGRESSIVE,"• [b]Parting Shot:[/b] If this figure is defeated during [b]Slow on the Draw[/b], it finishes its attack before being defeated.\n
+ [b]Move 5[/b] to [b]attack[/b] « {0} ». Attack from 2 spaces away, if able.\n
+ [b]Move 2[/b] {2}\n
+ [b]Move 8[/b] {2}"
+BONUS_GREEDO_1,"[b]Stroke of Brilliance:[/b] If this figure is attacked during [b]Slow on the Draw[/b], add 1 black die to its defense pool. Otherwise, when this figure attacks, the defender must remove 1 die from its defense pool."
+SURGE_GREEDO_1,": +3 Accuracy\n: +2\n: Bleed"
+SURGE_GREEDO_2,": +3 Accuracy\n: Bleed\n: +2"
+
+BT-1,"BT-1"
+BT-1_SECONDARY,"to [b]reposition 4[/b]."
+BT-1_INSTRUCTIONS,"Ignore the [b]Missile Salvo[/b] ability on this group's card."
+ACTION_BT-1,"• [b]Missile Salvo:[/b] This figure's attacks do not require line of sight or Accuracy.\n
+ [b]Move 4[/b] to [b]attack[/b] « {0} » using a single red die.\n
+•  [b]Attack[/b] « the closest Rebel » within 5 spaces that has not already been attacked using a single yellow die.\n
+•  [b]Attack[/b] « the closest Rebel » within 5 spaces that has not already been attacked using a single blue die.\n
+ [b]Move 2[/b] {2}\n
+ [b]Move 6[/b] {2}"
+ACTION_BT-1_AGGRESSIVE," [b]Move 4[/b] to [b]attack[/b] « {0} ».\n
+ [b]Move 2[/b] {2}\n
+ [b]Move 6[/b] {2}"
+BONUS_BT-1_1,"Gain +1."
+BONUS_BT-1_2,"[b]Blast Radius:[/b] This figure's Blast ability affects each Rebel other than the defender within 2 spaces of the target space, instead of each adjacent Rebel."
+SURGE_BT-1_1,": Pierce 2\n: Blast 1\n: Recover 1"
+SURGE_BT-1_2,": Recover 1\n: Pierce 2\n: Blast 1"
+
+0-0-0,"0-0-0"
+0-0-0_SECONDARY,"toward the closest Rebel."
+0-0-0_INSTRUCTIONS,"Ignore the [b]Shocking Palm[/b] and [b]Invasive Procedure[/b] abilities on this group's card."
+ACTION_0-0-0," [b]Shocking Palm:[/b] [b]Move 4[/b] to [b]attack[/b] « {0} ». After this attack, if the defender suffered less than 2, it becomes Stunned.\n
+ [b]Move 3[/b] to [b]engage[/b] as many Rebels as possible (minimum 1).\n
+ [b]Move 3[/b] {2}\n
+ [b]Move 5[/b] {2}\n
+• [b]Invasive Procedure:[/b] An adjacent Rebel suffers 1, 1, and becomes Bleeding. Target « {0} ». If a Rebel suffers  this way, this figure becomes Focused.\n"
+BONUS_0-0-0_1,"Gain +1."
+BONUS_0-0-0_2,"[b]Closer Inspection:[/b] At the start of this activation, [b]move 2[/b] toward « the closest Rebel »."
+BONUS_0-0-0_3,"[b]Eerie Visage:[/b] After this activation, each Rebel with line of sight to this figure may test . Each Rebel that does not pass suffers 1."
+SURGE_0-0-0_1,": Pierce 2\n: Recover 2"
+SURGE_0-0-0_2,": Recover 2\n: Pierce 2"
+
+JAWA_SCAVENGER_SINGULAR,"Jawa Scavenger"
+JAWA_SCAVENGER_PLURAL,"Jawa Scavengers"
+JAWA_SCAVENGER_SECONDARY,"to [b]reposition 3[/b]."
+JAWA_SCAVENGER_INSTRUCTIONS,"Ignore the [b]Take Cover[/b] ability on this group's card."
+JAWA_SCAVENGER_INSTRUCTIONS_ELITE,"Ignore the [b]Haggle[/b] and [b]Take Cover[/b] abilities on this group's card."
+ACTION_JAWA_SCAVENGER," [b]Move 3[/b] to [b]attack[/b] « {0} ».\n
+ [b]Move 3[/b] {2}\n
+ [b]Move 5[/b] {2}\n
+• [b]Take Cover:[/b] If there are no Rebels within 2 spaces, recover 2."
+ACTION_JAWA_SCAVENGER_AGGRESSIVE," [b]Move 4[/b] to [b]attack[/b] « {0} ».\n
+ [b]Move 2[/b] {2}\n
+ [b]Move 6[/b] {2}\n
+• [b]Take Cover:[/b] If there are no Rebels within 2 spaces, recover 2."
+ACTION_JAWA_SCAVENGER_ELITE," [b]Move 3[/b] to [b]attack[/b] « {0} ».\n
+ [b]Move 3[/b] {2}\n
+• [b]Haggle:[/b] Each hero within 3 spaces may test 2. If no hero passes, they each suffer 1.\n
+ [b]Move 5[/b] {2}\n
+• [b]Take Cover:[/b] If there are no Rebels within 2 spaces, recover 2."
+ACTION_JAWA_SCAVENGER_ELITE_AGGRESSIVE," [b]Move 4[/b] to [b]attack[/b] « {0} ».\n
+ [b]Move 2[/b] {2}\n
+• [b]Haggle:[/b] Each hero within 3 spaces may test 2. If no hero passes, they each suffer 1.\n
+ [b]Move 6[/b] {2}\n
+• [b]Take Cover:[/b] If there are no Rebels within 2 spaces, recover 2."
+BONUS_JAWA_SCAVENGER_1,"Gain +1."
+BONUS_JAWA_SCAVENGER_2,"Gain +1."
+BONUS_JAWA_SCAVENGER_3,"[b]Disabling Shot:[/b] After this figure attacks a figure, if it did not miss, the defender tests . If it fails, it becomes Stunned."
+SURGE_JAWA_SCAVENGER_1,": +2 Accuracy\n: +2\n: Harass"
+SURGE_JAWA_SCAVENGER_2,": +2 Accuracy\n: Harass\n: +2"
+SURGE_JAWA_SCAVENGER_ELITE_1,": +2 Accuracy\n: +2\n: Pierce 2"
+JET_TROOPERS_SINGULAR,"Jet Trooper"
+JET_TROOPERS_PLURAL,"Jet Troopers"
+JET_TROOPERS_SECONDARY,"to [b]reposition 4[/b]."
+JET_TROOPERS_INSTRUCTIONS,"Ignore the [b]Agile[/b] and [b]Jets[/b] abilities on this group’s card."
+JET_TROOPERS_INSTRUCTIONS_ELITE,"Ignore the [b]Agile[/b] and [b]Fly-By[/b] abilities on this group’s card."
+ACTION_JET_TROOPERS,"• Figures do not block this figure's line of sight.\n
+ [b]Move 4[/b] to [b]attack[/b] « {0} ».\n
+ [b]Move 3[/b] {2}\n
+ [b]Move 5[/b] {2}"
+ACTION_JET_TROOPERS_ELITE,"• Figures do not block this figure's line of sight.\n
+ [b]Fly-By:[/b] [b]Move 4[/b] to [b]attack[/b] « {0} ». If this figure is within 2 spaces of the target, add 1 blue die to the attack pool.\n
+ [b]Move 3[/b] {2}\n
+ [b]Move 5[/b] {2}"
+BONUS_JET_TROOPERS_1,"[b]Jets:[/b] At the start of this group's activation, place each of its figures in a space as close as possible to « {0} »."
+BONUS_JET_TROOPERS_2,"[b]Agile:[/b] At the start of this figure's activation, if it has suffered , it recovers 2. Otherwise, this figure gains Pierce 2."
+BONUS_JET_TROOPERS_ELITE_1,"[b]Jetpack Backwash:[/b] When a figure in this group enters a Rebel's space, that Rebel suffers 1. Figures in this group move through spaces containing Rebel figures when possible."
+SURGE_JET_TROOPERS_1,": +2 Accuracy\n: +1"
+SURGE_JET_TROOPERS_ELITE_1,": +3 Accuracy\n: +2"
+
+CAPTAIN_TERRO,"Captain Terro"
+CAPTAIN_TERRO_SECONDARY,"to [b]reposition 2[/b]."
+CAPTAIN_TERRO_INSTRUCTIONS,"Ignore the [b]Flamethrower[/b] and [b]Mounted[/b] abilities on this group’s card."
+ACTION_CAPTAIN_TERRO,"• [b]Move 3[/b] toward « the closest non-Weakened Rebel ».\n
+ [b]Flamethrower:[/b] The « 2 closest Rebels » within 2 spaces of this figure each suffer 1 and 1, then may test . Each Rebel that does not pass becomes Weakened.\n
+ If this figure did not perform [b]Flamethrower[/b], [b]move 6[/b] to [b]attack[/b] « {0} ».\n
+ [b]Attack[/b] « the closest Weakened Rebel ».\n
+ [b]Move 2[/b] {2}\n
+ [b]Move 8[/b] {2}"
+ACTION_CAPTAIN_TERRO_AGGRESSIVE," [b]Move 3[/b] to [b]attack[/b] « {0} ».\n
+ [b]Move 8[/b] to [b]attack[/b] « {0} ».\n
+ [b]Flamethrower:[/b] The « 2 closest Rebels » within 2 spaces of this figure each suffer 1 and 1, then may test . Each Rebel that does not pass becomes Weakened.\n
+ [b]Move 5[/b] {2}\n
+ [b]Move 5[/b] {2}"
+BONUS_CAPTAIN_TERRO_1,"[b]Debilitating Burns:[/b] When a Rebel suffers  from [b]Flamethrower[/b], it becomes Stunned unless it discards 1 [i]Beneficial[/i] condition."
+BONUS_CAPTAIN_TERRO_2,"[b]Ram:[/b] The first time this figure enters a space adjacent to a Rebel, each Rebel adjacent to this figure suffers 1."
+BONUS_CAPTAIN_TERRO_3,"[b]Mounted Command:[/b] At the start of this activation, each figure in the Imperial group with the most non-Focused figures becomes Focused."
+SURGE_CAPTAIN_TERRO_1,": +2\n: Pierce 2"
+
+DEWBACK_RIDER_SINGULAR,"Dewback Rider"
+DEWBACK_RIDER_PLURAL,"Dewback Riders"
+DEWBACK_RIDER_SECONDARY,"to [b]reposition 2[/b]."
+DEWBACK_RIDER_INSTRUCTIONS,"Ignore the [b]Shock Lance[/b] and [b]Mounted[/b] abilities on this group’s card."
+ACTION_DEWBACK_RIDER,"• [b]Move 3[/b] toward « {0} ».\n
+ [b]Shock Lance:[/b] The closest « non-Weakened Rebel » within 2 spaces suffers 1 and becomes Weakened.\n
+ If this figure did not perform [b]Shock Lance[/b], [b]move 6[/b] to [b]attack[/b] « {0} ».\n
+ [b]Attack[/b] « {0} ».\n
+ [b]Move 2[/b] {2}\n
+ [b]Move 8[/b] {2}"
+ACTION_DEWBACK_RIDER_AGGRESSIVE," [b]Move 3[/b] to [b]attack[/b] « {0} ».\n
+ [b]Move 8[/b] to [b]attack[/b] « {0} ».\n
+ [b]Shock Lance:[/b] The closest « non-Weakened Rebel » within 2 spaces suffers 1 and becomes Weakened.\n
+ [b]Move 5[/b] {2}\n
+ [b]Move 5[/b] {2}"
+BONUS_DEWBACK_RIDER_1,"[b]Improved Shock Lance:[/b] When a Rebel suffers  from [b]Shock Lance[/b], it suffers 1 additional ."
+BONUS_DEWBACK_RIDER_2,"[b]Ram:[/b] The first time this figure enters a space adjacent to a Rebel, each Rebel adjacent to this figure suffers 1."
+BONUS_DEWBACK_RIDER_3,"[b]Gnaw:[/b] At the end of this activation, « the Rebel that has suffered the most  » within 2 spaces suffers 1. Then this figure recovers 1."
+SURGE_DEWBACK_RIDER_1,": Pierce 2\n: +1\n: +1"
+
+WEEQUAYS_SINGULAR,"Weequay Pirate"
+WEEQUAYS_PLURAL,"Weequay Pirates"
+WEEQUAYS_SECONDARY,"to [b]reposition 3[/b]."
+WEEQUAYS_INSTRUCTIONS,"Ignore the [b]Raider[/b] ability on this group’s card."
+WEEQUAYS_INSTRUCTIONS_ELITE,"Ignore the [b]Prowl[/b] and [b]Raider[/b] abilities on this group’s card."
+ACTION_WEEQUAYS,"• [b]Raider:[/b] While attacking, reroll each attack die not showing any  results. The defender must reroll each defense die showing a  result or 3 results.\n
+ [b]Move 3[/b] to [b]attack[/b] « {0} ».\n
+ [b]Move 2[/b] {2}\n
+ [b]Move 6[/b] {2}"
+ACTION_WEEQUAYS_AGGRESSIVE,"• [b]Raider:[/b] While attacking, reroll each attack die not showing any  results. The defender must reroll each defense die showing a  result or 3 results.\n
+ [b]Move 4[/b] to [b]attack[/b] « {0} ».\n
+ [b]Move 2[/b] {2}\n
+ [b]Move 6[/b] {2}"
+ACTION_WEEQUAYS_ELITE,"• [b]Raider:[/b] While attacking, reroll each attack die not showing any  results. The defender must reroll each defense die showing a  result or 3 results.\n
+ [b]Prowl:[/b] If this figure is not Hidden, it [b]moves 1[/b] {2} Then this figure becomes Hidden.\n
+ [b]Move 3[/b] to [b]attack[/b] « {0} ».\n
+ [b]Move 2[/b] {2}\n
+ [b]Move 6[/b] {2}"
+ACTION_WEEQUAYS_ELITE_AGGRESSIVE,"• [b]Raider:[/b] While attacking, reroll each attack die not showing any  results. The defender must reroll each defense die showing a  result or 3 results.\n
+ [b]Prowl:[/b] If this figure is not Hidden, it becomes Hidden.\n
+ [b]Move 4[/b] to [b]attack[/b] « {0} ».\n
+ [b]Move 2[/b] {2}\n
+ [b]Move 6[/b] {2}"
+BONUS_WEEQUAYS_REG_1,"Gain Pierce 1."
+BONUS_WEEQUAYS_REG_2,"[b]Lurk:[/b] At the end of this figure's activation, this figure becomes Hidden."
+BONUS_WEEQUAYS_ELITE_1,"[b]Seek Vulnerability:[/b] When this figure attacks, it gains Pierce 1. If there is a black die in the defense pool, it gains Pierce 2 instead."
+SURGE_WEEQUAYS_1,": +1 Accuracy\n: +1"
+SURGE_WEEQUAYS_ELITE_1,": +2 Accuracy\n: +2\n: Pierce 1"
+
+GAMORREAN_SINGULAR,"Gamorrean Guard"
+GAMORREAN_PLURAL,"Gamorrean Guards"
+GAMORREAN_SECONDARY,"to [b]reposition 2[/b]."
+GAMORREAN_INSTRUCTIONS,"Ignore the [b]Gamorrean Honor[/b] and [b]Labored Attack[/b] abilities on this group’s card."
+GAMORREAN_INSTRUCTIONS_ELITE,"Ignore the [b]Professional[/b] ability on this group’s card."
+ACTION_GAMORREAN,"• [b]Labored Attack:[/b] While attacking, reroll each red die showing only a single  result. After attacking, suffer 1 for each rerolled die.\n
+ [b]Move 3[/b] to [b]attack[/b] « {0} ».\n
+ [b]Move 2[/b] {2}\n
+ [b]Move 6[/b] {2}"
+ACTION_GAMORREAN_ELITE,"• [b]Professional:[/b] While attacking, reroll each red die showing only a single  result.\n
+ [b]Move 4[/b] to [b]attack[/b] « {0} ».\n
+ [b]Move 2[/b] {2}\n
+ [b]Move 6[/b] {2}"
+BONUS_GAMORREAN_1,"[b]Gamorrean Honor:[/b] At the start of this group's activation, each of its figures that is not adjacent to a Rebel\nrecovers 1."
+BONUS_GAMORREAN_2,"[b]Stagger:[/b] After this figure attacks, the defender suffers 1 for each  rolled."
+BONUS_GAMORREAN_ELITE_1,"[b]Knockdown:[/b] After this figure attacks a Rebel, if the defender suffered at least 3, that Rebel tests . If it fails, it becomes Stunned."
+SURGE_GAMORREAN_1,": Cleave 1"
+SURGE_GAMORREAN_ELITE_1,": Cleave 2"
+
+RANCOR_SINGULAR,"Rancor"
+RANCOR_PLURAL,"Rancors"
+RANCOR_SECONDARY,"to [b]reposition 2[/b]."
+RANCOR_INSTRUCTIONS,"Ignore the [b]Throw[/b] and [b]Feed[/b] abilities on this group’s card."
+ACTION_RANCOR," [b]Move 4[/b] to [b]engage[/b] as many Rebels as possible (minimum 2). Then [b]attack[/b] 
+« {0} ».\n
+ [b]Move 4[/b] to [b]attack[/b] « {0} ».\n
+ [b]Move 2[/b] {2}\n
+ [b]Move 6[/b] {2}\n
+• [b]Feed:[/b] If this figure has suffered at least 5, defeat the Imperial figure with figure cost 5 or less within 2 spaces with the least Health remaining. Recover  equal to its remaining Health."
+ACTION_RANCOR_RAMPAGE," [b]Move 4[/b] to [b]engage[/b] as many Rebels as possible (minimum 1).\n
+ If this figure is not adjacent to a Rebel, it [b]moves 4[/b] toward « the closest Rebel ».\n
+ [b]Claw:[/b] [b]Attack[/b] « {0} ».\n
+• [b]Slash:[/b] If this figure performed [b]Claw[/b], attack « the closest Rebel » that has not been attacked using 1 red and 1 green die.\n
+• [b]Rampage:[/b] If this figure performed [b]Slash[/b], roll 1 red die. The other Imperial figure within 2 spaces with the most Health remaining suffers  equal to the  results.\n
+ [b]Move 4[/b] {2}\n
+ [b]Move 4[/b] {2}"
+BONUS_RANCOR_1,"[b]Chomp:[/b] At the end of this activation, « the Rebel that has suffered the least  » within 2 spaces of this figure suffers 2. Then this figure recovers 2."
+BONUS_RANCOR_2,"[b]Throw:[/b] After attacking a Rebel, if the defender suffered , push it 2 spaces away from this figure. Then, the defender suffers 2 and each other Rebel adjacent to it suffers 1. Limit once per activation."
+BONUS_RANCOR_3,"[b]Grab:[/b] At the end of this activation, the closest Rebel within 2 spaces of this figure tests [b]2[/b]. If it fails, it becomes Stunned and Bleeding."
+SURGE_RANCOR_1,": Cleave 2\n: +3"
+SURGE_RANCOR_2,": +3\n: Cleave 2"
+
+JABBA,"Jabba the Hutt"
+JABBA_SECONDARY,"to [b]reposition 5[/b]."
+JABBA_INSTRUCTIONS,"Ignore the [b]Bully[/b], [b]Execution Order[/b], [b]Financial Incentive[/b], [b]Plot[/b] and [b]Hutt Syndicate[/b] abilities on this group’s card."
+ACTION_JABBA,"• [b]Bully:[/b] « The closest Rebel » within 3 spaces suffers 3.\n
+ [b]Execution Order:[/b] The other Imperial figure with the highest figure cost that can attack [b]attacks[/b] « {0} ».\n
+ [b]Attack[/b] « the hero that has suffered the most  ».\n
+ If there is a Rebel within 3 spaces of this figure, [b]move 2[/b] {2}\n
+• If Salacious B. Crumb is in play, he [b]moves 4[/b] through as many spaces containing Rebels as possible (minimum 1). If he cannot enter any Rebel's space, he moves 4 toward « {0} » instead."
+BONUS_JABBA_1,"[b]Indentured Jester:[/b] At the start of this activation, if the Salacious B. Crumb companion is not on the map, place it in one of Jabba the Hutt's spaces. Otherwise, add 2 to Salacious B. Crumb's [b]move[/b] value during this activation."
+BONUS_JABBA_2,"[b]Financial Incentive:[/b] At the start of this activation, the « ready Imperial figure » with the highest figure cost recovers 2 and becomes Focused."
+SURGE_JABBA_1,"None"
+UGNAUGHT_SINGULAR,"Ugnaught Tinkerer"
+UGNAUGHT_PLURAL,"Ugnaught Tinkerers"
+UGNAUGHT_SECONDARY,"to [b]reposition 4[/b]."
+UGNAUGHT_INSTRUCTIONS,"Ignore the [b]Spot Weld[/b] and [b]Scrap Battalion[/b] abilities on this group's card.\n
+The Junk Droid uses this figure's surge priorities."
+UGNAUGHT_INSTRUCTIONS_ELITE,"Ignore the [b]Spot Weld[/b], [b]Overclock[/b], and [b]Scrap Battalion[/b] abilities on this group's card.\n
+The Junk Droid uses this figure's surge priorities."
+ACTION_UGNAUGHT," [b]Spot Weld:[/b] If the Junk Droid companion is on the map, it becomes Focused. Otherwise, place it in this figure's space.\n
+• The Junk Droid [b]moves 4[/b] to [b]attack[/b] « {0} ». \n
+• If the Junk Droid did not attack, it [b]moves 8[/b] toward « {0} ». \n
+ [b]Move 2[/b] to [b]attack[/b] « {0} ».\n
+ [b]Move 4[/b] {2}"
+ACTION_UGNAUGHT_ELITE,"• [b]Spot Weld:[/b] If the Junk Droid companion is on the map, it becomes Focused. Otherwise, place it in this figure's space.\n
+• The Junk Droid [b]moves 4[/b] to [b]attack[/b] « {0} ». \n
+• If the Junk Droid did not attack, it [b]moves 8[/b] toward « {0} ». \n
+ [b]Overclock:[/b] The Junk Droid [b]moves 1[/b] to [b]attack[/b] « {0} ». \n
+ [b]Move 2[/b] to [b]attack[/b] « {0} ».\n
+ [b]Move 3[/b] {2} \n
+ [b]Move 5[/b] {2}"
+BONUS_UGNAUGHT_1,"[b]Distraction Algorithm:[/b] This figure gains +3 Accuracy. The Junk Droid gains +1."
+BONUS_UGNAUGHT_2,"[b]Spark Algorithm:[/b] At the end of this activation, « the closest Rebel » within 2 spaces of the Junk Droid suffers 1."
+BONUS_UGNAUGHT_ELITE_1,"[b]Collision Algorithm:[/b] When the Junk Droid enters a space adjacent to a Rebel, that Rebel suffers 1. Limit once per Rebel."
+SURGE_UGNAUGHT_1,": Bleed\n: Pierce 1"
+SURGE_UGNAUGHT_2,": Pierce 1\n: Bleed"
+SURGE_UGNAUGHT_ELITE_1,": Bleed\n: Pierce 2"
+SURGE_UGNAUGHT_ELITE_2,": Pierce 2\n: Bleed"
+
+WING_GUARD_SINGULAR,"Wing Guard"
+WING_GUARD_PLURAL,"Wing Guards"
+WING_GUARD_SECONDARY,"to [b]reposition 3[/b]."
+WING_GUARD_INSTRUCTIONS,"Ignore the [b]Keep the Peace[/b] ability on this group's card."
+WING_GUARD_INSTRUCTIONS_ELITE,"Ignore the [b]Keep the Peace[/b] and [b]Squad Training[/b] abilities on this group's card."
+ACTION_WING_GUARD," [b]Move 3[/b] to [b]attack[/b] « {0} ».\n
+ [b]Keep the Peace (limit once per group):[/b] [b]Move 3[/b] to [b]engage[/b] « the hero who has suffered the least  ».\n
+       • If this figure performed the previous instruction, the engaged figure
+         suffers 2 plus 1 additional  for each defeated figure in this group.\n
+ [b]Move 2[/b] {2} \n
+ [b]Move 6[/b] {2}"
+ACTION_WING_GUARD_ELITE," [b]Move 3[/b] to [b]attack[/b] « {0} ».\n
+ [b]Keep the Peace (limit once per group):[/b] [b]Move 3[/b] to [b]engage[/b] « the hero who has suffered the least  ».\n
+       • If this figure performed the previous instruction, the engaged figure
+         suffers 2 plus 1 additional  for each defeated figure in this group.\n
+ [b]Move 2[/b] {2} \n
+ [b]Move 6[/b] {2}"
+BONUS_WING_GUARD_1,"Gain Pierce 1."
+BONUS_WING_GUARD_2,"[b]Reinforce:[/b] After this group’s activation, reinforce 1 defeated figure from this group as close as possible to another figure in this group."
+BONUS_WING_GUARD_ELITE_1,"[b]Squad Training:[/b] While attacking, gain Pierce 1. If the target has already been attacked during this group’s activation, gain Pierce 2 instead."
+SURGE_WING_GUARD_1,": +1\n: Recover 1"
+SURGE_WING_GUARD_2,": Recover 1\n: +1"
+SURGE_WING_GUARD_ELITE_1,": +2\n: Recover 2"
+SURGE_WING_GUARD_ELITE_2,": Recover 2\n: +2"
+
+ISB_INFILTRATOR_SINGULAR,"ISB Infiltrator"
+ISB_INFILTRATOR_PLURAL,"ISB Infiltrators"
+ISB_INFILTRATOR_SECONDARY,"to [b]reposition 3[/b]."
+ISB_INFILTRATOR_INSTRUCTIONS,"Ignore the [b]Coordinated Raid[/b] ability on this group's card."
+ISB_INFILTRATOR_INSTRUCTIONS_ELITE,"Ignore the [b]Coordinated Raid[/b] ability on this group's card."
+ACTION_ISB_INFILTRATOR,"• [b]Coordinated Raid:[/b] One figure in this group that can attack [b]attacks[/b] « {0} ». Limit once per group.\n
+ [b]Move 3[/b] to [b]attack[/b] « {0} ». \n
+ [b]Move 3[/b] {2} \n
+ [b]Move 5[/b] {2}"
+ACTION_ISB_INFILTRATOR_AGGRESSIVE,"• [b]Coordinated Raid:[/b] One figure in this group that can attack [b]attacks[/b] « {0} ». Limit once per group.\n
+ [b]Move 4[/b] to [b]attack[/b] « {0} ». \n
+ [b]Move 2[/b] {2} \n
+ [b]Move 6[/b] {2}"
+ACTION_ISB_INFILTRATOR_ELITE,"• [b]Coordinated Raid:[/b] One figure in this group that can attack [b]attacks[/b] « {0} ». Limit once per group.\n
+ [b]Move 3[/b] to [b]attack[/b] « {0} ». \n
+ [b]Move 3[/b] {2} \n
+ [b]Move 5[/b] {2} \n
+• If this figure did not attack, it becomes Hidden."
+ACTION_ISB_INFILTRATOR_ELITE_AGGRESSIVE,"• [b]Coordinated Raid:[/b] One figure in this group that can attack [b]attacks[/b] « {0} ». Limit once per group.\n
+ [b]Move 4[/b] to [b]attack[/b] « {0} ». \n
+ [b]Move 2[/b] {2} \n
+ [b]Move 6[/b] {2} \n
+• If this figure did not attack, it becomes Hidden."
+BONUS_ISB_INFILTRATOR_1,"[b]Close the Net:[/b] At the start of this group's activation, each of its Hidden figures [b]moves 2[/b] to [b]reposition 3[/b]. Each of its other figures becomes Hidden."
+BONUS_ISB_INFILTRATOR_2,"[b]Take Down:[/b] Gain +1. While attacking a target that has already been attacked during this group's activation, also gain +1."
+BONUS_ISB_INFILTRATOR_ELITE_1,"[b]Extreme Deterrent:[/b] After attacking, the 2 other Rebels closest to the target may test . Each Rebel that does not pass suffers 1."
+SURGE_ISB_INFILTRATOR_1,": +2 Accuracy\n: Hide\n: +1"
+SURGE_ISB_INFILTRATOR_2,": +2 Accuracy\n: +1\n: Hide"
+SURGE_ISB_INFILTRATOR_ELITE_1,": -1\n: +2\n: Pierce 1, Hide\n: Pierce 1, +2 Ac."
+
+AGENT_BLAISE,"Agent Blaise"
+AGENT_BLAISE_SECONDARY,"to [b]reposition 4[/b]."
+AGENT_BLAISE_INSTRUCTIONS,"Ignore the [b]Activate Agent[/b] and [b]Menace[/b] abilities on this group's card."
+ACTION_AGENT_BLAISE," [b]Move 3[/b] to [b]attack[/b] « {0} ». \n
+ [b]Move 3[/b] {2} \n
+ [b]Move 5[/b] {2} \n
+• [b]Interrogate:[/b] « The closest hero » tests . Each other hero suffers  equal to 2 minus the number of successes."
+ACTION_AGENT_BLAISE_AGGRESSIVE," [b]Move 3[/b] to [b]attack[/b] « {0} ». \n
+ [b]Move 3[/b] {2} \n
+ [b]Move 5[/b] {2} \n
+• [b]Menace:[/b] « The closest hero » tests . That hero suffers  equal to 3 minus the number of successes."
+BONUS_AGENT_BLAISE_1,"[b]Apprehend:[/b] At the start of this activation, « the hero within 2 spaces of the most Imperial figures » tests . If that hero rolls fewer successes than the number of those Imperial figures, he or she becomes Stunned."
+BONUS_AGENT_BLAISE_2,"[b]Activate Agent:[/b] At the start of this activation, reinforce a defeated Imperial figure as close as possible to another figure in that group. It becomes Hidden."
+BONUS_AGENT_BLAISE_3,"[b]In the Shadows:[/b] When this figure attacks, if it is Hidden, add 1 blue die to the attack pool. Otherwise, the attack gains +1."
+SURGE_AGENT_BLAISE_1,": +3 Accuracy\n: Pierce 2\n: +1\n: +1"
+SURGE_AGENT_BLAISE_2,": +3 Accuracy\n: +1\n: +1\n Pierce 2"
+
+BOSSK,"Bossk"
+BOSSK_SECONDARY,"to [b]reposition 3[/b]."
+BOSSK_INSTRUCTIONS,"Ignore the [b]Indiscriminate Fire[/b] ability on this group's card."
+ACTION_BOSSK," [b]Indiscriminate Fire:[/b] If there is at least 1 Rebel within 3 spaces, roll 1 red die. « The Rebel that has suffered the most  » within 3 spaces suffers  equal to the  results. Then each figure adjacent to that Rebel other than this figure suffers 1.\n
+ [b]Move 3[/b] to [b]attack[/b] « {0} ». \n
+ [b]Move 5[/b] to [b]attack[/b] « {0} ». \n
+ [b]Move 2[/b] to [b]reposition 3[/b]. \n
+ [b]Move 4[/b] to [b]reposition 3[/b]."
+BONUS_BOSSK_1,"[b]Expert Marksman:[/b] When this figure attacks, add 1 blue die to the attack pool."
+BONUS_BOSSK_2,"[b]Fight Through Pain:[/b] At the start of this activation, this figure discards Stunned and Bleeding. If this figure did not disard a condition, it recovers 2."
+BONUS_BOSSK_3,"[b]Autofire:[/b] When a Rebel suffers  from Indiscriminate Fire, it suffers 1 additional ."
+SURGE_BOSSK,": Pierce 2"
+DEATH_TROOPER_SINGULAR,"Death Trooper"
+DEATH_TROOPER_PLURAL,"Death Troopers"
+DEATH_TROOPER_SECONDARY,"to [b]reposition 3[/b]."
+DEATH_TROOPER_INSTRUCTIONS,"Ignore the [b]Full Detachment[/b] and [b]Tactical Comms[/b] abilities on this group's card."
+DEATH_TROOPER_INSTRUCTIONS_ELITE,"Ignore the [b]Squad Captain[/b] and [b]Tactical Comms[/b] abilities on this group's card."
+ACTION_DEATH_TROOPER," [b]Move 3[/b] to [b]attack[/b] « {0} ».\n
+ [b]Move 2[/b] {2}\n
+ [b]Move 6[/b] {2}\n
+• [b]Tactical Comms:[/b] The highest figure cost Imperial figure without Focused becomes Focused."
+ACTION_DEATH_TROOPER_AGGRESSIVE," [b]Move 4[/b] to [b]attack[/b] « {0} ».\n
+ [b]Move 2[/b] {2}\n
+ [b]Move 6[/b] {2}\n
+• [b]Tactical Comms:[/b] The highest figure cost Imperial figure without Focused becomes Focused."
+ACTION_DEATH_TROOPER_ELITE," [b]Move 3[/b] to [b]attack[/b] « {0} ».\n
+ [b]Move 2[/b] {2}\n
+ [b]Move 6[/b] {2}\n
+• [b]Squad Captain:[/b] The highest figure cost Imperial figure without Focused becomes Focused and gains 1."
+ACTION_DEATH_TROOPER_ELITE_AGGRESSIVE," [b]Move 4[/b] to [b]attack[/b] « {0} ».\n
+ [b]Move 2[/b] {2}\n
+ [b]Move 6[/b] {2}\n
+• [b]Squad Captain:[/b] The highest figure cost Imperial figure without Focused becomes Focused and gains 1."
+BONUS_DEATH_TROOPER_1,"[b]Security Detail:[/b] At the start of this activation, the highest figure cost Imperial figure that does not already have a  gains 1."
+BONUS_DEATH_TROOPER_2,"Gain +1."
+BONUS_DEATH_TROOPER_3,"[b]Sonic Imploder:[/b] After this figure’s activation, each Rebel within 3 spaces may test . Each Rebel that does not pass becomes Weakened."
+SURGE_DEATH_TROOPER,": +2 Ac., Pierce 1\n: +1"
+SURGE_DEATH_TROOPER_ELITE,": +2\n: +2 Ac., Pierce 1"
+
+LOTH_CAT_SINGULAR,"Loth-cat"
+LOTH_CAT_PLURAL,"Loth-cats"
+LOTH_CAT_SECONDARY,"to [b]reposition 3[/b]."
+LOTH_CAT_INSTRUCTIONS,"Ignore the [b]Rat Catcher[/b] ability on this group's card."
+LOTH_CAT_INSTRUCTIONS_ELITE,"Ignore the [b]Fresh Catch[/b] ability on this group's card."
+ACTION_LOTH_CAT," [b]Pounce:[/b] Place this figure in an empty space within 6 spaces and adjacent to « {0} ». Then [b]attack[/b] « {0} ».\n
+ [b]Move 2[/b] {2}\n
+ [b]Move 6[/b] {2}\n
+• [b]Rat Catcher:[/b] This figure gains 1."
+ACTION_LOTH_CAT_ELITE," [b]Pounce:[/b] Place this figure in an empty space within 6 spaces and adjacent to « {0} ». Then [b]attack[/b] « {0} ».\n
+ [b]Move 3[/b] {2}\n
+ [b]Move 7[/b] {2}\n
+• [b]Fresh Catch:[/b] This figure gains 1 and 1."
+BONUS_LOTH_CAT_1,"This figure's attacks gain Recover 2."
+BONUS_LOTH_CAT_2,"This group gains : Weaken. (Add this to the top of its surge priority list)."
+BONUS_LOTH_CAT_REGULAR,"[b]Scaredy-cat:[/b] After this figure's activation, the closest Rebel may test . If it does not pass, this figure [b]moves 6[/b] to [b]reposition 6[/b] and gains 1."
+SURGE_LOTH_CAT,": +1"
+SURGE_LOTH_CAT_ELITE,": +2"
+
+THRAWN_SINGULAR,"Thrawn"
+THRAWN_SECONDARY,"to [b]reposition 3[/b]."
+THRAWN_INSTRUCTIONS,"Ignore the [b]Prediction[/b] and [b]Patience[/b] abilities on this group's card."
+ACTION_THRAWN," [b]Move 3[/b] to [b]attack[/b] « {0} ».\n
+ [b]Move 3[/b] toward the closest other Imperial figure.\n
+• [b]Patience:[/b] This figure and the other highest figure cost Imperial figure within X spaces gains 1 and 1. X is equal to the number of exhausted Rebel activation tokens.\n
+ [b]Move 5[/b] {2}"
+BONUS_THRAWN_1,"[b]Observe Weakness:[/b] At the start of this activation, each hero suffers 1 for each of his or her exhausted activation tokens."
+SURGE_THRAWN,": +3\n: Pierce 1"
+
+HONDO_SINGULAR,"Hondo Ohnaka"
+HONDO_SECONDARY,"to [b]reposition 3[/b]."
+HONDO_INSTRUCTIONS,"Ignore the [b]Negotiate[/b] and [b]Ulterior Motive[/b] abilities on this group's card."
+ACTION_HONDO,"• [b]Negotiate:[/b] Any hero may discard a Supply card to discard Focused from this figure.\n
+ [b]Move 3[/b] to [b]attack[/b] « {0} ».\n
+ [b]Move 3[/b] {2}\n
+ [b]Move 7[/b] {2}\n"
+BONUS_HONDO_1,"[b]Ulterior Motive:[/b] At the start of this activation, if there is a crate on the map or if a hero has a Supply card, this figure becomes Focused."
+BONUS_HONDO_2,"[b]Double or Nothing:[/b] At the start of this activation, if this figure has suffered any , it recovers 2. Otherwise, it becomes Focused."
+SURGE_HONDO,": +2 Accuracy\n: +1"
+AHSOKA_TANO,"Ahsoka Tano"
+ALLIANCE_RANGER,"Alliance Rangers"
+ALLIANCE_SMUGGLER,"Alliance Smuggler"
+C3PO,"C-3PO"
+CHEWBACCA,"Chewbacca"
+CHOPPER,"C1-10P"
+ECHO_BASE_TROOPER,"Echo Base Troopers"
+HAN_SOLO,"Han Solo"
+HERA_SYNDULLA,"Hera Syndulla"
+LANDO_CALRISSIAN,"Lando Calrissian"
+LEIA_ORGANA,"Leia Organa"
+LUKE_SKYWALKER,"Luke Skywalker (Hero of the Rebellion)"
+LUKE_SKYWALKER_JEDI_KNIGHT,"Luke Skywalker (Jedi Knight)"
+OBI-WAN_KENOBI,"Obi-Wan Kenobi"
+R2D2,"R2-D2"
+REBEL_SABOTEUR_PLURAL,"Rebel Saboteurs"
+REBEL_SABOTEUR_SINGULAR,"Rebel Saboteur"
+REBEL_TROOPER_PLURAL,"Rebel Troopers"
+REBEL_TROOPER_SINGULAR,"Rebel Trooper"
+WOOKIEE_WARRIOR_PLURAL,"Wookiee Warriors"
+WOOKIEE_WARRIOR_SINGULAR,"Wookiee Warrior"
+EZRA_BRIDGER,"Ezra Bridger"
+KANAN_JARRUS,"Kanan Jarrus"
+SABINE_WREN,"Sabine Wren"
+ZEB_ORRELIOS,"Zeb Orrelios"
+TARGET_1,"the closest Rebel"
+TARGET_2,"the closest healthy hero"
+TARGET_3,"the closest hero with a  weapon equipped"
+TARGET_4,"the hero with the most [i]Harmful[/i] conditions"
+TARGET_5,"the Rebel with the highest total Health"
+TARGET_6,"the Rebel that has suffered the least "
+TARGET_7,"the Rebel that has suffered the most "
+TARGET_8,"the closest hero with a  weapon equipped"
+TARGET_9,"the hero with the highest Speed"
+TARGET_10,"the healthy hero with the lowest Speed"
+TARGET_11,"the hero adjacent to the most other heroes"
+TARGET_12,"the healthy hero who has suffered the most "
+TARGET_13,"the healthy hero with the highest Endurance"
+TARGET_14,"the healthy hero with the lowest Endurance"
+TARGET_15,"the healthy hero with the most  dice"
+TARGET_16,"the healthy hero with the most  dice"
+TARGET_17,"the healthy hero with the most  dice"
+TARGET_18,"the hero with the fewest [i]Harmful[/i] conditions"
+TARGET_19,"the closest non-Stunned Rebel"
+TARGET_20,"the closest non-Bleeding Rebel"
+TARGET_24,"the healthy hero who has suffered the most "
+TARGET_25,"the healthy hero who has suffered the least "
+TARGET_26,"the closest exhausted Rebel"
+TARGET_27,"the healthy hero with the fewest  dice"
+TARGET_28,"the closest non-Weakened Rebel"
+TARGET_29,"the healthy hero with the fewest  dice"
+TARGET_30,"the healthy hero with the fewest  dice"
+TARGET_31,"the healthy hero with the most Item cards"
+TARGET_32,"the closest healthy hero with a white defense die"
+TARGET_33,"the closest healthy hero with a black defense die"
+
+TARGET_A,"the healthy Rebel that has suffered the least "
+TARGET_B,"the closest healthy Rebel"
+ADD_ACTION," {0}"
+DOOR_LOCKED,"This door is locked."
+DOOR_UNLOCKED,"A Rebel can interact with this door to open it."
+CRATE_INSTRUCTIONS,"A hero can interact with this crate to open it."
+CRATE_PLACE,"Place 1 crate."
+TERMINAL_PLACE,"Place 1 terminal."
+EMPTY,""
+EMPTY_SPACE," "
+IGNORE_HER,"Ignore her."
+IGNORE_HIM,"Ignore him."
+TEST_TECH,"Test "
+TEST_INSIGHT,"Test "
+TEST_STRENGTH,"Test "
+HERO_TEST_TECH,"{0} tests "
+HERO_TEST_INSIGHT,"{0} tests "
+HERO_TEST_STRENGTH,"{0} tests "
+SURVIVOR_MESSAGE,"{0}"
+BOUNTY_HUNTER_UNLOCK,"\n\n(Additional bounty hunters can be unlocked by enabling the associated villain pack in the collection manager.)"
+CRATE_FLAVOR_GENERIC,"[i]You find some useful supplies in the crate.[/i]\n\n"
+CRATE_DRAW_SUPPLY_1,"Draw 1 Supply card. "
+CRATE_DRAW_SUPPLY_2,"Draw 2 Supply cards. "
+CRATE_MED_PACK_1,"You gained 1 medpac. "
+CRATE_MED_PACK_2,"You gained 2 medpacs. "
+CRATE_CREDITS_25,"You gained 25 credits. "
+CRATE_CREDITS_50,"You gained 50 credits. "
+CRATE_MESSAGE,"{0}{1}{2}{3}"
+
+M_TEST_FAME_RATIO,"[b]DEBUG:[/b] Fame-based threat level: {0}, Campaign threat level: {1}, New threat total: {2}\nMission fame: {3}"
+
+TESTING_SKIP_TUTORIAL,"[b]Testers:[/b] Do you want to skip this tutorial?"
