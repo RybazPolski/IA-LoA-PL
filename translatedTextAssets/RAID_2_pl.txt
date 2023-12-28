@@ -1,0 +1,87 @@
+KEY,"English"
+
+RAID_2_PROLOGUE,"[i]You are on a routine surveillance mission of a high-level Imperial officer when you discover a tremendous opportunity. Your mark has visited the same cantina several days in a row, and he's not the only Imperial officer frequenting the place.
+
+You send a report to your contact at High Command and propose an operation to raid the cantina for intel. A few hours later, you receive a transfer of credits and a one-word response: ""Go.""[/i]
+
+
+Each hero starts with a 1, 2, 3, and 4XP Class card. Assign these on the training screen and spend your credits at the armory before beginning this raid."
+
+
+
+
+
+R_02_NAME,"The Gray Cap Cantina"
+R_02_DESC,"[i]The Gray Cap cantina is a popular hangout for off-duty Imperial officers. Your mission is to take as much intel off the Imperials as possible.[/i]\n\nEach hero starts with a 1, 2, 3, and 4XP Class card. Assign these on the training screen and spend your credits at the armory before beginning this raid."
+
+RAID_2_EPILOGUE_DEFEAT,"You died."
+RAID_2_EPILOGUE_VICTORY,"You survived."
+R_02_PLACE_TILES,"[i]You surveilled the cantina ahead of the raid to become familiar with its layout.[/i]\n\nPlace tiles 01B, 02B, 04B, 05B, 08B, 16B (3),\n18B (8), 01B, 03B, 21B, and 36B."
+R_02_PLACE_OBJECTIVES,"[i]You locate 12 Imperial officers of sufficient rank to be carrying useful intel.[/i]\n\nPlace 3 blue, 3 green, 3 red, and 3 yellow mission tokens.\n\nSee the rules for mission tokens at the bottom of the screen."
+R_02_PLACE_CRATES,"[i]A handful of crates stands out as potentially containing useful supplies.[/i]\n\nPlace 4 crates."
+R_02_PLACE_STORMIES,"[i]A squad of stormtroopers guards the side entrance to the cantina.[/i]\n\nDeploy Stormtroopers (Elite)."
+R_02_RANDOM_SPAWN_INITIAL,"[i]You identify several more potential threats in the area.[/i]"
+R_02_DEPLOY,"[i]You bring your airspeeder in for a landing on the cantina's delivery dock.\n\n""You can't park that here,"" one of the stormtroopers says as he approaches your vehicle. He trails off when you exit the speeder, weapons drawn.[/i]\n\nDeploy the Rebels.{0}{1}"
+R_02_FOCUS,"\n\nFocus 1 hero."
+R_02_GAINED_MEDPAC,"\n\nYou gained 1 medpac."
+R_02_OBJECTIVE_MSG,"[i]Your best guess is that you have six minutes to gather intel before the Imperials can deploy an overwhelming force to the cantina. You need to acquire as much intel as you can from the officers in that time.[/i]\n\n Objective Updated \n\n{0}"
+R_02_OBJECTIVE,"Defeat as many Imperial groups and gather as much intel as possible in 6 rounds."
+R_02_HERO_DEFEATED,"[i]As you collapse to the ground from your injuries, you drop several code cylinders you had collected and they roll out of your reach.[/i]\n\nYou lost {0} fame."
+R_02_MISSION_VICTORY,"[i]When the [/i]Sentinel[i]-class landing craft appears in the distance, you know it's time to leave. You retreat to your speeder and make a quick getaway, easily losing the pursuing ship in the city's heavy traffic.[/i]"
+R_02_MISSION_DEFEAT,"[i]Having lost your will to fight, you retreat to your speeder and make a hasty exit. You hope you have gathered enough intel to be worth the injuries your team took.[/i]\n\nYou lost {0} fame."
+R_02_ROUND_1,"[i]Your comlink intercepts a signal from local security. The first wave of reinforcements are on their way and will arrive shortly.[/i]\n\nReinforcements will arrive after the next round."
+R_02_ROUND_3_VILLAIN,"[i]An infamous figure appears near the front entrance of the cantina. This was not something you had anticipated in your planning.[/i]"
+R_02_ROUND_4_VEHICLE,"[i]The sound of a massive vehicle approaching draws your attention.[/i]"
+R_02_REINFORCEMENTS,"[i]More enemy forces arrive on the scene.[/i]"
+R_02_ROUND_5_WARNING,"[i]Your comlink intercepts another signal. A [/i]Sentinel[i]-class landing craft carrying several dozen stormtroopers is en route to your location. You have one minute to finish what you are doing before you will have to withdraw.[/i]\n\nThe mission will end after 1 more round."
+R_02_OBJECTIVE_ANY,"[i]This frightened officer appears ready to capitulate to any threat.[/i]\n\nA hero can interact with this token to acquire\nthe officer's intel. , , or  increases fame."
+R_02_OBJECTIVE_ANY_TEST,"[i]You approach the officer.[/i]\n\nTest , , or ."
+R_02_OBJECTIVE_ANY_PASS,"[i]The officer willingly hands over his code cylinders and some data chips.[/i]\n\nYou gained {0} fame.\n\nDiscard this token."
+R_02_OBJECTIVE_ANY_FAIL,"[i]You take the officer's code cylinders, but get nothing else from him.[/i]\n\nYou gained {0} fame.\n\nDiscard this token."
+
+R_02_OBJECTIVE_STR,"[i]This Imperial officer cowers in a corner. He is likely susceptible to intimidation.[/i]\n\nA hero can interact with this token to acquire\nthe officer's intel.  increases fame."
+R_02_OBJECTIVE_STR_TEST,"[i]You try to intimidate the officer.[/i]\n\nTest ."
+R_02_OBJECTIVE_STR_PASS,"[i]The officer willingly hands over his code cylinders and some data chips.[/i]\n\nYou gained {0} fame.\n\nDiscard this token."
+R_02_OBJECTIVE_STR_FAIL,"[i]You take the officer's code cylinders, but get nothing else from him.[/i]\n\nYou gained {0} fame.\n\nDiscard this token."
+
+R_02_OBJECTIVE_INS,"[i]This Imperial officer has taken cover, but still seems to have his wits about him. He might be convinced to surrender any valuables in exchange for his safety.[/i]\n\nA hero can interact with this token to acquire\nthe officer's intel.  increases fame."
+R_02_OBJECTIVE_INS_TEST,"[i]You try to negotiate with the officer.[/i]\n\nTest ."
+R_02_OBJECTIVE_INS_PASS,"[i]The officer willingly hands over his code cylinders and some data chips before you motion for him to leave the area.[/i]\n\nYou gained {0} fame.\n\nDiscard this token."
+R_02_OBJECTIVE_INS_FAIL,"[i]The officer throws his code cylinders at your head as he takes off running.[/i]\n\nYou gained {0} fame.\n\nDiscard this token."
+
+R_02_OBJECTIVE_TECH,"[i]Someone has left a locked case behind here. You might want to crack it open to make sure it contains something of value.[/i]\n\nA hero can interact with this token to acquire the intel.\n increases fame."
+R_02_OBJECTIVE_TECH_TEST,"[i]You try to unlock the case.[/i]\n\nTest ."
+R_02_OBJECTIVE_TECH_PASS,"[i]You crack the lock and find code cylinders and some data chips inside.[/i]\n\nYou gained {0} fame.\n\nDiscard this token."
+R_02_OBJECTIVE_TECH_FAIL,"[i]You aren't able to open the case, but you take it with you so you can try to open it later.[/i]\n\nYou gained {0} fame.\n\nDiscard this token."
+
+R_02_CRATE_ARMOR,"[i]A security officer has left their armor and other equipment laying in a pile on this crate.[/i]\n\nA hero can interact with this crate to open it."
+R_02_CRATE_ARMOR_OPEN,"[i]You don the armor and collect the other gear.[/i]\n\nGain the Laminate Armor (Tier III) from the item deck.\n\nDraw 1 supply card."
+R_02_CRATE_MEDPACS,"[i]Some emergency medpacs are stashed beneath the seats at this table.[/i]\n\nA hero can interact with this crate to open it."
+R_02_CRATE_MEDPACS_OPEN,"[i]You collect the supplies.[/i]\n\nDraw 1 supply card.\n\nYou gained 2 medpacs.\n\nDiscard this token."
+R_02_CRATE_SHIELDS,"[i]The shielding unit for this heating element could serve as impromptu protection.[/i]\n\nA hero can interact with this crate to open it."
+R_02_CRATE_SHIELDS_OPEN,"[i]You disconnect the shield from the heater. While you're digging around, you find a couple of other useful items.[/i]\n\nGain the Personal Shields (Tier III) from the item deck.\n\nDraw 2 supply cards.\n\nDiscard this token."
+R_02_CRATE_HELMET,"[i]The desk in the cantina's back office has a speeder bike helmet and an emergency medpac.[/i]\n\nA hero can interact with this crate to open it."
+R_02_CRATE_HELMET_OPEN,"[i]You grab the medpac and plop the helmet onto your head. It's a bit snug.[/i]\n\nGain the Reinforced Helmet (Tier III) from the item deck.\n\nYou gained 1 medpac.\n\nDiscard this token."
+RAID_2_RULE,"Mission tokens are officers. A hero can interact with an officer to acquire its intel.
+-----------------------------------------------------
+Gathering intel requires a test, based on the intel's color, that increases fame earned:
+• Red:      
+• Blue:     
+• Yellow:  
+• Green:  Any"
+RAID_1_STATS,"Total Fame: {0}
+---------------------------------------------------------
+Objectives
+Base: {1}           Bonus: {2}\n
+Fame from Enemies: {3}\n
+Penalties from Defeated Heroes: {4}"
+RAID_1_HEALTH_REMAINING,"PLAYTESTERS ONLY\n\nIf healthy, how much Health does {0} have left?"
+RAID_1_HEALTH_REMAINING_2,"PLAYTESTERS ONLY\n\nIf wounded, how much  has {0} SUFFERED?"
+RAID_1_HEALTH_1,"0–5"
+RAID_1_HEALTH_2,"6–10"
+RAID_1_HEALTH_3,"11–15"
+RAID_1_HEALTH_4,"16+"
+RAID_1_HEALTH_WOUNDED,"The hero was wounded."
+RAID_1_HEALTH_WITHDRAWN,"The hero was withdrawn."
+
+RAID_1_SURVIVAL,"Survival Score: {0}"
