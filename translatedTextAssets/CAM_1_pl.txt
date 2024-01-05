@@ -4,7 +4,7 @@ M_01_DESC,"[i]Sojusz Rebelii stara się ewakuować swoją bazę na Yavinie 4, za
 M_01_MINOR_PERIL_1,"[b]Małe niebezpieczeństwo[/b]\n\n[i]Stres związany z bitwą zaczyna dawać Wam się we znaki.[/i]\n\nKażdy bohater musi wykonać test . Każdy bohater, który nie zda testu otrzymuje 1."
 M_01_MINOR_PERIL_2,"[b]Małe niebezpieczeństwo[/b]\n\n[i]Przytłaczający upał w dżungli pozbawia Cię sił.[/i]\n\nKażdy bohater musi wykonać test . Każdy bohater, który nie zda testu otrzymuje 1."
 M_01_MAJOR_PERIL_1,"[b]Duże niebezpieczeństwo[/b]\n\n[i]Granat odłamkowy ląduje na polu na którym stoi {0} i eksploduje.[/i]\n\nRzuć 1 czerwoną kością. Każda figurka na lub obok pola na którym stoi {0} otrzymuje  równy  wynikowi."
-M_01_MAJOR_PERIL_2,"[b]Duże niebezpieczeństwo[/b]\n\n[i]Granat uderzeniowy ląduje na na którym stoi {0} i eksploduje..[/i]\n\nRzuć 1 żółtą kością. Każda figurka na lub obok pola na którym stoi {0} otrzymuje  równy  wynikowi i zostaje Ogłuszona."
+M_01_MAJOR_PERIL_2,"[b]Duże niebezpieczeństwo[/b]\n\n[i]Granat uderzeniowy ląduje na na którym stoi {0} i eksploduje.[/i]\n\nRzuć 1 żółtą kością. Każda figurka na lub obok pola na którym stoi {0} otrzymuje  równy  wynikowi i zostaje Ogłuszona."
 M_01_CRATE,"[i]Tę skrzynię z zapasami pozostawiono w pośpiechu w związku z ewakuacją. Być może zawiera coś przydatnego.[/i]\n\nBohater może wejść w interakcję z tą skrzynią, aby ją otworzyć."
 M_01_DOOR_1,"[i]Te drzwi prowadzą do bazy Rebeliantów. Musisz upewnić się, że siły Imperium nie będą w stanie się przez nie przedrzeć.[/i]\n\n{0}"
 M_01_DOOR_2,"[i]Te drzwi prowadzą głębiej do wnętrza bazy. Trzymajcie siły imperialne z daleka od nich tak długo, jak możecie.[/i]\n\n{0}"
