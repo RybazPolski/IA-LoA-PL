@@ -1,5 +1,5 @@
-KEY,"English"
-M_01_NAME,"Under Assault"
+KEY,"Polish"
+M_01_NAME,"Pod Oblężeniem"
 M_01_DESC,"[i]Sojusz Rebelii stara się ewakuować swoją bazę na Yavinie 4, zanim Imperium będzie mogło wysłać posiłki po zniszczeniu Gwiazdy Śmierci. Czy uda Wam się ujść z życiem[/i]"
 M_01_MINOR_PERIL_1,"[b]Małe niebezpieczeństwo[/b]\n\n[i]Stres związany z bitwą zaczyna dawać Wam się we znaki.[/i]\n\nKażdy bohater musi wykonać test . Każdy bohater, który nie zda testu otrzymuje 1."
 M_01_MINOR_PERIL_2,"[b]Małe niebezpieczeństwo[/b]\n\n[i]Przytłaczający upał w dżungli pozbawia Cię sił.[/i]\n\nKażdy bohater musi wykonać test . Każdy bohater, który nie zda testu otrzymuje 1."
